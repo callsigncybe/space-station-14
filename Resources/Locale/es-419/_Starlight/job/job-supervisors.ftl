@@ -1,0 +1,13 @@
+job-supervisors-assistantmanager = el Subgerente y absolutamente todos los demás
+job-supervisors-command = el Mando
+job-supervisors-magistrate = el Magistrado
+job-supervisors-nanotrasen = NanoTrasen
+job-supervisors-nt-personnel = el Representante de NanoTrasen y el Magistrado
+job-supervisors-prisoner = los Oficiales penitenciarios, el Vicegobernador y el Gobernador
+job-supervisors-service-arts = el Payaso, el Mimo, los Músicos y el Jefe de Personal
+job-supervisors-solgov = la Federación Transolar
+job-supervisors-station-ai = la IA de la Estación
+job-supervisors-warden = el Alcaide
+job-supervisors-none = Nadie
+job-supervisors-itg = El Líder de salvamento
+job-supervisors-guild = El Gremio de Comercio Interestelar

@@ -1,0 +1,39 @@
+objective-picker-window-title = Elegir objetivos
+objective-picker-window-select-tip = {$selected}/{$max} seleccionados
+objective-picker-window-time-left = Tiempo restante para elegir: {$time}
+objective-picker-window-submit = Confirmar
+objective-picker-window-random = Aleatorio
+objective-picker-window-clear = Limpiar
+objective-picker-button = Elegir objetivos...
+
+objective-picker-window-difficulty-tip = Dificultad seleccionada: {$selected}. Elige al menos {$minimum}; puedes elegir más.
+objective-picker-option = {$title}
+objective-picker-option-unavailable = No disponible: se alcanzó su límite o ya no cumples sus requisitos.
+objective-picker-option-conflict = Incompatible con un objetivo que seleccionaste.
+objective-picker-window-mulligan = Mulligan
+objective-picker-window-mulligan-used = Mulligan usado
+objective-picker-window-mulligan-tip = Selecciona exactamente un objetivo para conservarlo y vuelve a sortear todas las demás opciones. Puedes hacerlo una sola vez.
+objective-picker-mulligan-success = Se conservó tu objetivo seleccionado y se volvieron a sortear las demás opciones.
+objective-picker-mulligan-rejected = No se pudieron volver a sortear estas opciones. Tu mulligan no se gastó.
+objective-picker-selection-rejected = No se pudo confirmar tu selección. Revisa la disponibilidad y la dificultad, y vuelve a intentarlo.
+objective-picker-window-auto-selecting = Esperando la selección automática…
+objective-picker-hidden-kill = Elimina a una persona.
+objective-picker-hidden-kill-head = Elimina a una persona de alto valor.
+objective-picker-hidden-lesson = Dale una lección a una persona.
+objective-picker-hidden-lesson-head = Dale una lección a una persona de alto valor.
+objective-picker-hidden-target-description = Tu objetivo se asignará y revelará después de que confirmes tus objetivos.
+objective-condition-department-id-title = Roba {$count} IDs de {$department}.
+objective-condition-department-id-description = Conserva en tu poder las IDs de los tripulantes indicados. Tu propia ID y las tarjetas en blanco no cuentan.
+
+objective-picker-column-objective = Objetivo
+objective-picker-column-difficulty = Dificultad
+objective-picker-additional-button = Elegir más objetivos...
+objective-picker-additional-rejected = Todavía no hay objetivos adicionales disponibles, o no quedan objetivos compatibles.
+objective-picker-window-optional-tip = Los objetivos son opcionales. Selecciona los que quieras, o confirma sin seleccionar ninguno.
+objectives-round-end-difficulty = Dificultad seleccionada: {$selected}. Dificultad completada: {$completed} ({$percentage}%).
+objective-picker-difficulty-value = {$difficulty}
+
+objective-picker-hidden-help-progress = Ayuda a otro traitor a cumplir sus objetivos.
+objective-picker-hidden-help-alive = Mantén con vida a otro traitor.
+objective-picker-under-budget-tip = Las opciones restantes no alcanzan la dificultad requerida. Puedes confirmar una selección menor.
+objective-condition-escape-identity-eliminate-title = Escapa con vida y sin ataduras disfrazado de {$targetName}, {CAPITALIZE($job)}, e impide que llegue a CentComm.

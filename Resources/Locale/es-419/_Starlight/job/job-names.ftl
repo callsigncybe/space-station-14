@@ -1,0 +1,32 @@
+job-name-assistant = Asistente
+job-name-stirstir = Stir Stir
+job-name-cook-assistant = Ayudante de cocina
+job-name-delivery-assistant = Repartidor
+job-name-handyman-assistant = Ayudante de mantenimiento
+job-name-religious-assistant = Asistente religioso
+job-name-shopkeeper-assistant = Tendero
+job-name-medical-assistant = Asistente médico
+job-name-gardener-assistant = Ayudante de jardinería
+job-name-clerical-assistant = Asistente administrativo
+job-name-janitor-assistant = Ayudante de conserjería
+
+# Role timers - Apparently someone from upstream will cut us if these aren't alphabetical?
+JobBlueShield = Oficial BlueShield
+JobBoxer = Boxeador
+JobDutyOfficer = Oficial de guardia
+JobIAA = Agente de Asuntos Internos
+JobK9 = K9 de Seguridad
+JobMagistrate = Magistrado
+JobMailTech = Técnico de correo
+JobMiningSpecialist = Especialista en minería
+JobNanotrasenCareerTrainer = Instructor de carrera de NanoTrasen
+JobNanoTrasenRepresentative = Representante de NanoTrasen
+JobPerformer = Artista
+JobRoboticist = Robotista
+JobSalvageLead = Líder de salvamento
+JobSurgeon = Cirujano
+JobZookeeper = Cuidador del zoológico
+JobCentCommServiceWorker = Trabajador de servicio de CentComm
+JobCentCommChef = Chef de CentComm
+JobCentCommBartender = Bartender de CentComm
+JobCentCommJanitor = Conserje de CentComm

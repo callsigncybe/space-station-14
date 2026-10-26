@@ -1,0 +1,26 @@
+# Tactical planning console
+tactical-planning-console-title = Consola de planificación táctica
+tactical-planning-console-active-tool = HERRAMIENTA ACTIVA
+tactical-planning-console-draw-tool = Dibujar
+tactical-planning-console-erase-tool = Borrar
+tactical-planning-console-icons-tool = Íconos
+tactical-planning-console-ink-color = COLOR DE TINTA
+tactical-planning-console-current-ink = Tinta actual
+tactical-planning-console-red = Rojo
+tactical-planning-console-blue = Azul
+tactical-planning-console-yellow = Amarillo
+tactical-planning-console-violet = Violeta
+tactical-planning-console-custom-color = COLOR PERSONALIZADO
+tactical-planning-console-connecting = Conectando al plan compartido...
+tactical-planning-console-sync-failed = No se pudo sincronizar el plan. Cierra y vuelve a abrir la consola.
+tactical-planning-console-waiting-for-target = Esperando el objetivo de la Estación
+tactical-planning-console-initial-count = 0 anotaciones compartidas
+tactical-planning-console-count = {$count} anotaciones compartidas
+tactical-planning-console-count-full = {$count} anotaciones compartidas — plan lleno
+tactical-planning-console-reset = Reiniciar todo el plan
+tactical-planning-console-reset-confirm = Confirmar: ¿borrar todos los dibujos?
+tactical-planning-console-footer = Clic izquierdo: mover/inspeccionar  •  Clic derecho: punto/dibujar  •  Rueda: zoom  •  Los dibujos muestran su autor
+tactical-planning-console-details = Por: {$author}
+tactical-planning-console-plan-full-rejection = El plan está lleno; el dibujo no se guardó.
+tactical-planning-console-rate-limit-rejection = Dibujas demasiado rápido; el trazo no se guardó.
+tactical-planning-console-viewer-capacity = La consola de planificación táctica alcanzó su capacidad de espectadores.

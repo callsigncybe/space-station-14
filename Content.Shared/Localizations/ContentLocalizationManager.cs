@@ -38,6 +38,7 @@ namespace Content.Shared.Localizations
 
             AddCultureFunctions(culture);
             AddCultureFunctions(fallbackCulture);
+            AddSpanishFunctions(culture);
 
 
             /*
