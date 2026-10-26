@@ -1,3 +1,16 @@
+# [MRP]Argentea Station
+
+Servidor latino de Space Station 14 en español, de rol medio (MRP).
+
+**Este proyecto es un fork de [STARLIGHT](https://github.com/ss14Starlight/space-station-14)**,
+que a su vez se basa en [Space Station 14](https://github.com/space-wizards/space-station-14)
+de la Space Wizards Federation. Todo el mérito del código y el contenido original es de sus autores.
+Los créditos completos y las licencias están en [`CREDITOS.md`](CREDITOS.md).
+
+Debajo se conserva sin cambios el README original de Starlight.
+
+---
+
 <p align="center">
   <img alt="Space Station 14" width="600" src="Resources/Textures/Logo/logo.png" />
 </p>

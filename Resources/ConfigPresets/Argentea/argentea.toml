@@ -1,0 +1,15 @@
+# Configuración base de [MRP]Argentea Station.
+# Se carga con config.presets = "Argentea/argentea" en server_config.toml.
+# Los valores de server_config.toml tienen prioridad sobre los de este archivo.
+
+[game]
+hostname         = "[MRP]Argentea Station"
+desc             = "Servidor latino de Space Station 14 en español. Rol medio (MRP). Basado en Starlight: https://github.com/ss14Starlight/space-station-14"
+lobbyenabled     = true
+lobbyduration    = 300 # 5 minutos de lobby
+soft_max_players = 40
+
+[hub]
+# Desactivado mientras el servidor sea solo local. Activar al abrirlo al público.
+advertise = false
+tags      = "lang:es,rp:med"
