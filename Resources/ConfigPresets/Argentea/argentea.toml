@@ -8,6 +8,7 @@ desc             = "Servidor latino de Space Station 14 en español. Rol medio (
 lobbyenabled     = true
 lobbyduration    = 300 # 5 minutos de lobby
 soft_max_players = 40
+map_pool         = "ArgenteaMapPool" # Resources/Prototypes/_Argentea/Maps/Pools/argentea.yml
 
 [hub]
 # Desactivado mientras el servidor sea solo local. Activar al abrirlo al público.

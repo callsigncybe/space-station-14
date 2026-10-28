@@ -1,0 +1,17 @@
+# Rotación de mapas de [MRP]Argentea Station.
+# Se activa con game.map_pool = "ArgenteaMapPool" en Resources/ConfigPresets/Argentea/argentea.toml.
+- type: gameMapPool
+  id: ArgenteaMapPool
+  maps:
+  - StarlightCork         # Cork Outpost
+  - StarlightReach        # Reach
+  - StarlightCluster      # Cluster
+  - StarlightPacked       # Packed
+  - StarlightBox          # Box Station
+  - StarlightSaltern      # Saltern
+  - StarlightHotel        # Hotel
+  - StarlightLeth         # Leth Vessel
+  - StarlightElkridge     # Elkridge Depot
+  - StarlightBagel        # Bagel Station
+  - StarlightCog          # Cog
+  - StarlightNovoLobster  # Novo Lobster
