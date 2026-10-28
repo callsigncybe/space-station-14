@@ -1,0 +1,179 @@
+# Generado por Tools/argentea/JobTimes/JobTimes.cs; no editar a mano.
+# Mínimos de tiempo divididos por 4 para todos los trabajos salvo comando y roles especiales.
+# Se activa con game.role_timer_override = "Argentea" (Resources/ConfigPresets/Argentea/argentea.toml).
+- type: jobRequirementOverride
+  id: Argentea
+  jobs:
+    AssistantManager:
+    - !type:DepartmentTimeRequirement
+      department: Command
+      time: 450m # antes 30h
+    - !type:RoleTimeRequirement
+      role: JobPassenger
+      time: 450m # antes 30h
+    - !type:RolesRequirement
+      proto: ExtRolesReq
+    - !type:TraitsRequirement
+      traits:
+      - Iterator
+      - Muted
+      inverted: true
+    AtmosphericTechnician:
+    - !type:DepartmentTimeRequirement
+      department: Engineering
+      time: 225m # antes 15h
+    Bartender:
+    - !type:DepartmentTimeRequirement
+      department: Civilian
+      time: 450 # antes 0.5h
+    Borg:
+    - !type:OverallPlaytimeRequirement
+      time: 150m # antes 10h
+    Brigmedic:
+    - !type:RoleTimeRequirement
+      role: JobSecurityOfficer
+      time: 150m # antes 36000
+    - !type:RoleTimeRequirement
+      role: JobParamedic
+      time: 75m # antes 5h
+    - !type:DepartmentTimeRequirement
+      department: Medical
+      time: 225m # antes 15h
+    Chef:
+    - !type:DepartmentTimeRequirement
+      department: Civilian
+      time: 450 # antes 0.5h
+    Chemist:
+    - !type:DepartmentTimeRequirement
+      department: Medical
+      time: 75m # antes 5h
+    Detective:
+    - !type:RoleTimeRequirement
+      role: JobSecurityOfficer
+      time: 150m # antes 10h
+    Drone:
+    - !type:RoleTimeRequirement
+      role: JobBorg
+      time: 150m # antes 10h
+    DutyOfficer:
+    - !type:RoleTimeRequirement
+      role: JobSecurityOfficer
+      time: 75m # antes 18000
+    K9:
+    - !type:DepartmentTimeRequirement
+      department: Security
+      time: 150m # antes 10h
+    - !type:RoleTimeRequirement
+      role: JobDetective
+      time: 45m # antes 3h
+    Lawyer:
+    - !type:RoleTimeRequirement
+      role: JobIAA
+      time: 45m # antes 3h
+    MedicalDoctor:
+    - !type:DepartmentTimeRequirement
+      department: Medical
+      time: 2250 # antes 2.5h
+    Mime:
+    - !type:OverallPlaytimeRequirement
+      time: 1h # antes 4h
+    MiningSpecialist:
+    - !type:DepartmentTimeRequirement
+      department: Cargo
+      time: 45m # antes 3h
+    - !type:OverallPlaytimeRequirement
+      time: 75m # antes 5h
+    Paramedic:
+    - !type:DepartmentTimeRequirement
+      department: Medical
+      time: 2250 # antes 2.5h
+    Performer:
+    - !type:DepartmentTimeRequirement
+      department: Civilian
+      time: 450 # antes 0.5h
+    Psychologist:
+    - !type:DepartmentTimeRequirement
+      department: Medical
+      time: 2250 # antes 2.5h
+    Reporter:
+    - !type:OverallPlaytimeRequirement
+      time: 1h # antes 4h
+    Roboticist:
+    - !type:DepartmentTimeRequirement
+      department: Science
+      time: 1h # antes 14400
+    - !type:DepartmentTimeRequirement
+      department: Engineering
+      time: 1h # antes 14400
+    SalvageLead:
+    - !type:DepartmentTimeRequirement
+      department: Command
+      time: 75m # antes 5h
+    - !type:RoleTimeRequirement
+      role: JobSalvageSpecialist
+      time: 75m # antes 18000
+    SalvageMedic:
+    - !type:RoleTimeRequirement
+      role: JobSalvageSpecialist
+      time: 150m # antes 36000
+    - !type:RoleTimeRequirement
+      role: JobParamedic
+      time: 75m # antes 18000
+    SalvageSpecialist:
+    - !type:DepartmentTimeRequirement
+      department: Cargo
+      time: 75m # antes 5h
+    - !type:OverallPlaytimeRequirement
+      time: 2h # antes 8h
+    Scientist:
+    - !type:DepartmentTimeRequirement
+      department: Science
+      time: 2250 # antes 2.5h
+    SecurityCadet:
+    - !type:OverallPlaytimeRequirement
+      time: 4h # antes 16h
+    - !type:DepartmentTimeRequirement
+      department: Security
+      time: 20h
+      inverted: true
+    SecurityOfficer:
+    - !type:DepartmentTimeRequirement
+      department: Security
+      time: 150m # antes 10h
+    ServiceWorker:
+    - !type:DepartmentTimeRequirement
+      department: Civilian
+      time: 450 # antes 0.5h
+    StationAi:
+    - !type:RoleTimeRequirement
+      role: JobBorg
+      time: 75m # antes 5h
+    StationEngineer:
+    - !type:DepartmentTimeRequirement
+      department: Engineering
+      time: 2250 # antes 2.5h
+    StirStir:
+    - !type:RoleTimeRequirement
+      role: JobSecurityOfficer
+      time: 30m # antes 7200
+    Surgeon:
+    - !type:DepartmentTimeRequirement
+      department: Medical
+      time: 4h # antes 57600
+    TechnicalAssistant:
+    - !type:OverallPlaytimeRequirement
+      time: 15m # antes 1h
+    - !type:DepartmentTimeRequirement
+      department: Engineering
+      time: 10h
+      inverted: true
+    Warden:
+    - !type:RoleTimeRequirement
+      role: JobSecurityOfficer
+      time: 225m # antes 15h
+    - !type:RoleTimeRequirement
+      role: JobDutyOfficer
+      time: 75m # antes 5h
+    - !type:RoleTimeRequirement
+      role: JobDetective
+      time: 15m # antes 1h
