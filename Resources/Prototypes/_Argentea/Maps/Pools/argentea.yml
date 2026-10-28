@@ -1,4 +1,4 @@
-# Rotación de mapas de [MRP]Argentea Station.
+# Rotación de mapas de [ES][MRP] Argentea Station.
 # Se activa con game.map_pool = "ArgenteaMapPool" en Resources/ConfigPresets/Argentea/argentea.toml.
 - type: gameMapPool
   id: ArgenteaMapPool

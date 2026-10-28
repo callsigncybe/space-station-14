@@ -1,6 +1,6 @@
 #:package YamlDotNet@16.3.0
 
-// Herramienta de traducción de nombres de entidades para [MRP]Argentea Station.
+// Herramienta de traducción de nombres de entidades para [ES][MRP] Argentea Station.
 //
 //   dotnet run Tools/argentea/EntLoc/EntLoc.cs -- extract <repo> <salida>
 //     Lee Resources/Prototypes, resuelve name/description/suffix por herencia y escribe

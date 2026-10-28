@@ -1,4 +1,4 @@
-# [MRP]Argentea Station
+# [ES][MRP] Argentea Station
 
 Servidor latino de Space Station 14 en español, de rol medio (MRP).
 

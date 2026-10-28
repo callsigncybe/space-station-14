@@ -1,7 +1,7 @@
 @echo off
-rem Inicia el servidor [MRP]Argentea Station ya compilado (bin\Content.Server).
+rem Inicia el servidor [ES][MRP] Argentea Station ya compilado (bin\Content.Server).
 rem Para compilarlo: dotnet build -c Release Content.Server\Content.Server.csproj
-title [MRP]Argentea Station
+title [ES][MRP] Argentea Station
 cd /d "%~dp0bin\Content.Server"
 
 if not exist "Content.Server.exe" (
@@ -25,7 +25,7 @@ if not exist "server_config.toml" (
     copy /y "%~dp0server_config.example.toml" "server_config.toml" >nul
 )
 
-echo Iniciando [MRP]Argentea Station en localhost:1212...
+echo Iniciando [ES][MRP] Argentea Station en localhost:1212...
 echo Para apagar el servidor, cierra esta ventana o escribe "shutdown".
 echo.
 "%~dp0bin\Content.Server\Content.Server.exe"

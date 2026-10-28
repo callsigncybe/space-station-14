@@ -1,4 +1,4 @@
-# Guía de traducción — [MRP]Argentea Station
+# Guía de traducción — [ES][MRP] Argentea Station
 
 Idioma: español latino neutro (`es-419`). Los textos van en `Resources/Locale/es-419/`,
 con la misma ruta y nombre de archivo que el original en `Resources/Locale/en-US/`.

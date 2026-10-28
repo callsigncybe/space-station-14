@@ -1,4 +1,4 @@
-# Configuración local de [MRP]Argentea Station.
+# Configuración local de [ES][MRP] Argentea Station.
 # Copiar a bin/Content.Server/server_config.toml (junto al ejecutable del servidor).
 
 [config]

@@ -1,6 +1,6 @@
-# Créditos y atribución — [MRP]Argentea Station
+# Créditos y atribución — [ES][MRP] Argentea Station
 
-**[MRP]Argentea Station** es un servidor latino de Space Station 14 en español.
+**[ES][MRP] Argentea Station** es un servidor latino de Space Station 14 en español.
 No es un proyecto creado desde cero: está construido sobre el trabajo de otras comunidades,
 que se reconocen a continuación.
 
