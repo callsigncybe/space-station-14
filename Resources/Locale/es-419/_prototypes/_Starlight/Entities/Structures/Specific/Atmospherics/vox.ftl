@@ -1,0 +1,12 @@
+ent-GasVentPumpVoxAlt1 = ventilación de aire
+    .desc = Tiene una válvula y una bomba conectadas.
+    .suffix = Atmósfera vox
+ent-GasVentPumpVoxAlt2 = ventilación de aire
+    .desc = Tiene una válvula y una bomba conectadas.
+    .suffix = Atmósfera vox
+ent-GasVentScrubberVoxAlt1 = depurador de aire
+    .desc = Tiene una válvula y una bomba conectadas.
+    .suffix = Atmósfera vox
+ent-GasVentScrubberVoxAlt2 = depurador de aire
+    .desc = Tiene una válvula y una bomba conectadas.
+    .suffix = Atmósfera vox

@@ -1,0 +1,14 @@
+ent-ShuttleGunDuster = EXP-2100g "Duster"
+    .desc = Un poderoso lanzagranadas fijo. Requiere un cartucho para usarse.
+ent-ShuttleGunFriendship = EXP-320g "Friendship"
+    .desc = Un pequeño lanzagranadas fijo que carga 2 granadas.
+ent-ShuttleGunKinetic = PTK-800 "Desmaterializador de Materia"
+    .desc = Torreta minera fija de salvamento. Acumula cargas por sí sola gradualmente; es extremadamente eficaz para excavar asteroides.
+ent-ShuttleGunKineticOld = desmaterializador exomórfico
+    .desc = Un antiguo cañón de nave que usa sistemas biomecánicos para almacenar y liberar energía. Aunque su diseño es único, quedó obsoleto por su menor velocidad de carga y de disparo frente a las construcciones mecánicas.
+ent-ShuttleGunPerforator = LSE-1200c "Perforator"
+    .desc = Unidad láser fija avanzada. ¡Aniquila la electrónica y es extremadamente peligrosa para la salud! Usa la jaula de energía para disparar.
+ent-ShuttleGunPirateCannon = cañón de barco pirata
+    .desc = ¡Kabum!
+ent-ShuttleGunSvalinnMachineGun = LSE-400c "ametralladora Svalinn"
+    .desc = Unidad láser fija básica. Eficaz contra objetivos vivos y electrónica. Usa celdas de energía comunes para disparar y tiene una cadencia de fuego altísima.

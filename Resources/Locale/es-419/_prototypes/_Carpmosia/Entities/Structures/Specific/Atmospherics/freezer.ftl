@@ -1,0 +1,12 @@
+ent-GasVentPumpFreezerAlt3 = ventilación de aire
+    .desc = Tiene una válvula y una bomba conectadas.
+    .suffix = Atmósfera de congelador
+ent-GasVentPumpFreezerAlt4 = ventilación de aire
+    .desc = Tiene una válvula y una bomba conectadas.
+    .suffix = Atmósfera de congelador
+ent-GasVentScrubberFreezerAlt3 = depurador de aire
+    .desc = Tiene una válvula y una bomba conectadas.
+    .suffix = Atmósfera de congelador
+ent-GasVentScrubberFreezerAlt4 = depurador de aire
+    .desc = Tiene una válvula y una bomba conectadas.
+    .suffix = Atmósfera de congelador

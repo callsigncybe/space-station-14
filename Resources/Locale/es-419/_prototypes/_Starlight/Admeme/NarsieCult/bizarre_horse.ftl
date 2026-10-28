@@ -1,0 +1,15 @@
+ent-ActionHorseEyes = Hacer caer los ojos
+    .desc = Hace que a alguien se le caigan los ojos de la cabeza al piso.
+ent-ActionHorseRestrain = Atar
+    .desc = Ata las manos de alguien al instante.
+ent-ActionHorseSleep = Dormir
+    .desc = Hace dormir a alguien al instante.
+ent-ActionHorseStand = Pararse
+    .desc = Álzate sobre tus pezuñas traseras o vuelve a ponerte en cuatro patas.
+ent-ActionHorseStun = Aturdimiento de pezuña
+    .desc = Aturde y derriba a alguien a tu alcance.
+ent-HorseBindingCuffs = ataduras de pezuña
+    .desc = Algo duro y desagradablemente tibio te envuelve las muñecas.
+ent-MobBizarreHorse = desfile
+    .desc = No son dos personas en un disfraz. No son dos personas en un disfraz. Dios mío, no son dos personas en un disfraz. Hay algo que está mal en esto.
+    .suffix = IA

@@ -1,0 +1,10 @@
+ent-HeadSlime = cabeza de slime
+ent-LeftArmSlime = brazo izquierdo de slime
+ent-LeftFootSlime = pie izquierdo de slime
+ent-LeftHandSlime = mano izquierda de slime
+ent-LeftLegSlime = pierna izquierda de slime
+ent-RightArmSlime = brazo derecho de slime
+ent-RightFootSlime = pie derecho de slime
+ent-RightHandSlime = mano derecha de slime
+ent-RightLegSlime = pierna derecha de slime
+ent-TorsoSlime = torso de slime

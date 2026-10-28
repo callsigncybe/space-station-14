@@ -1,0 +1,11 @@
+ent-SugarCube = terrón de azúcar
+    .desc = Podrías construir una casita con estos.
+ent-SugarCube10 = terrón de azúcar
+    .desc = Podrías construir una casita con estos.
+    .suffix = 10
+ent-SugarCube3 = terrón de azúcar
+    .desc = Podrías construir una casita con estos.
+    .suffix = 3
+ent-SugarCube6 = terrón de azúcar
+    .desc = Podrías construir una casita con estos.
+    .suffix = 6

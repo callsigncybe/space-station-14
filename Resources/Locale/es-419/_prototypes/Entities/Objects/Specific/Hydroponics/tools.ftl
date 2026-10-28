@@ -1,0 +1,12 @@
+ent-HydroponicsToolClippers = tijeras de podar
+    .desc = Una herramienta usada para tomar muestras de plantas.
+ent-HydroponicsToolHatchet = hacha de mano
+    .desc = Una hoja de hacha muy afilada sobre un mango corto de fibrometal. Tiene una larga historia cortando cosas, pero ahora se usa para cortar leña.
+ent-HydroponicsToolMiniHoe = miniazada
+    .desc = Se usa para quitar maleza o rascarte la espalda.
+ent-HydroponicsToolScythe = guadaña
+    .desc = Una hoja afilada y curva sobre un largo mango de fibrometal; con esta herramienta es fácil cosechar lo que siembras.
+ent-HydroponicsToolSpade = pala
+    .desc = Una herramienta pequeña para cavar y mover tierra.
+ent-PlantBag = bolsa de plantas
+    .desc = Una bolsa para que los botánicos muevan fácilmente sus enormes cosechas.

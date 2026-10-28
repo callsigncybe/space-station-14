@@ -1,0 +1,14 @@
+ent-ActionAIReconnectShunt = Reconectar transferencia
+    .desc = Vuelve a conectarte al último chasis o interfaz al que te transferiste.
+ent-ActionAIRemoteControl = Control remoto
+    .desc = Controla a distancia un chasis o interfaz transferible sin transferirte a él.
+ent-ActionAIShunt = Transferirse
+    .desc = Transfiérete a un chasis de borg con una interfaz de IA instalada.
+ent-ActionAIUnShunt = Destransferirse
+    .desc = Desconéctate del chasis o la interfaz y vuelve a tu núcleo.
+ent-ActionAIWarp = Teletransportarse
+    .desc = Abre una lista de tripulantes y ubicaciones a las que teletransportarte.
+ent-ActionStationAiOpenPDA = Abrir PDA
+    .desc = Abre tu asistente personal de datos.
+ent-ActionSurvCameraLights = Alternar luces de cámaras
+    .desc = Activa las luces de las cámaras de vigilancia cerca de donde estés mirando.

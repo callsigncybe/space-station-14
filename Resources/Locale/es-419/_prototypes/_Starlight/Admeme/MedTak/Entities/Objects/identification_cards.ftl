@@ -1,0 +1,10 @@
+ent-MedTakIDCardDispatcher = ID de despachador MedTak
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-MedTakIDCardMedic = ID de médico MedTak
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-MedTakIDCardPilot = ID de piloto MedTak
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-MedTakIDCardSecurity = ID de seguridad MedTak
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-MedTakIDCardTeamLead = ID de líder de equipo MedTak
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.

@@ -1,0 +1,9 @@
+ent-MaterialSandbag = bolsa de arena
+    .desc = Una pesada bolsa de tela llena de arena. Apila unas cuantas y a las balas deja de importarles lo que hay detrás.
+    .suffix = Llena
+ent-MaterialSandbag1 = bolsa de arena
+    .desc = Una pesada bolsa de tela llena de arena. Apila unas cuantas y a las balas deja de importarles lo que hay detrás.
+    .suffix = Uno
+ent-MaterialSandbag12 = bolsa de arena
+    .desc = Una pesada bolsa de tela llena de arena. Apila unas cuantas y a las balas deja de importarles lo que hay detrás.
+    .suffix = 12

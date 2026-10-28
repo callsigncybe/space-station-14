@@ -1,0 +1,3 @@
+ent-DarkGenerator = generador oscuro
+    .desc = De alguna forma... esto genera energía... pero solo en la oscuridad...
+    .suffix = 10kW

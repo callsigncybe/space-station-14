@@ -1,0 +1,10 @@
+ent-AutoMenderBrute = autorreparador de traumatismos
+    .desc = Un dispositivo usado para curar a los pacientes de daño por traumatismo, por quemaduras o ambos. Funciona con bicaridina.
+ent-AutoMenderBruteFilled = autorreparador de traumatismos
+    .desc = Un dispositivo usado para curar a los pacientes de daño por traumatismo, por quemaduras o ambos. Funciona con bicaridina.
+    .suffix = Llena
+ent-AutoMenderBurn = autorreparador de quemaduras
+    .desc = Un dispositivo usado para curar a los pacientes de daño por traumatismo, por quemaduras o ambos. Funciona con dermalina.
+ent-AutoMenderBurnFilled = autorreparador de quemaduras
+    .desc = Un dispositivo usado para curar a los pacientes de daño por traumatismo, por quemaduras o ambos. Funciona con dermalina.
+    .suffix = Llena

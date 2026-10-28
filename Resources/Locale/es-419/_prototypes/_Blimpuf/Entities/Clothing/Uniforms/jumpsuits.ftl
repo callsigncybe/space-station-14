@@ -1,0 +1,12 @@
+ent-ClothingUniformJumpsuitBartenderSyndie = overol de bartender del Syndicate
+    .desc = Los bartenders de NanoTrasen desearían verse tan bien como con esto. Si el Syndicate creyera en las propinas, ganarías un montón de Spesos.
+ent-ClothingUniformJumpsuitCargoSyndie = overol de carga del Syndicate
+    .desc = Se rumorea que los pantalones rojos permiten a los miembros del equipo de carga del Syndicate correr más rápido. El equipo de carga de NanoTrasen desearía verse tan bien como con esto.
+ent-ClothingUniformJumpsuitChefSyndie = overol de chef del Syndicate
+    .desc = Por suerte, este tono de rojo debería disimular cualquier mancha de sangre de las criaturas carneadas. Los chefs de NanoTrasen desearían verse tan bien como con esto.
+ent-ClothingUniformJumpsuitHydroponicsSyndie = overol de hidroponía del Syndicate
+    .desc = Deberían ser lo bastante oscuros para evitar manchas de tierra y suciedad. Los botánicos de NanoTrasen desearían verse tan bien como con esto.
+ent-ClothingUniformJumpsuitJanitorSyndie = overol de conserje del Syndicate
+    .desc = Las mangas son del color perfecto para esconder cualquier sangre que haya que limpiar. Los conserjes de NanoTrasen desearían verse tan bien como con esto.
+ent-ClothingUniformJumpsuitScienceSyndie = overol de ciencia del Syndicate
+    .desc = La tecnología de espacio rojo teletransportó el color rojo a este overol. El equipo de ciencia de NanoTrasen desearía verse tan bien como con esto.

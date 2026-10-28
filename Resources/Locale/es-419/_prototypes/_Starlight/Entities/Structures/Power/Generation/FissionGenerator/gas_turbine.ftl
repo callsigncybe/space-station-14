@@ -1,0 +1,12 @@
+ent-GasTurbineEmpty = Turbina de gas
+    .desc = Una turbina grande que genera energía usando gas caliente.
+    .suffix = Vacío
+ent-GasTurbineEmptySalvage = Turbina de gas
+    .desc = Una turbina grande que genera energía usando gas caliente.
+    .suffix = Salvamento, Vacío
+ent-GasTurbineSmallEmpty = Turbina de gas pequeña
+    .desc = Una turbina pequeña que genera energía usando gas caliente.
+    .suffix = Vacío
+ent-GasTurbineSmallEmptySalvage = Turbina de gas pequeña
+    .desc = Una turbina pequeña que genera energía usando gas caliente.
+    .suffix = Salvamento, Vacío

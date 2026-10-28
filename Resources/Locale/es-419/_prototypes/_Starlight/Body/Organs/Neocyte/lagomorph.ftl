@@ -1,0 +1,9 @@
+ent-OrganNeoLagomorphHeart = corazón cibernético de lagomorfo
+    .desc = En realidad no necesita latir; solo imita el movimiento para darle comodidad al usuario.
+    .suffix = Neolagomorfo
+ent-OrganNeoLagomorphStomach = reactor biológico de lagomorfo
+    .desc = Algunos dicen que está sobrediseñado, pero es vital para el funcionamiento de un neocito. Convierte materia orgánica en energía orgánica y eléctrica para alimentar la cibernética y la carne del neocito.
+    .suffix = Neolagomorfo
+ent-OrganNeoLagomorphTongue = lengua cibernética
+    .desc = Un órgano completamente brillante que se usa comúnmente para mentir o expresarse. A veces para ambas cosas.
+    .suffix = Neolagomorfo

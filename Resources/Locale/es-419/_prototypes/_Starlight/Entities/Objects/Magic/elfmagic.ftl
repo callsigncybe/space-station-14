@@ -1,0 +1,9 @@
+ent-ElfAntidoteSeed = semilla de rejuvenecimiento
+    .desc = Un manojo de magia de vida radiante, útil para devolverles la vitalidad a las plantas. Se evaporará pronto si no se usa.
+ent-ElfCleanseSmoke = aura purificadora
+ent-ElfLuminousOrb = Orbe luminoso
+    .desc = Destinado a consumirse y apagarse.
+ent-ElfMagicEmber = Brasa
+    .desc = ¡Cuidado! Está caliente. No se puede soltar. Se desvanecerá pronto.
+ent-ElfRuneHaemostatic = runa hemostática
+    .desc = Una runa mágica que detiene el sangrado al aplicarla. Se desvanecerá si no se usa rápido.

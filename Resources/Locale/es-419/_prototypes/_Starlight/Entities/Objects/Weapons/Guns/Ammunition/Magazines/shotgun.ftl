@@ -1,0 +1,11 @@
+ent-MagazineShotgunBreach = tambor de brecha calibre 12
+ent-MagazineShotgunToz = cargador de perdigones calibre 20
+    .desc = Piotr, ¿qué se supone que haga con esto? ¡El cargador no sale del arma!
+ent-MagazineShotgunTozEmpty = cargador calibre 20
+    .desc = Piotr, ¿qué se supone que haga con esto? ¡El cargador no sale del arma!
+    .suffix = vacío
+ent-MagazineShotgunTozExtended = cargador extendido de perdigones calibre 20
+    .desc = Piotr, ¿qué se supone que haga con esto? ¡El cargador no sale del arma!
+ent-MagazineShotgunTozExtendedEmpty = cargador extendido calibre 20
+    .desc = Piotr, ¿qué se supone que haga con esto? ¡El cargador no sale del arma!
+    .suffix = vacío

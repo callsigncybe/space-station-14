@@ -1,0 +1,11 @@
+ent-BriefcaseBrown = maletín marrón
+    .desc = Útil para llevar objetos en las manos.
+ent-BriefcaseSyndie = maletín marrón
+    .desc = Útil para llevar objetos en las manos.
+    .suffix = Syndicate, vacío
+ent-BriefcaseWeapon = maletín de armas seguro
+    .desc = Útil para aspirantes a mercenario, ya sea que luches por una empresa, una nación o quien sea. O si solo vas a hacer un omelette realmente grande.
+    .suffix = Arma, Vacío
+ent-BriefcaseWeaponSmall = maletín de armas seguro
+    .desc = Útil para aspirantes a mercenario, ya sea que luches por una empresa, una nación o quien sea. O si solo vas a hacer un omelette realmente grande.
+    .suffix = Arma, Pequeño, Vacío

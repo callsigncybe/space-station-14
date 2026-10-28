@@ -1,0 +1,6 @@
+ent-MachineArtifactAnalyzer = analizador de artefactos
+    .desc = Una plataforma capaz de analizar distintos tipos de artefactos.
+ent-MachineArtifactCrusher = trituradora de artefactos
+    .desc = Mejor que no se te atoren los dedos...
+ent-MachineArtifactCrusherXenoborg = trituradora de cuerpos
+    .desc = Mejor que no se te atore la cabeza...

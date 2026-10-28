@@ -1,0 +1,3 @@
+ent-MobDoll = Urist McHaunted
+ent-MobDollFresh = ?!°#^*&
+    .desc = ¿De dónde salió ese caparazón? Es todo blando y esponjoso...

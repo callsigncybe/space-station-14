@@ -1,0 +1,10 @@
+ent-BarricadeGlass = barricada de vidrio
+    .desc = Paneles de vidrio en un marco de madera. Puedes ver a través de ella, y las balas también pueden atravesarla, bastante seguido.
+ent-BarricadeSandbags = barricada de sacos de arena
+    .desc = Un muro de sacos de arena. Pocas cosas que puedas cargar absorben mejor los disparos.
+ent-BarricadeSandbagsFrame = barricada de sacos de arena sin terminar
+    .desc = Unos cuantos sacos de arena apilados. Ya dan algo de cobertura, y unos sacos más la terminarían.
+ent-BarricadeSteel = barricada de acero
+    .desc = Placas de acero soldadas en una barrera a la altura de la cintura. Detiene buena parte de los disparos que la cruzan.
+ent-BarricadeWood = barricada de madera
+    .desc = Tablones clavados en una barrera a la altura de la cintura. Mejor que nada.

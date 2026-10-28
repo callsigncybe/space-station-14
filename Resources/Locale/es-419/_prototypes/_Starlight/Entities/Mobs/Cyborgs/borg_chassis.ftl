@@ -1,0 +1,16 @@
+ent-BorgChassisCargo = cyborg de carga
+    .desc = Un híbrido de hombre y máquina que ayuda en las actividades de la estación. Les encanta que les pidan que declaren sus leyes una y otra vez.
+ent-BorgChassisPurrfus = cyborg purrfus
+    .desc = Un híbrido de hombre y máquina que ayuda en las actividades de la estación. Les encanta que les pidan que declaren sus leyes una y otra vez.
+ent-BorgChassisSecurity = cyborg de seguridad
+    .desc = Un híbrido de hombre y máquina que ayuda en las actividades de la estación. Les encanta que les pidan que declaren sus leyes una y otra vez.
+ent-BorgChassisSecurityPowered = cyborg de seguridad
+    .desc = Un híbrido de hombre y máquina que ayuda en las actividades de la estación. Les encanta que les pidan que declaren sus leyes una y otra vez.
+    .suffix = Con energía
+ent-BorgChassisSyndicateStealth = cyborg sigiloso del Syndicate
+    .desc = Un híbrido de hombre y máquina que ayuda en las actividades de la estación. Les encanta que les pidan que declaren sus leyes una y otra vez.
+ent-PurrfusBorgChassisDerelict = cyborg purrfus abandonado
+    .desc = Un híbrido de hombre y máquina de la variedad purrfus. Este está en muy mal estado.
+ent-SalvageMiningBorg = cyborg de salvamento
+    .desc = Un híbrido de hombre y máquina que ayuda al gremio. Este ya tuvo más uso del que le correspondía.
+    .suffix = Batería, módulo

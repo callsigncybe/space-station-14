@@ -1,0 +1,16 @@
+ent-AltarCosmic = altar cósmico
+    .desc = Altar de... algo.
+ent-CosmicChair = sofá maligno
+    .desc = Te sientas en esto. Por voluntad propia o a la fuerza.
+ent-CosmicLamp = luz maligna
+    .desc = Una mota de antiluz titila en su interior.
+    .suffix = Siempre con energía
+ent-CosmicObelisk = obelisco maligno
+    .desc = Una estructura misteriosa pero inerte. Inquietante.
+ent-CosmicShuttleCore = instrumento maligno
+    .desc = Su superficie brilla con una miríada de glifos inescrutables que comunican una sola palabra a tu mente: "Vuelo".
+ent-CosmicTable = mesa maligna
+    .desc = Insondable, cósmicamente... cuadrada.
+ent-CosmicThruster = motor maligno
+ent-CosmicVacuousSpire = aguja vacua
+    .desc = También conocida como el "tenedor chuuni".

@@ -1,0 +1,10 @@
+ent-CentcommVibrobladeSheath = vaina de vibrohoja de CentCom
+    .desc = Vulcan Industries creía que el mantenimiento de las vibroarmas debía retrasarse lo más posible y que la calidad de las hojas debía ser excelente en todo momento; para el Consorcio Corporativo se hicieron vainas de diseño especial que ralentizan la degradación de sus cualidades perforantes subsónicas cuando no están en uso.
+ent-CentcommVibrobladeSheathFilled = vaina de vibrohoja de CentCom
+    .desc = Vulcan Industries creía que el mantenimiento de las vibroarmas debía retrasarse lo más posible y que la calidad de las hojas debía ser excelente en todo momento; para el Consorcio Corporativo se hicieron vainas de diseño especial que ralentizan la degradación de sus cualidades perforantes subsónicas cuando no están en uso.
+    .suffix = Llena
+ent-PrototypeVibrobladeSheath = vaina de vibrohoja prototipo
+    .desc = Vulcan Industries creía que el mantenimiento de las vibroarmas debía retrasarse lo más posible y que la calidad de las hojas debía ser excelente en todo momento, incluso en los prototipos de las armas finales que se iban a terminar y enviar. Esta vaina se diseñó para uno de los últimos prototipos que Vulcan Industries llegó a concebir y producir.
+ent-PrototypeVibrobladeSheathFilled = vaina de vibrohoja prototipo
+    .desc = Vulcan Industries creía que el mantenimiento de las vibroarmas debía retrasarse lo más posible y que la calidad de las hojas debía ser excelente en todo momento, incluso en los prototipos de las armas finales que se iban a terminar y enviar. Esta vaina se diseñó para uno de los últimos prototipos que Vulcan Industries llegó a concebir y producir.
+    .suffix = Llena

@@ -1,0 +1,17 @@
+ent-AtmosFixAirMarker = Marcador Atmos Fix de aire
+    .desc = Oxígeno (21%) y nitrógeno (79%) a presión de minero de gas, T20C
+ent-AtmosFixBlockerMarker = Marcador Atmos Fix de vacío
+    .desc = Vacío, T20C
+ent-AtmosFixFreezerMarker = Marcador Atmos Fix de congelador
+    .desc = Cambia la temperatura del aire a 235K, para congelador, con un poco de margen para armarlo.
+ent-AtmosFixInstantPlasmaFireMarker = Marcador Atmos Fix de incendio de plasma instantáneo
+    .desc = INCENDIO DE PLASMA INSTANTÁNEO
+ent-AtmosFixNitrogenMarker = Marcador Atmos Fix de nitrógeno
+    .desc = Nitrógeno a presión de minero de gas, T20C
+ent-AtmosFixOxygenMarker = Marcador Atmos Fix de oxígeno
+    .desc = Oxígeno a presión de minero de gas, T20C
+ent-AtmosFixPlasmaMarker = Marcador Atmos Fix de plasma
+    .desc = Plasma a presión de minero de gas, T20C
+ent-AtmosFixVoxMarker = Marcador Atmos Fix de nitrógeno
+    .desc = Nitrógeno a 101 kPa, 20C
+    .suffix = Atmósfera vox

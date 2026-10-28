@@ -1,0 +1,10 @@
+ent-CrateLabellerRefillPaperFilled = cajón de papel de recarga para etiquetadora
+    .desc = Contiene un papel de recarga para la etiquetadora.
+ent-CrateVendingMachineRestockDonkFilled = cajón de reabastecimiento de Donk on the Go
+    .desc = Contiene una caja de reabastecimiento para la expendedora Donk on the Go.
+ent-CrateVendingMachineRestockGumballFilled = cajón de reabastecimiento de dispensador de chicles
+    .desc = Contiene una caja de reabastecimiento para dispensadores de chicles.
+ent-CrateVendingMachineRestockIceCreamFilled = cajón de reabastecimiento de helados
+    .desc = Contiene una caja de reabastecimiento para I Scream Ice-Cream.
+ent-CrateVendingMachineRestockSustenanceFilled = cajón de reabastecimiento de expendedora de sustento
+    .desc = Contiene una caja de reabastecimiento para la expendedora de sustento.

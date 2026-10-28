@@ -1,0 +1,9 @@
+ent-BrownMushroomSeeds = paquete de esporas de champiñón marrón
+    .desc = Esporas para cultivar champiñones marrones comestibles.
+ent-CinnaflareSeeds = paquete de semillas de cinnaflare
+ent-CinnamonSeeds = paquete de semillas de canela
+ent-EvilAppleSeeds = paquete de semillas de manzana diabólica
+ent-MintSeeds = paquete de semillas de menta
+ent-OrganTreeSeeds = paquete de semillas de árbol de órganos
+ent-ResinferaSeeds = paquete de semillas de resinfera
+ent-SpearMintSeeds = paquete de semillas de hierbabuena

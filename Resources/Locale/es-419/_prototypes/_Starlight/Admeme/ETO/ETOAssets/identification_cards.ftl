@@ -1,0 +1,12 @@
+ent-ETOIDCardCombatTech = ID de técnico de combate ETO
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-ETOIDCardCorpsman = ID de sanitario ETO
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-ETOIDCardDemo = ID de demoledor ETO
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-ETOIDCardFootman = ID de soldado de infantería ETO
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-ETOIDCardMartyr = ID de mártir ETO
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-ETOIDCardTeamLead = ID de líder de equipo ETO
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.

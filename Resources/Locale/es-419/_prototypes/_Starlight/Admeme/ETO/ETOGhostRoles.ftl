@@ -1,0 +1,10 @@
+ent-RandomHumanoidSpawnerETOLead = Líder de equipo ETO
+    .suffix = Admeme
+ent-RandomHumanoidSpawnerETOOCombatTech = Técnico de combate ETO
+    .suffix = Admeme
+ent-RandomHumanoidSpawnerETOOCorpsman = Operativo sanitario ETO
+    .suffix = Admeme
+ent-RandomHumanoidSpawnerETOOperativeRifle = Operativo fusilero ETO
+    .suffix = Admeme
+ent-RandomHumanoidSpawnerETOOperativeSMG = Operativo de subfusil ETO
+    .suffix = Admeme

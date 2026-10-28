@@ -1,0 +1,10 @@
+ent-BrainImplantComms = implante de radio integrado
+    .desc = Un implante cerebral instalado quirúrgicamente que te da acceso a los canales de radio cuyas llaves de cifrado insertes. Tiene espacio para cuatro llaves.
+ent-BrainImplantCommsExpedition = implante de radio de expedición
+    .desc = Un implante cerebral instalado quirúrgicamente que te da acceso al canal de radio de expedición, incluso sin auriculares.
+ent-BrainImplantExpiScan = implante escáner de salud
+    .desc = Un implante cerebral instalado quirúrgicamente que muestra una lectura de tu salud física actual.
+ent-BrainImplantNexus = enlace Nexus
+    .desc = Un implante cerebral instalado quirúrgicamente que te da acceso al Nexus, una red tecnológica que te permite comunicarte con cualquiera que también tenga un implante Nexus. Los Avali y los Resomi reciben este implante al nacer.
+ent-BrainImplantTranslator = implante traductor
+    .desc = Un implante cerebral instalado quirúrgicamente que te permite hablar y entender el Común Galáctico.

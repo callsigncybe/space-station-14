@@ -1,0 +1,16 @@
+ent-ActionArcticGlare = Mirada ártica
+    .desc = Fulmina a tus enemigos con la mirada y la furia del ártico, congelando a cualquiera que esté cerca (hechizo de corto alcance, 2 min de enfriamiento).
+ent-ActionFireArrow = Flecha de fuego
+    .desc = Dispara una llama sólida con forma de flecha. (Enfriamiento de 10 segundos)
+ent-ActionFireOrb = Orbe de fuego
+    .desc = Dispara un orbe de fuego lento que prenderá fuego a todos en un radio grande en un glorioso infierno. (Enfriamiento de 4 minutos)
+ent-ActionFirebolt = Rayo de fuego
+    .desc = Dispara un rayo de fuego rápido pero más débil hacia el lugar apuntado. (Enfriamiento de 5 segundos)
+ent-ActionIceOrb = Corazón del invierno
+    .desc = Libera un orbe de hielo lento que lanza esquirlas heladas cada segundo y medio. También destruye todo lo que no esté vivo al impactar. (3 min de enfriamiento)
+ent-ActionIceShard = Esquirla de hielo
+    .desc = Lanza una esquirla de hielo afilada que cortará y congelará a la primera persona que toque. (30 segundos de enfriamiento)
+ent-ActionIceStorm = Tormenta de hielo
+    .desc = ¡Invoca una ráfaga helada que congela todo lo que toca! (Enfriamiento de 2 minutos)
+ent-ProjectileIceStormSingle = púa de hielo
+    .desc = ¡Una púa helada de hielo mágico!

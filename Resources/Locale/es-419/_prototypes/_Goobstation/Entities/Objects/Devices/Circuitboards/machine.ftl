@@ -1,0 +1,15 @@
+ent-StationRadioCircuitboard = placa de máquina de radio de la estación
+    .desc = Una placa de circuito impreso de máquina para un receptor de radio de la estación.
+    .suffix = Placa de máquina
+ent-StationRadioRigCircuitboard = placa de máquina de equipo de radio de la estación
+    .desc = Una placa de circuito impreso de máquina para un equipo de radio de la estación.
+    .suffix = Placa de máquina
+ent-StationRadioServerCircuitboard = placa de máquina de servidor de radio de la estación
+    .desc = Una placa de circuito impreso de máquina para un servidor de radio de la estación.
+    .suffix = Placa de máquina
+ent-TapeDeckCircuitboard = placa de máquina de casetera
+    .desc = Una placa de circuito impreso de máquina para una casetera.
+    .suffix = Placa de máquina
+ent-VinylPlayerCircuitboard = placa de máquina de tocadiscos
+    .desc = Una placa de circuito impreso de máquina para un tocadiscos.
+    .suffix = Placa de máquina

@@ -1,0 +1,9 @@
+ent-HoloparasiteInfo = términos y condiciones del holoparásito
+    .desc = Una diminuta pantalla volumétrica para documentos; te hace preguntarte si el presupuesto legal de Cybersun es demasiado alto.
+ent-PaperAgrichemManual = manual NT "La agroquímica es divertida"
+    .desc = La única hoja de instrucciones que venía en el kit.
+ent-PaperWrittenAMEScribbles = papel
+    .desc = Una hoja de papel blanco.
+    .suffix = Garabatos del AME
+ent-PaperWrittenCombatBakeryKit = instrucciones del kit de panadería de combate
+    .desc = Cómete la nota después de leerla.

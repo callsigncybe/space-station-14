@@ -1,0 +1,9 @@
+ent-Fulton = fulton
+    .desc = Sirve para extraer contenedores, objetos o reclutar gente a la fuerza para tu base de operaciones.
+    .suffix = Llena
+ent-Fulton1 = fulton
+    .desc = Sirve para extraer contenedores, objetos o reclutar gente a la fuerza para tu base de operaciones.
+    .suffix = Uno
+ent-FultonBeacon = baliza fulton
+    .desc = Baliza para recibir extracciones con fulton.
+ent-FultonEffect = efecto fulton

@@ -1,0 +1,12 @@
+ent-BorgiCube = cubo de borgi
+    .desc = ¡Solo agrega agua! ¡BORK!
+ent-CCMoproachCube = cubo de moproach de CC
+    .desc = ¡Solo agrega agua! *¡chirría!*
+ent-ChickenCube = cubo de pollo
+    .desc = ¡Solo agrega agua! ¡Cocó!
+ent-KoiCube = cubo de koi
+    .desc = ¡Solo agrega agua! ¡Glub!
+ent-PigCube = cubo de cerdo
+    .desc = ¡Solo agrega agua! ¡Oinc!
+ent-ScurretCube = cubo de scurret
+    .desc = ¡Solo agrega lluvia!

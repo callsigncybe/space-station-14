@@ -1,0 +1,10 @@
+ent-MassArrestObjective = Poner a todos como buscados
+    .desc = ¡Usa tus guantes para hackear una consola de antecedentes penales y poner a toda la estación como buscada!
+ent-NinjaSurviveObjective = Sobrevive
+    .desc = No serías muy buen ninja si murieras, ¿o sí?
+ent-SpiderChargeObjective =
+    .desc = Esta bomba puede detonarse en una ubicación específica. ¡Ten en cuenta que la bomba no funcionará en ningún otro lugar!
+ent-StealResearchObjective =
+    .desc = Puedes usar tus guantes para hackear un servidor de investigación y robar sus valiosos datos. Si ciencia ha estado holgazaneando, tendrás que ponerte a trabajar.
+ent-TerrorObjective = Convocar una amenaza
+    .desc = Usa tus guantes en una consola de comunicaciones para traer otra amenaza a la estación.

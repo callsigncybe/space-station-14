@@ -1,0 +1,10 @@
+ent-HotPotato = papa caliente
+    .desc = Una vez activada, no puedes soltar esta bomba de tiempo. ¡Golpea a otra persona con ella para salvarte! ¡No te quemes las manos!
+ent-SnapPopExplosive = petardo de piso
+    .desc = ¡Tíralo al piso y escúchalo hacer PUM!
+    .suffix = explosivo
+ent-TrashBananaPeelExplosive = cáscara de banana
+    .suffix = Explosivo
+ent-TrashBananaPeelExplosiveUnarmed = banana
+    .desc = Hay algo raro en esta banana.
+    .suffix = Desarmado

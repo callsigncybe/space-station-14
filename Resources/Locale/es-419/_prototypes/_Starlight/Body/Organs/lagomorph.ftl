@@ -1,0 +1,12 @@
+ent-OrganLagomorphEyes = ojos de lagomorfo
+    .desc = Nadie lo vio venir.
+    .suffix = Lagomorfo
+ent-OrganLagomorphHeart = corazón de lagomorfo
+    .desc = El corazón de latido rápido de un Lagomorfo.
+    .suffix = Lagomorfo
+ent-OrganLagomorphStomach = estómago de lagomorfo
+    .desc = Anhela verduras frescas.
+    .suffix = Lagomorfo
+ent-OrganLagomorphTongue = lengua
+    .desc = Un músculo carnoso que se usa principalmente para mentir.
+    .suffix = Lagomorfo

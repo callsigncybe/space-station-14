@@ -1,0 +1,14 @@
+ent-BorgCharger = estación de recarga de cyborgs
+    .desc = Un cargador fijo para diversas entidades robóticas y cyborgs. Sorprendentemente espacioso.
+ent-BorgChargerXenoborg = estación de recarga de xenoborgs
+    .desc = Un cargador fijo para xenoborgs. Da claustrofobia.
+ent-PowerCageRecharger = recargador de jaulas
+    .desc = Una máquina especializada para recargar las pesadas baterías de jaula que usan las armas montadas en naves.
+ent-PowerCellRecharger = recargador de celdas
+    .desc = Un recargador de modelo antiguo que puede recargar celdas de energía.
+ent-TurboItemRecharger = turborrecargador
+    .desc = Un recargador overclockeado. No se recomienda usarlo cerca de asmáticos.
+ent-WallWeaponCapacitorRecharger = recargador de pared
+    .desc = Un recargador compacto montado en la pared. Solo recarga dispositivos electrónicos y no tiene espacio para celdas de energía.
+ent-WeaponCapacitorRecharger = recargador
+    .desc = Una estación de recarga moderna donde caben tanto celdas de energía como pequeños dispositivos electrónicos.

@@ -1,0 +1,10 @@
+ent-HeadThaven = cabeza de thaven
+ent-LeftArmThaven = brazo izquierdo de thaven
+ent-LeftFootThaven = pie izquierdo de thaven
+ent-LeftHandThaven = mano izquierda de thaven
+ent-LeftLegThaven = pierna izquierda de thaven
+ent-RightArmThaven = brazo derecho de thaven
+ent-RightFootThaven = pie derecho de thaven
+ent-RightHandThaven = mano derecha de thaven
+ent-RightLegThaven = pierna derecha de thaven
+ent-TorsoThaven = torso de thaven

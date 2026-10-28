@@ -1,0 +1,15 @@
+ent-ClothingHeadHatCargoFormalsoft = gorra formal de carga
+    .desc = Una gorra de béisbol del color de los uniformes formales de carga.
+ent-ClothingHeadHatCargoFormalsoftFlipped = gorra formal de carga
+    .desc = Una gorra de béisbol del color de los uniformes formales de carga.
+    .suffix = volteado
+ent-ClothingHeadHatMailsoftVisor = visera de correo
+    .desc = Una visera liviana para todo aspirante a técnico de correo.
+ent-ClothingHeadHatMailsoftVisorFlipped = visera de correo
+    .desc = Una visera liviana para todo aspirante a técnico de correo.
+    .suffix = volteado
+ent-ClothingHeadHatMailsoftVisorSenior = visera de correo sénior
+    .desc = Una visera liviana para los técnicos de correo más dedicados.
+ent-ClothingHeadHatMailsoftVisorSeniorFlipped = visera de correo sénior
+    .desc = Una visera liviana para los técnicos de correo más dedicados.
+    .suffix = volteado

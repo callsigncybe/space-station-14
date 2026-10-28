@@ -1,0 +1,12 @@
+ent-CasinoIDCardBrigmed = ID de médico de brig de Gamorrah
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-CasinoIDCardDealer = ID de crupier de Gamorrah
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-CasinoIDCardManager = ID de gerente de Gamorrah
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-CasinoIDCardOwner = ID de dueño de Gamorrah
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-CasinoIDCardSecurity = ID de seguridad de Gamorrah
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-CasinoIDCardTreasurer = ID de tesorero de Gamorrah
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.

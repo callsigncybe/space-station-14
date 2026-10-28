@@ -1,0 +1,11 @@
+ent-EnergyDomeGeneratorPersonalSyndie = generador de escudo personal rojo sangre
+    .desc = Un generador de escudo personal que protege a quien lo lleva de láseres y balas, pero le impide usar armas a distancia. Usa una celda de energía.
+ent-EnergyDomeTurtle = BR-40c "Turtle"
+    .desc = Una barrera de energía pesada a dos manos con un consumo pasivo de energía extremadamente bajo. Puede conectarse con un multitool.
+ent-EnergyDomeWiredTest = domo estático
+    .desc = Barrera de energía de prueba alimentada por el cableado de la estación. No tengo ni idea de cómo balancear esto.....
+    .suffix = NO FUSIONAR
+ent-NullspaceAnchor = ancla de nullspace
+    .desc = Impone lo físico sobre el propio nullspace. Usando cristales de bluespace para producir una fuerza resonante, trae al plano físico aquello que habita entre estados. Las entidades que viajen por estos medios quedarán ancladas y arraigadas al mundo por la fuerza, sin poder llegar al nullspace mientras estén dentro de su alcance.
+ent-protectionanchor = ancla de protección
+    .desc = Impone lo físico sobre el propio nullspace. Trae al plano físico aquello que habita entre estados. Las entidades que viajen por estos medios quedarán ancladas y arraigadas al mundo por la fuerza, sin poder llegar al nullspace mientras estén dentro de su alcance.

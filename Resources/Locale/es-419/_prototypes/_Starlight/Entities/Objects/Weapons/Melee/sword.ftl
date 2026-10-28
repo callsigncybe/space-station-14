@@ -1,0 +1,16 @@
+ent-ChainsawSword = espada motosierra sagrada
+    .desc = No permitas que viva un hereje.
+ent-ClaymoreForged = tidebreaker
+    .desc = ¡El arma perfecta para un aspirante a caballero de mantenimiento!
+ent-ManaBlade = hoja espectral
+    .desc = Una espada formada de maná endurecido.
+ent-SwordAres = ares
+    .desc = La espada de combate "Ares" es una hoja de filo monomolecular. Esta espada de alta ingeniería está hecha para el combate cuerpo a cuerpo, acorde a la naturaleza estrecha de las estaciones de NanoTrasen.
+ent-SwordFlaming = dawnbreaker
+    .desc = ¿Cómo se mejora la perfección? ¡Pues con fuego, claro! ¡Sé la luz brillante en mantenimiento y lucha con valor!
+ent-SwordForged = espada forjada
+    .desc = Hecha de plastiacero; basta un solo roce de la hoja para hacer sangrar.
+ent-SwordImprovised = espada improvisada
+    .desc = No muy afilada, pero cumple su función.
+ent-SwordMakeshift = espada casera
+    .desc = Un poco de acero afilado fijado a una barra de metal; difícilmente se le puede llamar espada.

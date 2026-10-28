@@ -1,0 +1,14 @@
+ent-BoxMagazineCaselessRifleRubber = caja de cargadores .25 sin casquillo (goma)
+    .desc = Una caja llena de
+ent-BoxMagazineLightRifleRubber = caja de cargadores de rifle .30 (goma)
+    .desc = Una caja llena de cargadores de rifle .30 (práctica).
+ent-BoxMagazineMagnumSubMachineGunRubber = caja de cargadores Vector (goma)
+    .desc = Una caja llena de cargadores Vector (goma).
+ent-BoxMagazinePistolHighCapacityRubber = caja de cargadores de pistola automática .35 auto (goma)
+    .desc = Una caja llena de cargadores de pistola automática .35 auto (goma).
+ent-BoxMagazinePistolRubber = caja de cargadores de pistola .35 auto (goma)
+    .desc = Una caja llena de cargadores de pistola .35 auto (goma).
+ent-BoxMagazinePistolSubMachineGunRubber = caja de cargadores de subfusil .35 auto (goma)
+    .desc = Una caja llena de cargadores de subfusil .35 auto (goma).
+ent-BoxMagazineRifleRubber = caja de cargadores de rifle .20 (goma)
+    .desc = Una caja llena de cargadores de rifle .20 (goma).

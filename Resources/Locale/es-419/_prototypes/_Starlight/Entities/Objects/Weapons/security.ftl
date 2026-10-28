@@ -1,0 +1,15 @@
+ent-BorgFlashRechargeable = flash integrado
+    .desc = Un flash ultrabrillante integrado directamente en el chasis de un cyborg de seguridad. El condensador interno se recarga automáticamente.
+ent-BorgHolocuffs = holoesposas
+    .desc = Esposas holográficas de contención emitidas directamente desde el chasis de un cyborg de seguridad. Un par nuevo reaparece momentos después de usarlas y se recupera cuando el objetivo queda libre.
+ent-BorgHoloprojectorSecurity = proyector de holobarrera integrado
+    .desc = Un proyector de barreras holográficas integrado directamente en el chasis de un cyborg de seguridad. El microrreactor sellado lo mantiene autorrecargable.
+    .suffix = borg
+ent-BorgStunbatonRechargeable = porra aturdidora integrada
+    .desc = Una porra aturdidora autorrecargable integrada directamente en el chasis de un cyborg de seguridad.
+ent-DoubleStunbaton = porra aturdidora doble
+    .desc = Una porra aturdidora para incapacitar a la gente. Hacer daño activamente con ella se considera de mal gusto.
+ent-PurpleStunbaton = porra aturdidora púrpura
+    .desc = Una porra aturdidora para incapacitar a la gente. Hacer daño activamente con ella se considera de mal gusto.
+ent-WeaponPistolPDW9TaserBorg = táser integrado PDW-9
+    .desc = Un táser PDW-9 autorrecargable integrado directamente en el chasis de un cyborg de seguridad. El modo letal requiere Código Rojo o superior.

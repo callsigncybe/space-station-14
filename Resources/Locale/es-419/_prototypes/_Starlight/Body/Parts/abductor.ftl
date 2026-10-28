@@ -1,0 +1,10 @@
+ent-HeadAbductor = cabeza de Abductor
+ent-LeftArmAbductor = brazo izquierdo de Abductor
+ent-LeftFootAbductor = pie izquierdo de Abductor
+ent-LeftHandAbductor = mano izquierda de Abductor
+ent-LeftLegAbductor = pierna izquierda de Abductor
+ent-RightArmAbductor = brazo derecho de Abductor
+ent-RightFootAbductor = pie derecho de Abductor
+ent-RightHandAbductor = mano derecha de Abductor
+ent-RightLegAbductor = pierna derecha de Abductor
+ent-TorsoAbductor = torso de Abductor

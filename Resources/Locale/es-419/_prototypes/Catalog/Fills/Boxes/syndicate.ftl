@@ -1,0 +1,13 @@
+ent-BoxDeathRattleImplants = caja de implantes de estertor
+    .desc = Seis implantes de estertor para todo el escuadrón.
+ent-ChemicalSynthesisKit = kit de síntesis química
+    .desc = Un kit de inicio para el químico aspirante; ¡incluye dos viales de vestina para todas tus necesidades criminales!
+ent-CombatBakeryKit = kit de panadería de combate
+    .desc = Un kit de armas horneadas clandestinas.
+ent-ElectricalDisruptionKit = kit de disrupción eléctrica
+    .desc = Una caja de cartón para guardar cosas.
+    .suffix = Llena
+ent-SyndimovCircuitKit = kit de circuito syndimov
+    .desc = Un kit que contiene una placa electrónica con el conjunto de leyes Syndimov y una ID del Syndicate.
+ent-ThrowingKnivesKit = kit de cuchillos arrojadizos
+    .desc = Un juego de 8 cuchillos arrojadizos de marca Syndicate, perfectos para clavarlos en el cuerpo de tus víctimas.

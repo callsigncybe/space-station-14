@@ -1,0 +1,17 @@
+ent-CrateEmergencyExplosive = cajón de traje antibombas
+    .desc = ¿Ciencia se volvió loca? ¿Pitidos detrás de la esclusa? Compra ahora y sé el héroe que la estación mere... digo, ¡necesita! (tiempo no incluido)
+    .suffix = Segura
+ent-CrateEmergencyFire = cajón de bomberos
+    .desc = Solo tú puedes prevenir los incendios en la estación. Equípate con dos trajes de bombero, máscaras de gas, linternas, tanques de oxígeno grandes, extintores, cascos y unidades de enfriamiento de emergencia.
+ent-CrateEmergencyInflatablewall = cajón de paredes inflables
+    .desc = Tres pilas de paredes inflables para cuando las paredes de metal de la estación ya no quieren retener la atmósfera.
+ent-CrateEmergencyInternals = cajón de equipo de respiración
+    .desc = Domina tu energía vital y controla tu respiración con tres máscaras de respiración, tres máscaras de gas, tres trajes EVA de emergencia, tres tanques de oxígeno, tres tanques de nitrógeno y 3 unidades de enfriamiento.
+ent-CrateEmergencyInternalsLarge = cajón de equipo de respiración (grande)
+    .desc = Domina tu energía vital y controla tu respiración con seis máscaras de respiración, seis máscaras de gas, seis trajes EVA de emergencia, seis tanques de oxígeno, seis tanques de nitrógeno y seis unidades de enfriamiento.
+ent-CrateEmergencyRadiation = cajón de protección contra radiación
+    .desc = Sobrevive tanto al apocalipsis nuclear como al motor de supermateria con dos juegos de trajes antirradiación. Cada juego trae un casco, un traje y un contador Geiger. Hasta te agregamos una botella de vodka y unos vasos, considerando la esperanza de vida de quienes piden esto.
+ent-CrateGenericBiosuit = cajón de trajes de riesgo biológico de emergencia
+    .desc = Contiene 2 trajes de riesgo biológico para que ninguna enfermedad te distraiga de lo que estás haciendo ahí.
+ent-CrateNitrogenInternals = cajón de equipo de respiración (nitrógeno)
+    .desc = Contiene dos máscaras de respiración, dos máscaras de gas y cuatro tanques de nitrógeno. Pensado para especies que respiran nitrógeno.

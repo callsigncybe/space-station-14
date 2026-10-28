@@ -1,0 +1,10 @@
+ent-HeadExperiment = cabeza de experimento
+ent-LeftArmExperiment = brazo izquierdo de experimento
+ent-LeftFootExperiment = pie izquierdo de experimento
+ent-LeftHandExperiment = mano izquierda de experimento
+ent-LeftLegExperiment = pierna izquierda de experimento
+ent-RightArmExperiment = brazo derecho de experimento
+ent-RightFootExperiment = pie derecho de experimento
+ent-RightHandExperiment = mano derecha de experimento
+ent-RightLegExperiment = pierna derecha de experimento
+ent-TorsoExperiment = torso de experimento

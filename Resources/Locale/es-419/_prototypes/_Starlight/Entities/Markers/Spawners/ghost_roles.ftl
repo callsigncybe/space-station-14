@@ -1,0 +1,16 @@
+ent-SpawnPointCosmicColossus = punto de aparición de rol fantasma
+ent-SpawnPointGhostBrighteye = punto de aparición de rol fantasma
+    .suffix = brighteye
+ent-SpawnPointGhostCluwneBeast = punto de aparición de rol fantasma
+    .suffix = cluwnebeast
+ent-SpawnPointGhostDerelictBorgi = punto de aparición de rol fantasma
+ent-SpawnPointGhostDerelictEngiXenoborg = punto de aparición de rol fantasma
+ent-SpawnPointGhostDerelictHeavyXenoborg = punto de aparición de rol fantasma
+ent-SpawnPointGhostDerelictPurrfusCyborg = punto de aparición de rol fantasma
+ent-SpawnPointGhostDerelictScoutXenoborg = punto de aparición de rol fantasma
+ent-SpawnPointGhostDerelictStealthXenoborg = punto de aparición de rol fantasma
+ent-SpawnPointGhostDerelictXenoBorgi = punto de aparición de rol fantasma
+ent-SpawnPointGhostDroneRogue = punto de aparición de rol fantasma de dron rebelde
+ent-SpawnPointGhostTerminator = punto de aparición de exterminador
+ent-SpawnPointGhostTerrorPrincess = punto de aparición de rol fantasma
+ent-SpawnPointXenoroach = punto de aparición de xenocucaracha

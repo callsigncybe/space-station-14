@@ -1,0 +1,12 @@
+ent-RoundTableCarpet = mesa redonda
+    .desc = Una mesa redonda más pequeña.
+ent-RoundTableGlass = mesa redonda
+    .desc = Una mesa redonda más pequeña.
+ent-RoundTablePlasma = mesa redonda
+    .desc = Una mesa redonda más pequeña.
+ent-RoundTablePlastic = mesa redonda
+    .desc = Una mesa redonda más pequeña.
+ent-RoundTableSteel = mesa redonda
+    .desc = Una mesa redonda más pequeña.
+ent-RoundTableWood = mesa redonda
+    .desc = Una mesa redonda más pequeña.

@@ -1,0 +1,16 @@
+ent-SalvageFleshSpawner = Generador de carne de salvamento
+    .suffix = 100
+ent-SalvageLivingLightSpawner = Generador de luz viviente de salvamento
+    .suffix = 100
+ent-SalvageLootSpawner = generador de botín de salvamento
+ent-SalvageMaterialCrateSpawner = Generador de caja de materiales de salvamento
+ent-SalvageMobSpawner = Generador de mobs de salvamento
+    .suffix = 25
+ent-SalvageMobSpawner75 = Generador de mobs de salvamento
+    .suffix = 75
+ent-SpaceTickSpawner = Generador de garrapata espacial de salvamento
+    .suffix = 100
+ent-SpawnMobBearSalvage = Generador de oso espacial de salvamento
+ent-SpawnMobCobraSalvage = Generador de cobra espacial de salvamento
+ent-SpawnMobKangarooSalvage = Generador de canguro espacial de salvamento
+ent-SpawnMobSpiderSalvage = Generador de araña espacial de salvamento

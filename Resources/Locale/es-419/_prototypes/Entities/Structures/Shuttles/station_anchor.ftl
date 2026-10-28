@@ -1,0 +1,9 @@
+ent-StationAnchor = ancla de estación
+    .desc = Impide que las estaciones se muevan.
+    .suffix = Encendido
+ent-StationAnchorIndestructible = ancla de estación
+    .desc = Impide que las estaciones se muevan.
+    .suffix = Indestructible, Sin energía
+ent-StationAnchorOff = ancla de estación
+    .desc = Impide que las estaciones se muevan.
+    .suffix = Apagado

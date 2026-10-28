@@ -1,0 +1,1 @@
+ent-VampireDecoyEntity = señuelo vampírico

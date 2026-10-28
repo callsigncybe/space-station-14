@@ -1,0 +1,15 @@
+ent-BlackBishop = alfil negro
+ent-BlackKing = rey negro
+ent-BlackKnight = caballo negro
+ent-BlackPawn = peón negro
+ent-BlackQueen = reina negra
+ent-BlackRook = torre negra
+ent-ChessBoard = tablero de ajedrez
+    .desc = Un tablero de ajedrez. ¡Piezas incluidas!
+ent-ChessBoardTabletop = tablero de ajedrez
+ent-WhiteBishop = alfil blanco
+ent-WhiteKing = rey blanco
+ent-WhiteKnight = caballo blanco
+ent-WhitePawn = peón blanco
+ent-WhiteQueen = reina blanca
+ent-WhiteRook = torre blanca

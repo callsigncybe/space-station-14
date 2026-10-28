@@ -1,0 +1,1 @@
+ent-EntropicDegen = degeneración entrópica

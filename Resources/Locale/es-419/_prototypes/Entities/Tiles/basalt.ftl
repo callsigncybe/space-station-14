@@ -1,0 +1,13 @@
+ent-BasaltFive = basalto
+    .desc = Roca.
+ent-BasaltFour = basalto
+    .desc = Roca.
+ent-BasaltOne = basalto
+    .desc = Roca.
+ent-BasaltRandom = basalto
+    .desc = Roca.
+    .suffix = Aleatorio
+ent-BasaltThree = basalto
+    .desc = Roca.
+ent-BasaltTwo = basalto
+    .desc = Roca.

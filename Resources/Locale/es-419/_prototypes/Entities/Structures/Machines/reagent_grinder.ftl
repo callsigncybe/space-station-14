@@ -1,0 +1,10 @@
+ent-KitchenReagentGrinder = moledora de reactivos
+    .desc = De BlenderTech. ¿Se licuará? ¡Averigüémoslo!
+ent-KitchenReagentGrinderBeaker = moledora de reactivos
+    .desc = De BlenderTech. ¿Se licuará? ¡Averigüémoslo!
+    .suffix = vaso de precipitado
+ent-KitchenReagentGrinderBeakerLarge = moledora de reactivos
+    .desc = De BlenderTech. ¿Se licuará? ¡Averigüémoslo!
+    .suffix = vaso de precipitado grande
+ent-ReagentGrinderIndustrial = moledora de reactivos industrial
+    .desc = Una moledora de reactivos industrial.

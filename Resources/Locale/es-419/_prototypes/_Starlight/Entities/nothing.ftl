@@ -1,0 +1,1 @@
+ent-NothingEntity = objeto nada

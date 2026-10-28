@@ -1,0 +1,9 @@
+ent-CosmicVoidspawner = punto de aparición de wisp
+ent-SpawnGrayXenobiologySlime = Generador de slime gris de xenobiología
+ent-SpawnMobCargorilla = Generador de cargorila
+ent-SpawnMobClownCorgi = Generador de corgi payaso
+ent-SpawnMobKobold = Generador de kobold
+ent-SpawnMobKoboldAdvanced = Generador de kobold avanzado
+ent-SpawnMobMonkeyAdvanced = Generador de mono avanzado
+ent-SpawnSmartSubwoofer = generador de borgi subwoofer inteligente
+ent-SpawnSpaceKoi = generador de koi espacial

@@ -1,0 +1,17 @@
+ent-ShuttersFrame = marco de persiana
+    .desc = Un marco para construir una persiana.
+ent-ShuttersNormal = persiana
+    .desc = Da escalofríos pensar en lo que podría haber detrás de esta persiana.
+ent-ShuttersNormalOpen = persiana
+    .desc = Da escalofríos pensar en lo que podría haber detrás de esta persiana.
+    .suffix = Abierto
+ent-ShuttersRadiation = persianas antirradiación
+    .desc = ¿Por qué hicieron estas persianas radiactivas?
+ent-ShuttersRadiationOpen = persianas antirradiación
+    .desc = ¿Por qué hicieron estas persianas radiactivas?
+    .suffix = Abierto
+ent-ShuttersWindow = persianas de ventana
+    .desc = ¡El Mejor (TM) lugar para ver explotar a tus amigos!
+ent-ShuttersWindowOpen = persianas de ventana
+    .desc = ¡El Mejor (TM) lugar para ver explotar a tus amigos!
+    .suffix = Abierto

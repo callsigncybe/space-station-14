@@ -1,0 +1,9 @@
+ent-MobCosmicCustodianHostile = custodio maligno
+    .desc = Una abominación forjada de masa maligna. Flota con una gracia ingrávida e inquietante.
+    .suffix = Hostil
+ent-MobCosmicLodestarHostile = estrella guía maligna
+    .desc = Una abominación forjada de masa maligna. Una luz abrasadora titila en su interior.
+    .suffix = Hostil
+ent-MobCosmicOracleHostile = oráculo maligno
+    .desc = Una abominación forjada de masa maligna. Su mirada busca sin descanso.
+    .suffix = Hostil

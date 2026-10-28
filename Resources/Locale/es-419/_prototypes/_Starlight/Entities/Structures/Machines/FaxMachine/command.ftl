@@ -1,0 +1,9 @@
+ent-FaxMachineCommandAICore = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+    .suffix = CMD: Núcleo de la IA
+ent-FaxMachineCommandBridge = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+    .suffix = CMD: Puente
+ent-FaxMachineCommandConference = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+    .suffix = CMD: Sala de conferencias

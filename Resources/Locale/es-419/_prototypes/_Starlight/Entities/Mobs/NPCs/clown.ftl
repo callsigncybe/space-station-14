@@ -1,0 +1,12 @@
+ent-MobClownClamp = payaso aberrante
+    .desc = Una masa resbaladiza de materia hilarante, animada por energía honktástica.
+    .suffix = IA
+ent-MobClownGolem = payaso aberrante
+    .desc = Una masa resbaladiza de materia hilarante, animada por energía honktástica.
+    .suffix = IA
+ent-MobClownJared = payaso aberrante
+    .desc = Una masa resbaladiza de materia hilarante, animada por energía honktástica.
+    .suffix = IA
+ent-MobClownLover = payaso aberrante
+    .desc = Una masa resbaladiza de materia hilarante, animada por energía honktástica.
+    .suffix = IA

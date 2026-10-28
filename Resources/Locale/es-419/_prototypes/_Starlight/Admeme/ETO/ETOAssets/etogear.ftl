@@ -1,0 +1,16 @@
+ent-ClothingEyesSunGlassesETO = lentes de operativo ETO
+    .desc = Lentes de sol modificados con la capacidad de ver quién es quién.
+ent-ClothingHeadsetETO = auriculares de operativo ETO
+    .desc = Unos auriculares que se entregan a los operativos ETO para mantener la comunicación durante la batalla.
+ent-ClothingHeadsetETOSpecialist = auriculares de especialista ETO
+    .desc = Unos auriculares que se entregan a los especialistas ETO para que hagan lo que mejor saben hacer.
+ent-ClothingMaskGasETO = máscara de operativo ETO
+    .desc = Máscara estándar de operativo ETO. Tiene algo de refuerzo balístico para que no te conviertan la cara en queso gruyer a cada rato, pero no te va a mantener con vida por sí sola.
+ent-ClothingMaskGasETOCorpsman = máscara de gas de sanitario ETO
+    .desc = Una máscara digna del sanitario, modificada con un MedHUD que muestra un visor holográfico con la salud de tus compañeros de equipo.
+ent-ClothingMaskGasETOLead = máscara de gas de líder ETO
+    .desc = Una máscara ideal para un terrorista al mando. Protege de disparos al azar, pero no te va a mantener con vida por sí sola. Modificada con un HUD de administración y de salud que muestra la salud y la lealtad de quienes te rodean.
+ent-ETOBetterBomb = PS-21ETO "Planet Buster"
+    .desc = Una bomba de destrucción masiva, capaz de destrozar hasta las estructuras más fortificadas. "Muerte a mi enemigo, libertad a sus esclavos."
+ent-ETOBomb = PS-3ETO
+    .desc = ¡Una bomba modificada con más potencia, capaz de volar en pedazos tu objetivo! Modificada con correas magnéticas para poder llevarla en la espalda.

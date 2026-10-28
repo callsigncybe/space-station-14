@@ -1,0 +1,12 @@
+ent-GlockenspielInstrument = glockenspiel
+    .desc = Eso es un instrumento.
+ent-MicrophoneInstrument = micrófono
+    .desc = Perfecto para cantar con toda el alma.
+ent-MusicBoxInstrument = caja musical
+    .desc = Tocarla te hace sentir a salvo de los animatrónicos aterradores.
+ent-ReverseCymbalsInstrument = platillos invertidos
+    .desc = ¿Creo que los tienes al revés?
+ent-WoodblockInstrument = caja china
+    .desc = Si la escuchas lo suficiente, empezará a metérsete en la cabeza.
+ent-XylophoneInstrument = xilófono
+    .desc = Glockenspiel de colores del arcoíris.

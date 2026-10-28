@@ -1,0 +1,12 @@
+ent-GasFilter = filtro de gas
+    .desc = Muy útil para filtrar gases.
+ent-GasFilterFlipped = filtro de gas
+    .desc = Muy útil para filtrar gases.
+    .suffix = Invertido
+ent-GasMixer = mezclador de gas volumétrico
+    .desc = Muy útil para mezclar gases.
+ent-GasMixerFlipped = mezclador de gas volumétrico
+    .desc = Muy útil para mezclar gases.
+    .suffix = Invertido
+ent-PressureControlledValve = válvula neumática
+    .desc = Una válvula bidireccional controlada por presión. Se abre si la tubería de salida tiene una presión menor que la de la tubería de control por 101.325 kPa.

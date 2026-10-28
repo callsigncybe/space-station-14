@@ -1,0 +1,16 @@
+ent-WeaponWandCluwne = varita de cluwnificación
+    .desc = Empeora su situación convirtiéndolo en un cluwne.
+ent-WeaponWandDeath = varita mágica de muerte instantánea
+    .desc = Solo los mejores y más brillantes del equipo de I+D de los Space Wizards trabajaron juntos para crear esta belleza.
+ent-WeaponWandFireball = varita de bola de fuego
+    .desc = ¡Grandes bolas de fuego!
+ent-WeaponWandLocker = varita del casillero
+    .desc = ¡Mete nerds en casilleros a distancia!
+ent-WeaponWandPolymorphBread = varita mágica de pan
+    .desc = ¡Convierte a todos tus amigos en pan! ¡A tu jefe! ¡A tus enemigos! ¡A tu perro! ¡Haz que todo sea pan!
+ent-WeaponWandPolymorphCarp = varita de polimorfia en carpa
+    .desc = Para cuando necesitas un filete de carpa rápido y el payaso se ve jugoso.
+ent-WeaponWandPolymorphDoor = varita de entrada
+    .desc = Para cuando necesitas una ruta de escape.
+ent-WeaponWandPolymorphMonkey = varita de polimorfia en mono
+    .desc = Para cuando necesitas un amigo mono.

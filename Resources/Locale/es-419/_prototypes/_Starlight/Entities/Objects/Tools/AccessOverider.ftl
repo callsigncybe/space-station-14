@@ -1,0 +1,9 @@
+ent-AccessOverider = anulador de autenticación
+    .desc = Un configurador de acceso modificado, especializado para operaciones de irrupción y limpieza del ERT en estaciones de NT
+    .suffix = Limitado
+ent-AccessOveriderRecharging = anulador de autenticación
+    .desc = Un configurador de acceso modificado, especializado para operaciones de irrupción y limpieza del ERT en estaciones de NT
+    .suffix = Limitado, recargable
+ent-AccessOveriderUnlimited = anulador de autenticación
+    .desc = Un configurador de acceso modificado, especializado para operaciones de irrupción y limpieza del ERT en estaciones de NT
+    .suffix = Ilimitado

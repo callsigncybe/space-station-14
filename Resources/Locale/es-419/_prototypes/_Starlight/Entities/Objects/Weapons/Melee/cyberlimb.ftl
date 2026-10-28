@@ -1,0 +1,10 @@
+ent-CyberEnergyChainsword = espada sierra de energía
+    .desc = Estrella esto contra la persona que quieras destruir, mental y físicamente.
+ent-CyberMantisBlade = cuchilla de mantis
+    .desc = Una cuchilla afilada que sale de tu propio brazo; es hora de hacer arder una corporación.
+ent-MeleeWeaponCyberEmpFist = puño de zeus
+    .desc = Condensador EMP montado en el brazo, listo para inutilizar un dispositivo eléctrico.
+ent-MeleeWeaponCyberHerakles = puño de Herakles
+    .desc = Un reemplazo de brazo en apariencia no letal. Lo bastante fuerte para arrojar gente y forzar puertas.
+ent-MeleeWeaponCyberStunFist = puño aturdidor
+    .desc = Dispositivo de descargas eléctricas montado en el brazo. Manipular con cuidado.

@@ -1,0 +1,10 @@
+ent-CigCartonBlack = cartón de Nomads
+    .desc = Un cartón que contiene 6 cajetillas de Nomads.
+ent-CigCartonBlue = cartón de AcmeCo
+    .desc = Un cartón que contiene 6 cajetillas de AcmeCo.
+ent-CigCartonGreen = cartón de Spessman's Smokes
+    .desc = Un cartón que contiene 6 cajetillas de Spessman's Smokes.
+ent-CigCartonMixed = cigarros empapados de Dan
+    .desc = Un cartón que contiene 3 cajetillas de cigarros empapados de Dan.
+ent-CigCartonRed = cartón de DromedaryCo
+    .desc = Un cartón que contiene 6 cajetillas de Dromedarycos.

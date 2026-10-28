@@ -1,0 +1,12 @@
+ent-ActionCreateThrowingStar = Crear estrella arrojadiza
+    .desc = Canaliza la energía del traje para crear una estrella arrojadiza que hace daño extra de stamina.
+ent-ActionEnergyKatanaDash = Embestida de katana
+    .desc = Teletranspórtate a cualquier lugar que puedas ver, si tienes tu katana de energía en la mano.
+ent-ActionNinjaEmp = Ráfaga EM
+    .desc = Desactiva toda la tecnología cercana con un pulso electromagnético.
+ent-ActionRecallKatana = Llamar katana
+    .desc = Teletransporta la katana de energía vinculada a este traje hasta quien lo lleva puesto; el costo depende de la distancia.
+ent-ActionToggleNinjaGloves = Alternar guantes ninja
+    .desc = Alterna todas las acciones de los guantes con clic izquierdo. Incluye tu forzador de puertas, drenar energía, aturdir enemigos y hackear ciertas computadoras.
+ent-ActionTogglePhaseCloak = Camuflaje de fase
+    .desc = Alterna el camuflaje de fase de tu traje. ¡Cuidado: si te golpean, todas las habilidades se desactivan por 5 segundos, incluido tu camuflaje!

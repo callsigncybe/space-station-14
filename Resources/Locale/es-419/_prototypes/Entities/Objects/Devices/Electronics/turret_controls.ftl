@@ -1,0 +1,9 @@
+ent-WeaponEnergyTurretAIControlPanelElectronics = electrónica de panel de control de torreta centinela
+    .desc = Una placa electrónica usada en un panel de control de torreta centinela.
+    .suffix = IA
+ent-WeaponEnergyTurretCommandControlPanelElectronics = electrónica de panel de control de torreta centinela
+    .desc = Una placa electrónica usada en un panel de control de torreta centinela.
+    .suffix = Mando
+ent-WeaponEnergyTurretSecurityControlPanelElectronics = electrónica de panel de control de torreta centinela
+    .desc = Una placa electrónica usada en un panel de control de torreta centinela.
+    .suffix = Seguridad

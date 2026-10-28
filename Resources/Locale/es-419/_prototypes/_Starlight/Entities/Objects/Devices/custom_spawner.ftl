@@ -1,0 +1,12 @@
+ent-CustomSpawner = generador
+    .desc = Genera cosas.
+    .suffix = Anclable
+ent-CustomSpawnerHologram = holograma
+ent-CustomSpawnerMarker = generador
+    .desc = Genera cosas.
+    .suffix = Marcador
+ent-CustomSpawnerMarkerHolo = generador
+    .desc = Genera cosas.
+    .suffix = Marcador, holograma
+ent-CustomSpawnerStatic = generador
+    .desc = Genera cosas.

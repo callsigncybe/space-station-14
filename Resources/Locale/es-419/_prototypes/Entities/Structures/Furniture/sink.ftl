@@ -1,0 +1,15 @@
+ent-Sink = lavabo
+    .desc = Las llaves se apretaron con el máximo torque posible, pero igual se sabe que gotean.
+    .suffix = Agua
+ent-SinkEmpty = lavabo
+    .desc = Las llaves se apretaron con el máximo torque posible, pero igual se sabe que gotean.
+    .suffix = Vacío
+ent-SinkStemless = lavabo
+    .desc = Las llaves se apretaron con el máximo torque posible, pero igual se sabe que gotean.
+    .suffix = Vacío
+ent-SinkStemlessWater = lavabo
+    .desc = Las llaves se apretaron con el máximo torque posible, pero igual se sabe que gotean.
+    .suffix = Agua
+ent-SinkWide = lavabo ancho
+    .desc = Las llaves se apretaron con el máximo torque posible, pero igual se sabe que gotean.
+    .suffix = Agua

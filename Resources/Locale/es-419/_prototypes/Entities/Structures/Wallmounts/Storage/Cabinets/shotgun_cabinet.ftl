@@ -1,0 +1,11 @@
+ent-ShotGunCabinet = gabinete de escopeta
+    .desc = Tiene una pequeña etiqueta que dice "Solo para uso en emergencias", junto con instrucciones para usar la escopeta de forma segura. Sí, claro.
+ent-ShotGunCabinetFilled = gabinete de escopeta
+    .desc = Tiene una pequeña etiqueta que dice "Solo para uso en emergencias", junto con instrucciones para usar la escopeta de forma segura. Sí, claro.
+    .suffix = Llena
+ent-ShotGunCabinetFilledOpen = gabinete de escopeta
+    .desc = Tiene una pequeña etiqueta que dice "Solo para uso en emergencias", junto con instrucciones para usar la escopeta de forma segura. Sí, claro.
+    .suffix = Lleno, Abierto
+ent-ShotGunCabinetOpen = gabinete de escopeta
+    .desc = Tiene una pequeña etiqueta que dice "Solo para uso en emergencias", junto con instrucciones para usar la escopeta de forma segura. Sí, claro.
+    .suffix = Abierto

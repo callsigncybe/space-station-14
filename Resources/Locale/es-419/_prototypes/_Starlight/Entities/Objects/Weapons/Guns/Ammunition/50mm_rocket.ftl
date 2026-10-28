@@ -1,0 +1,9 @@
+ent-Bullet50mmRocketStarlight = cohete débil
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+ent-Cartridge50mmRocket = cohete de 50mm
+    .desc = Un cartucho de cohete de 50mm diseñado para el sistema de cañón de shuttle ADMP-27 VESPERA. Más pequeño y liviano que los proyectiles de RPG estándar, pero igual pega fuerte.
+ent-Magazine50mmRocket = cargador de cohetes de 50mm
+    .desc = Un cargador de alta capacidad de 26 proyectiles cargado con cohetes de 60mm para el sistema de cañón de shuttle ADMP-27 VESPERA.
+ent-Magazine50mmRocketEmpty = cargador de cohetes de 50mm (vacío)
+    .desc = Un cargador de alta capacidad de 30 proyectiles cargado con cohetes de 60mm para el sistema de cañón de shuttle Vanyk-MK2.
+    .suffix = vacío

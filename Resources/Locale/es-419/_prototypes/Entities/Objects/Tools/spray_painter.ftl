@@ -1,0 +1,13 @@
+ent-SprayPainter = pintor en aerosol
+    .desc = Un pintor en aerosol para pintar esclusas, tuberías y otros objetos.
+ent-SprayPainterAmmo = pintura comprimida
+    .desc = Un cartucho de pintura muy comprimida; se usa mucho en los pintores en aerosol.
+ent-SprayPainterBorg = pintor en aerosol experimental
+    .desc = Un pintor en aerosol experimental que se recarga y puede replicar pintura comprimida de forma infinita.
+    .suffix = Borg
+ent-SprayPainterEmpty = pintor en aerosol
+    .desc = Un pintor en aerosol para pintar esclusas, tuberías y otros objetos.
+    .suffix = Vacío
+ent-SprayPainterRecharging = pintor en aerosol
+    .desc = Un pintor en aerosol para pintar esclusas, tuberías y otros objetos.
+    .suffix = Admeme

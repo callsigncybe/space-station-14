@@ -1,0 +1,14 @@
+ent-CyberPen = pluma Cybersun
+    .desc = Una pluma de alta tecnología directo del departamento legal de Cybersun, capaz de refractar luz sólida en ángulos imposibles a través de su punta de diamante para escribir. Tan poderosa que incluso puede reescribir documentos sellados oficialmente si hace falta.
+ent-LuxuryPen = pluma de lujo
+    .desc = Una pluma elegante y cara que solo mereces tener si estás calificado para manejar enormes cantidades de papeleo.
+ent-Pen = bolígrafo
+    .desc = Un bolígrafo de tinta oscura.
+ent-PenCap = pluma fuente del capitán
+    .desc = Una lujosa pluma fuente para el capitán de la estación.
+ent-PenCentcom = pluma de CentComm
+    .desc = En un intento de estar a la altura del "poder" de la burocracia de Cybersun, NT hizo una réplica de la ciberpluma, a su estilo corporativo.
+ent-PenHop = pluma fuente del JP
+    .desc = Una lujosa pluma fuente para el JP de la estación.
+ent-PenWiz = pluma mágica del mago
+    .desc = Una lujosa pluma fuente. Parece tener una goma de borrar de cristal mágico.

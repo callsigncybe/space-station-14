@@ -1,0 +1,9 @@
+ent-LootSpawnerCableCoil = generador de rollo de cable
+ent-LootSpawnerMaterials = generador de materiales
+    .suffix = Materiales de construcción
+ent-LootSpawnerMaterialsHighValue = generador de materiales valiosos
+ent-LootSpawnerMaterialsHighValueConstruction = generador de materiales valiosos
+    .suffix = Materiales de construcción
+ent-LootSpawnerMaterialsSupplementary = generador de materiales
+    .suffix = Materiales complementarios
+ent-LootSpawnerMaterialsSurplus = generador de materiales sobrantes

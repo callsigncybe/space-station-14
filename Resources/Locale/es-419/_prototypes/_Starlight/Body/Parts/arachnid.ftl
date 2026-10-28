@@ -1,0 +1,10 @@
+ent-HeadArachnid = cabeza de arácnido
+ent-LeftArmArachnid = brazo izquierdo de arácnido
+ent-LeftFootArachnid = pie izquierdo de arácnido
+ent-LeftHandArachnid = mano izquierda de arácnido
+ent-LeftLegArachnid = pierna izquierda de arácnido
+ent-RightArmArachnid = brazo derecho de arácnido
+ent-RightFootArachnid = pie derecho de arácnido
+ent-RightHandArachnid = mano derecha de arácnido
+ent-RightLegArachnid = pierna derecha de arácnido
+ent-TorsoArachnid = torso de arácnido

@@ -1,0 +1,16 @@
+ent-MobCleanBot = cleanbot
+    .desc = El avance de la automatización ahora amenaza a los conserjes espaciales.
+ent-MobFireBot = firebot
+    .desc = Un pequeño bot extintor de incendios. Se ve bastante ansioso.
+ent-MobHonkBot = honkbot
+    .desc = Aterrador.
+ent-MobHugBot = hugbot
+    .desc = Awww, ¿quién necesita un abrazo?
+ent-MobJonkBot = jonkbot
+    .desc = Aterrador.
+ent-MobMedibot = medibot
+    .desc = No reemplaza a un médico, pero es mejor que nada.
+ent-MobMimeBot = mimebot
+    .desc = ¿Por qué no saludas amistosamente al mimebot?
+ent-MobSupplyBot = supplybot
+    .desc = ¡Entrega cargamento!

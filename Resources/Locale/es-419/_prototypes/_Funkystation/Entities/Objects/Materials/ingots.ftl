@@ -1,0 +1,9 @@
+ent-MetalHydrogen = hidrógeno metálico
+    .desc = Un lingote de metal pesado con el logo de NanoTrasen grabado.
+    .suffix = Llena
+ent-MetalHydrogen1 = hidrógeno metálico
+    .desc = Un lingote de metal pesado con el logo de NanoTrasen grabado.
+    .suffix = Uno
+ent-MetalHydrogen10 = hidrógeno metálico
+    .desc = Un lingote de metal pesado con el logo de NanoTrasen grabado.
+    .suffix = 10

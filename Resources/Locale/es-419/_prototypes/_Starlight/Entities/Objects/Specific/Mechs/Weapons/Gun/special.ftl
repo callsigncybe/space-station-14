@@ -1,0 +1,11 @@
+ent-WeaponMechSpecialAirHorn = hOnKeR 5000
+    .desc = ¡Por Dios, qué fuerte! ¡HONK!
+ent-WeaponMechSpecialBananaMortar = mortero de bananas
+    .desc = Lanzador montado de cáscaras de banana.
+    .suffix = Arma de mech, Arma, Especial, Mortero
+ent-WeaponMechSpecialMousetrapMortar = mortero de ratoneras
+    .desc = Lanzador montado de ratoneras.
+    .suffix = Arma de mech, Arma, Especial, Mortero
+ent-WeaponMechSpecialPieCannon = cañón de pasteles mecanizado HX-3
+    .desc = Un instrumento de payasada para el siglo XXVI. Hónkalos a todos...
+    .suffix = Arma de mech, Arma, Especial, Mortero

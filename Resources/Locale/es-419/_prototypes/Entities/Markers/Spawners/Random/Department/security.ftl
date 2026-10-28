@@ -1,0 +1,10 @@
+ent-LootSpawnerArmory = generador de botín de armería
+    .suffix = Armas, armadura
+ent-LootSpawnerArmoryArmorOnly = generador de botín de armería
+    .suffix = Armadura
+ent-LootSpawnerArmoryGunsOnly = generador de botín de armería
+    .suffix = Armas
+ent-LootSpawnerSecurity = generador de botín de seguridad
+    .suffix = Equipo, mejor
+ent-LootSpawnerSecurityBasic = generador de botín de seguridad
+    .suffix = Equipo, simple

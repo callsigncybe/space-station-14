@@ -1,0 +1,11 @@
+ent-BodyBagCC = bolsa para cadáveres con cerradura de CentComm
+    .desc = Una bolsa un poco más resistente con un cierre por ID instalado para evitar manipulaciones, diseñada para guardar y transportar cadáveres y frenar su descomposición.
+    .suffix = NO MAPEAR
+ent-BodyBagCCFolded = bolsa para cadáveres con cerradura de CentComm
+    .desc = Una bolsa un poco más resistente con un cierre por ID instalado para evitar manipulaciones, diseñada para guardar y transportar cadáveres y frenar su descomposición.
+    .suffix = plegada
+ent-BodyBagLockable = bolsa para cadáveres con cerradura
+    .desc = Una bolsa un poco más resistente con un cierre por ID instalado para evitar manipulaciones, diseñada para guardar y transportar cadáveres y frenar su descomposición.
+ent-BodyBagLockableFolded = bolsa para cadáveres con cerradura
+    .desc = Una bolsa un poco más resistente con un cierre por ID instalado para evitar manipulaciones, diseñada para guardar y transportar cadáveres y frenar su descomposición.
+    .suffix = plegada

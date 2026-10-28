@@ -1,0 +1,9 @@
+ent-OrganNeoDwarfHeart = corazón cibernético de enano
+    .desc = En realidad no necesita latir; solo imita el movimiento para darle comodidad al usuario.
+    .suffix = Neoenano
+ent-OrganNeoDwarfLiver = hígado cibernético de enano
+    .desc = Sugerencia de maridaje: una guarnición de barras de RAM fermentadas y un buen CPU.
+    .suffix = Neoenano
+ent-OrganNeoDwarfStomach = reactor biológico de enano
+    .desc = Algunos dicen que está sobrediseñado, pero es vital para el funcionamiento de un neocito. Convierte materia orgánica en energía orgánica y eléctrica para alimentar la cibernética y la carne del neocito.
+    .suffix = Neoenano

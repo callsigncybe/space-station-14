@@ -1,0 +1,9 @@
+ent-PestSpray = spray contra plagas
+    .desc = ¡Es un spray eliminador de plagas! ¡No inhalar!
+    .suffix = Llena
+ent-PlantBGoneSpray = Plant-B-Gone
+    .desc = ¡Mata esas molestas malezas!
+    .suffix = Llena
+ent-WeedSpray = spray herbicida
+    .desc = Es una mezcla tóxica, en forma de spray, para matar malezas pequeñas.
+    .suffix = Llena

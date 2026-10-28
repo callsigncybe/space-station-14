@@ -1,0 +1,12 @@
+ent-CrateFunMegaShark = cajón de megatiburón
+    .desc = Un peluche de tiburón absolutamente enorme y abrazable. ¡Perfecto para quien necesita un amigo GRANDE!
+ent-CrateFunMoproach = cajón de kit de mopacucaracha
+    .desc = Una caja con un kit de mopacucaracha que te da dos mopacucarachas.
+ent-CrateFunPinata = cajón de piñata
+    .desc = Contiene una piñata de payaso y un bate para darle.
+ent-CrateFunSuperSynth = cajón de supersintetizador
+    .desc = Contiene un instrumento Supersintetizador. ¡Qué onda!
+ent-CrateFunTwinPointer = cajón de kit de doble puntero
+    .desc = Contiene un kit de doble puntero para todas tus necesidades de orientación bidireccional.
+ent-CrateSaltLamp = cajón de peluches de lámpara de sal
+    .desc = Contiene un peluche de lámpara de sal pequeño y uno grande. Perfectos para darle un ambiente acogedor a cualquier habitación.

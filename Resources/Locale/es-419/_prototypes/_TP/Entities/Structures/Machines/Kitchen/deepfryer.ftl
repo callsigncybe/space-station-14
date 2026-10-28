@@ -1,0 +1,12 @@
+ent-TP14KitchenDeepFryer = freidora
+    .desc = Sirve para freír comida deliciosa, o todo el oro de ciencia. Las instrucciones al costado dicen que solo uses aceite de maíz.
+    .suffix = Servicio
+ent-TP14KitchenDeepFryerEmpty = freidora
+    .desc = Sirve para freír comida deliciosa, o todo el oro de ciencia. Las instrucciones al costado dicen que solo uses aceite de maíz.
+    .suffix = Vacía, Servicio
+ent-TP14KitchenDeepFryerTabletop = freidora de mesa
+    .desc = Sirve para freír comida deliciosa, o todo el oro de ciencia. Las instrucciones al costado dicen que solo uses aceite de maíz.
+    .suffix = Servicio
+ent-TP14KitchenDeepFryerTabletopEmpty = freidora de mesa
+    .desc = Sirve para freír comida deliciosa, o todo el oro de ciencia. Las instrucciones al costado dicen que solo uses aceite de maíz.
+    .suffix = Vacía, Servicio

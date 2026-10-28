@@ -1,0 +1,12 @@
+ent-CentCommFlag = bandera de CentComm
+    .desc = Antes Stellar Vanguard Solutions.
+ent-CybersunFlag = bandera de CyberSun
+    .desc = Papel, traje, progreso.
+ent-DonkFlag = bandera de DONK CO
+    .desc = ¡Ponle un DONK!
+ent-InterdyneFlag = bandera de Interdyne Pharmaceutics
+    .desc = Por la salud de todos.
+ent-InterdyneSyndicateFlag = ¿bandera de Interdyne Pharmaceutics?
+    .desc = P-r la s_lud de t_dos.
+ent-WaffleCoFlag = bandera de Waffle Corp
+    .desc = Confiable y deliciosa.

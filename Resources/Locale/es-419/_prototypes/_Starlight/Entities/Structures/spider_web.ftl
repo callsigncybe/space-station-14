@@ -1,0 +1,14 @@
+ent-SpiderWebAirtight = telaraña hermética
+    .desc = Es fibrosa, pegajosa y hermética.
+ent-SpiderWebPoison = telaraña venenosa
+    .desc = Es fibrosa, pegajosa y enfermiza.
+ent-SpiderWebSlime = telaraña de slime
+    .desc = Es fibrosa, pegajosa y viscosa.
+ent-SpiderWebSpiderlings = telaraña antiarañitas
+    .desc = Es fibrosa y pegajosa. Contiene una solución que mantiene alejadas a las crías de araña.
+ent-SpiderWebStealth = telaraña sigilosa
+    .desc = Es fibrosa y pegajosa.
+ent-SpiderWebStrong = telaraña resistente
+    .desc = Es fibrosa, pegajosa y resistente.
+ent-SpiderWebStrongThick = telaraña gruesa
+    .desc = Es fibrosa, pegajosa, sólida y resistente.

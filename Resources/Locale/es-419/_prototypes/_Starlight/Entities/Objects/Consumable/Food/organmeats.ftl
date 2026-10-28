@@ -1,0 +1,10 @@
+ent-FoodBlackPudding = morcilla
+    .desc = Justo cuando creías que la cocina inglesa no podía ser peor...
+ent-FoodHaggis = haggis
+    .desc = Un manjar entre los enanos, los escoceses y absolutamente nadie más. Inexplicablemente nutritivo.
+ent-FoodSausage = salchicha cruda
+    .desc = No la dejes mal cocida.
+ent-FoodSausageBun = salchicha en pan
+    .desc = ¡No olvides los aderezos!
+ent-FoodSausageCooked = salchicha
+    .desc = Si no sabes cómo se hacen, son deliciosas. Después de saberlo, es otra historia.

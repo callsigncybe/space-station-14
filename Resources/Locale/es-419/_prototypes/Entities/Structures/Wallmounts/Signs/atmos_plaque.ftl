@@ -1,0 +1,10 @@
+ent-PlaqueAtmos = generador de placas de atmos
+    .suffix = Generador
+ent-PlaqueAtmosFEA = placa de la División Atmosférica FEA
+    .desc = Esta placa conmemora la caída de la división Atmos FEA. Para todos los hombres chamuscados, mareados y quebradizos que murieron en sus manos.
+ent-PlaqueAtmosLINDA = placa de la División Atmosférica LINDA
+    .desc = Esta placa conmemora la caída de la división Atmos LINDA. Para todos los hombres chamuscados, mareados y quebradizos que murieron en sus manos.
+ent-PlaqueAtmosZAS = placa de la División Atmosférica ZAS
+    .desc = Esta placa conmemora la caída de la división Atmos ZAS. Para todos los hombres chamuscados, mareados y quebradizos que murieron en sus manos.
+ent-PlaqueAtmosZUM = placa de la División Atmosférica ZUM
+    .desc = Esta placa conmemora el ascenso de la división Atmos ZUM. Que lleven la antorcha que dejaron las divisiones Atmos ZAS, LINDA y FEA.

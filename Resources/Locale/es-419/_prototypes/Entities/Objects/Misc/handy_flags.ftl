@@ -1,0 +1,10 @@
+ent-BlankHandyFlag = bandera de mano en blanco
+    .desc = Un pedazo de tela blanca enrollado en un palo.
+ent-LGBTQHandyFlag = bandera de mano LGBTQ
+    .desc = La práctica bandera de "sé gay, comete crímenes".
+ent-NTHandyFlag = bandera de mano de NanoTrasen
+    .desc = ¡Gloria a NT! Un momento, ¿de verdad hicieron una bandera de mano para una corporación?
+ent-PirateHandyFlag = bandera de mano pirata
+    .desc = Sostenla en tus manos y demuéstrales a esas carpas que no estás bromeando.
+ent-SyndieHandyFlag = bandera de mano del Syndicate
+    .desc = Para patriotas verdaderamente rebeldes. ¡Muerte a NT!

@@ -1,0 +1,9 @@
+ent-NuclearBomb = explosivo de fisión nuclear
+    .desc = Probablemente no deberías quedarte a ver si está armado.
+    .suffix = TERMINA LA RONDA
+ent-NuclearBombKeg = explosivo de fisión nuclear
+    .desc = Probablemente no deberías quedarte a ver si está armada. Tiene un grifo en el costado.
+    .suffix = barril
+ent-NuclearBombUnanchored = explosivo de fisión nuclear
+    .desc = Probablemente no deberías quedarte a ver si está armado.
+    .suffix = TERMINA LA RONDA, sin anclar

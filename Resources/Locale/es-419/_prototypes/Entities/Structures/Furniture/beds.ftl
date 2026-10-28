@@ -1,0 +1,12 @@
+ent-Bed = cama
+    .desc = Se usa para acostarse, dormir o atarse. Descansar aquí cura de forma extremadamente lenta.
+ent-DogBed = cama de perro
+    .desc = Una cama de perro de aspecto cómodo. Hasta puedes atar a tu mascota, por si se apaga la gravedad.
+ent-Mattress = colchón
+    .desc = Mejor dormir en eso que en el piso, supongo.
+ent-MedicalBed = cama médica
+    .desc = Una cama de hospital para que los pacientes se recuperen. Descansar aquí cura de forma bastante lenta.
+ent-PsychBed = diván de psicólogo
+    .desc = Un diván tapizado para la atención psicológica de los pacientes.
+ent-WebBed = cama de telaraña
+    .desc = Te atraparon en la telaraña.

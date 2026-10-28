@@ -1,0 +1,12 @@
+ent-BrighteyeCreateShadeAction = Crear sombra
+    .desc = Crea un campo de oscuridad que te sigue.
+ent-BrighteyeDarkTrapAction = Crear trampa
+    .desc = Crea una trampa oscura en tu ubicación actual.
+ent-BrighteyePhaseAction = Cambio de fase
+    .desc = Desalinéate del espacio real para viajar rápido a distintas áreas.
+ent-BrighteyePortalAction = Crear portal
+    .desc = Crea un portal a la oscuridad en tu ubicación actual.
+ent-BrighteyeShadeSkipAction = Salto de sombra
+    .desc = Aturde a una criatura con la oscuridad.
+ent-NullPhaseAction = Cambio de fase
+    .desc = Desalinéate del espacio real para viajar rápido a distintas áreas.

@@ -1,0 +1,14 @@
+ent-DecalSpawnerBasaltRock = Generador de calcomanías
+    .suffix = Roca basáltica
+ent-DecalSpawnerBushesAC = Generador de calcomanías
+    .suffix = Arbustos (a-c)
+ent-DecalSpawnerFlowers = Generador de calcomanías
+    .suffix = Flores
+ent-DecalSpawnerGrassAB = Generador de calcomanías
+    .suffix = Pasto (a-b)
+ent-DecalSpawnerGrassC = Generador de calcomanías
+    .suffix = Pasto (c)
+ent-DecalSpawnerGrassDE = Generador de calcomanías
+    .suffix = Pasto (d-e)
+ent-DecalSpawnerGrassyRock = Generador de calcomanías
+    .suffix = Roca con pasto

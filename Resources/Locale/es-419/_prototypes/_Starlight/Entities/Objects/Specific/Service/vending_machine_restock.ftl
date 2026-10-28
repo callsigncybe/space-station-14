@@ -1,0 +1,14 @@
+ent-VendingMachineRestockCentComm = caja de recarga de expendedora de CentComm
+    .desc = Productos finos para gustos finos.
+ent-VendingMachineRestockDonk = caja de recarga de Donk on the Go
+    .desc = Una caja llena de lo que legalmente es comida. Cárgala en una expendedora Donk on the Go para rellenarla.
+ent-VendingMachineRestockGumball = caja de recarga de dispensador de chicles
+    .desc = Una caja llena de chicles sueltos de varios colores. Cárgala en un dispensador de chicles para rellenarlo.
+ent-VendingMachineRestockIceCream = caja de recarga de helados
+    .desc = Una caja llena de helado y nitrógeno casi líquido.
+ent-VendingMachineRestockMagical = caja de recarga de MagiVend
+    .desc = Recarga para volver a lanzar.
+ent-VendingMachineRestockSustenance = caja de recarga de sustento para prisioneros
+    .desc = Una caja llena de lo que legalmente es comida. Cárgala en una expendedora de sustento para rellenarla.
+ent-VendingMachineRestockSyndicate = caja de recarga de expendedora del Syndicate
+    .desc = Una caja de suministros ilícitos que, casualmente, se parece mucho a una recarga de donksoft...

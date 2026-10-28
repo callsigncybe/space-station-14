@@ -1,0 +1,16 @@
+ent-BoxBeanbag = caja de postas de bolsa de frijoles calibre 12
+    .desc = Una caja de cartón con cartuchos de escopeta calibre 12. Pensada para munición de bolsa de frijoles menos que letal.
+ent-BoxLethalshot = caja de perdigones calibre 12
+    .desc = Una caja de cartón con cartuchos de escopeta calibre 12. Pensada para munición cinética de uso general.
+ent-BoxShellTranquilizer = caja de postas tranquilizantes calibre 12
+    .desc = Una caja de cartón con cartuchos de escopeta calibre 12. Pensada para munición tranquilizante no letal.
+ent-BoxShotgunFlare = caja de bengalas calibre 12
+    .desc = Una caja de cartón con cartuchos de escopeta calibre 12. Pensada para munición de bengala iluminadora.
+ent-BoxShotgunIncendiary = caja de perdigones incendiarios calibre 12
+    .desc = Una caja de cartón con cartuchos de escopeta calibre 12. Pensada para munición incendiaria autoinflamable.
+ent-BoxShotgunPractice = caja de cartuchos de fogueo calibre 12
+    .desc = Una caja de cartón con cartuchos de escopeta calibre 12. Pensada para munición de práctica inofensiva.
+ent-BoxShotgunSlug = caja de postas calibre 12
+    .desc = Una caja de cartón con cartuchos de escopeta calibre 12. Pensada para munición de posta única de largo alcance.
+ent-BoxShotgunUranium = caja de perdigones de uranio calibre 12
+    .desc = Una caja de cartón con cartuchos de escopeta calibre 12. Pensada para munición exótica con núcleo de uranio.

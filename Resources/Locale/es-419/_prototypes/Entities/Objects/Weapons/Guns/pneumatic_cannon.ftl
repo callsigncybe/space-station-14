@@ -1,0 +1,15 @@
+ent-BorgLauncherCreamPie = cañón de tartas experimental
+    .desc = ¡Entrega una generosa porción de crema directo a la tripulación! Hornea tartas automáticamente con el tiempo.
+ent-LauncherCreamPie = cañón de tartas
+    .desc = Cárgalo con tartas de crema para resultados óptimos.
+    .suffix = Vacío
+ent-LauncherSyringe = pistola de jeringas
+    .desc = Cárgala con jeringas envenenadas para una diversión óptima.
+ent-WeaponImprovisedPneumaticCannon = cañón neumático improvisado
+    .desc = Improvisado con nada más que un tubo, unos precintos y un cañón neumático. No acepta tanques sin suficiente gas.
+ent-WeaponImprovisedPneumaticCannonAdmeme = cañón neumático improvisado
+    .desc = Improvisado con nada más que un tubo, unos precintos y un cañón neumático. No acepta tanques sin suficiente gas.
+    .suffix = Admeme
+ent-WeaponImprovisedPneumaticCannonGun = cañón neumático improvisado
+    .desc = Improvisado con nada más que un tubo, unos precintos y un cañón neumático. No acepta tanques sin suficiente gas.
+    .suffix = Arma

@@ -1,0 +1,15 @@
+ent-MobSpiderling = arañita
+    .desc = una araña pequeña que crece hasta convertirse en una araña desconocida, grande y peligrosa.
+    .suffix = IA
+ent-MobSpiderlingSpiderAngry = arañita
+    .desc = una araña pequeña que crece hasta convertirse en una araña desconocida, grande y peligrosa.
+    .suffix = Araña gigante
+ent-MobSpiderlingTerrorGray = arañita
+    .desc = una araña pequeña que crece hasta convertirse en una araña desconocida, grande y peligrosa.
+    .suffix = Terror gris
+ent-MobSpiderlingTerrorGreen = arañita
+    .desc = una araña pequeña que crece hasta convertirse en una araña desconocida, grande y peligrosa.
+    .suffix = Terror verde
+ent-MobSpiderlingTerrorRed = arañita
+    .desc = una araña pequeña que crece hasta convertirse en una araña desconocida, grande y peligrosa.
+    .suffix = Terror rojo

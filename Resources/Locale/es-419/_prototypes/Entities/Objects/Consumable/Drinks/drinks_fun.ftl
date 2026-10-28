@@ -1,0 +1,12 @@
+ent-BottomlessLube = vaso de precipitados de lubricante sin fondo
+    .desc = Este vaso de precipitados anómalo produce lubricante espacial infinito, por lo que debe vigilarse de cerca para que no caiga en las manos equivocadas.
+    .suffix = DEBUG
+ent-DrinkJarWhat = frasco de algo
+    .desc = No puedes saber bien qué es esto.
+ent-DrinkMopwataBottleRandom = deliciosa mopwata
+    .desc = Una botella marrón empañada con una etiqueta desteñida que muestra un trapeador. Viene llena de una... cosecha turbia.
+    .suffix = Llena
+ent-DrinkSpaceGlue = tubo de pegamento espacial
+    .desc = Pegamento de alto rendimiento para el mantenimiento de equipos mecánicos extremadamente complejos. ¡NO LO BEBAS!
+ent-DrinkSpaceLube = tubo de lubricante espacial
+    .desc = Lubricante de alto rendimiento para el mantenimiento de equipos mecánicos extremadamente complejos.

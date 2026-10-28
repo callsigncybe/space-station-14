@@ -1,0 +1,16 @@
+ent-BlackstarBlackguardIDCard = tarjeta ID de Blackguard
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-BlackstarDreadwalkerIDCard = tarjeta ID de Dreadwalker
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-BlackstarHighLegateIDCard = tarjeta ID de Alto Legado
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-BlackstarIDCard = tarjeta ID de Blackstar
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-BlackstarInitiateIDCard = tarjeta ID de Iniciado
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-BlackstarLegateIDCard = tarjeta ID de Legado
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-BlackstarLegionCommanderIDCard = tarjeta ID de Comandante de la Legión
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.
+ent-BlackstarLegionnaireIDCard = tarjeta ID de Legionario
+    .desc = Una tarjeta necesaria para acceder a varias áreas de la estación.

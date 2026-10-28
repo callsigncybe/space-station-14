@@ -1,0 +1,2 @@
+ent-OptionsVisualizerTest =
+    .suffix = DEBUG

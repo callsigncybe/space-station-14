@@ -1,0 +1,11 @@
+ent-JailFree = tarjeta para salir de la cárcel gratis
+    .desc = En esta tarjeta dice ¡Sal de la cárcel gratis!, y a la derecha hay un dibujo de un hombre con máscara de payaso y monóculo escapando de una jaula. Tanto el texto como el dibujo están hechos con crayón.
+ent-NukeCodePaperAllNukes = códigos de autenticación nuclear
+    .desc = Una hoja de papel blanco.
+    .suffix = Todas las nukes
+ent-PaperITG = papel de la ITG
+    .desc = Una sola unidad de burocracia, con el logo del Gremio de Comercio Interestelar.
+ent-PaperNTCC = papel de NT-CC
+    .desc = Una sola unidad de burocracia, con los logos de NanoTrasen y Central Command.
+ent-TapeRecorderTranscript = transcripción de registro
+    .desc = Una hoja de papel blanco.

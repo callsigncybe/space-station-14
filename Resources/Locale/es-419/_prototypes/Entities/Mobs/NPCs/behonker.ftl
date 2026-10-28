@@ -1,0 +1,12 @@
+ent-MobBehonkerElectrical = behonker
+    .desc = Un aspecto demoníaco flotante de la Honkmother.
+    .suffix = Piro
+ent-MobBehonkerGrav = behonker
+    .desc = Un aspecto demoníaco flotante de la Honkmother.
+    .suffix = Grav
+ent-MobBehonkerIce = behonker
+    .desc = Un aspecto demoníaco flotante de la Honkmother.
+    .suffix = Hielo
+ent-MobBehonkerPyro = behonker
+    .desc = Un aspecto demoníaco flotante de la Honkmother.
+    .suffix = Eléctrico

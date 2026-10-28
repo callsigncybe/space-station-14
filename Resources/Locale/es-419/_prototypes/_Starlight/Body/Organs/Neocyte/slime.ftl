@@ -1,0 +1,15 @@
+ent-OrganNeoSlimeHeart = circulador de slime aumentado
+    .desc = Un pequeño circulador que hace que el fluido se mueva por el cuerpo del slime.
+    .suffix = Neoslime
+ent-OrganNeoSlimeLungs = sacos de gas de slime aumentados
+    .desc = Recolectan nitrógeno, que las células de slime usan para su mantenimiento.
+    .suffix = Neoslime
+ent-OrganNeoSlimePeepoids = peepoides aumentados
+    .desc = Primitivos y viscosos, pero más o menos igual de buenos que el equivalente humano.
+    .suffix = Neoslime
+ent-OrganNeoSlimeSlurpoid = slurpoide aumentado
+    .desc = Tiene toda la consistencia de la gelatina.
+    .suffix = Neoslime
+ent-SentientNeoSlimeCore = núcleo de slime consciente aumentado
+    .desc = La fuente de una viscosidad increíble e interminable.
+    .suffix = Neoslime

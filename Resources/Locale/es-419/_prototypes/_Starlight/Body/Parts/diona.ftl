@@ -1,0 +1,10 @@
+ent-HeadDiona = cabeza de diona
+ent-LeftArmDiona = brazo izquierdo de diona
+ent-LeftFootDiona = pie izquierdo de diona
+ent-LeftHandDiona = mano izquierda de diona
+ent-LeftLegDiona = pierna izquierda de diona
+ent-RightArmDiona = brazo derecho de diona
+ent-RightFootDiona = pie derecho de diona
+ent-RightHandDiona = mano derecha de diona
+ent-RightLegDiona = pierna derecha de diona
+ent-TorsoDiona = torso de diona

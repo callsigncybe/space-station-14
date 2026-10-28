@@ -1,0 +1,10 @@
+ent-MagazineBoxRifleBig = caja de munición (.20 de rifle SP)
+ent-MagazineBoxRifleHP = caja de munición (.20 de rifle HP)
+ent-MagazineBoxRifleIncendiary = caja de munición (.20 de rifle incendiaria)
+    .desc = Una caja de cartón con balas .20 de rifle. Pensada para munición incendiaria autoinflamable.
+ent-MagazineBoxRiflePractice = caja de munición (.20 de rifle de práctica)
+    .desc = Una caja de cartón con balas .20 de rifle. Pensada para munición de práctica inofensiva.
+ent-MagazineBoxRifleSP = caja de munición (.20 de rifle SP)
+    .desc = Una caja de cartón con balas .20 de rifle. Pensada para munición cinética de uso general.
+ent-MagazineBoxRifleUranium = caja de munición (.20 de rifle de uranio)
+    .desc = Una caja de cartón con balas .20 de rifle. Pensada para munición exótica con núcleo de uranio.

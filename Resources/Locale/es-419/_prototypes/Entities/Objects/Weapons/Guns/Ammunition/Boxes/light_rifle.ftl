@@ -1,0 +1,11 @@
+ent-MagazineBoxLightRifleAP = caja de munición (.30 de rifle AP)
+ent-MagazineBoxLightRifleBig = caja de munición (.30 rifle SP)
+ent-MagazineBoxLightRifleFMJ = caja de munición (.30 de rifle FMJ)
+ent-MagazineBoxLightRifleHP = caja de munición (.30 de rifle HP)
+ent-MagazineBoxLightRifleIncendiary = caja de munición (.30 de rifle incendiaria)
+    .desc = Una caja de cartón con balas .30 de rifle. Pensada para munición incendiaria autoinflamable.
+ent-MagazineBoxLightRiflePractice = caja de munición (.30 de rifle de práctica)
+    .desc = Una caja de cartón con balas .30 de rifle. Pensada para munición de práctica inofensiva.
+ent-MagazineBoxLightRifleSP = caja de munición (.30 rifle SP)
+ent-MagazineBoxLightRifleUranium = caja de munición (.30 de rifle de uranio)
+    .desc = Una caja de cartón con balas .30 de rifle. Pensada para munición exótica con núcleo de uranio.

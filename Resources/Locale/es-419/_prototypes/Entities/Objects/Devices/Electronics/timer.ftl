@@ -1,0 +1,9 @@
+ent-BrigTimerElectronics = electrónica de temporizador de calabozo
+    .desc = Una placa electrónica que se usa en circuitos de temporizador. Parece que podrías usar un destornillador para cambiar el tipo de placa.
+    .suffix = Electrónica
+ent-ScreenTimerElectronics = electrónica de temporizador con pantalla
+    .desc = Una placa electrónica que se usa en circuitos de temporizador. Parece que podrías usar un destornillador para cambiar el tipo de placa.
+    .suffix = Electrónica
+ent-SignalTimerElectronics = electrónica de temporizador de señal
+    .desc = Una placa electrónica que se usa en circuitos de temporizador. Parece que podrías usar un destornillador para cambiar el tipo de placa.
+    .suffix = Electrónica

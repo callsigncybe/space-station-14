@@ -1,0 +1,15 @@
+ent-CardboardBoxLargeBureaucracy = caja de artículos de oficina
+    .desc = Una caja de cartón grande para guardar cosas.
+    .suffix = Oficina
+ent-CardboardBoxLargeCargoRoundstart = caja de suministros de carga
+    .desc = Una caja de cartón grande para guardar cosas.
+    .suffix = Carga, inicio de ronda
+ent-CardboardBoxLargeEngiRoundstart = caja de suministros de ingeniería
+    .desc = Una caja de cartón grande para guardar cosas.
+    .suffix = Ingeniería, inicio de ronda
+ent-CardboardBoxLargeInternalsFilled = caja pequeña de suministros de respiración de emergencia
+    .desc = Una caja de cartón grande para guardar cosas.
+    .suffix = LLENA
+ent-CardboardBoxLargeServiceJani = caja de suministros de limpieza
+    .desc = Una caja de cartón grande para guardar cosas.
+    .suffix = Conserje

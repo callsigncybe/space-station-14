@@ -1,0 +1,16 @@
+ent-AdminInstantEffectBluespace = efecto instantáneo
+    .suffix = Destello bluespace
+ent-AdminInstantEffectEMP = efecto instantáneo
+    .suffix = EMP
+ent-AdminInstantEffectFlash = efecto instantáneo
+    .suffix = Destello
+ent-AdminInstantEffectGravityWell = efecto instantáneo
+    .suffix = Pozo de gravedad
+ent-AdminInstantEffectSmoke10 = efecto instantáneo
+    .suffix = Humo (10 s)
+ent-AdminInstantEffectSmoke3 = efecto instantáneo
+    .suffix = Humo (03 s)
+ent-AdminInstantEffectSmoke30 = efecto instantáneo
+    .suffix = Humo (30 s)
+ent-AdminInstantEffectTearGas = efecto instantáneo
+    .suffix = Gas lacrimógeno

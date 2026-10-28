@@ -1,0 +1,13 @@
+ent-MagazineLightRifleBoxSP = caja de cargador de L6 SAW (.30 de rifle SP)
+    .desc = Caja que contiene una cinta de 100 balas .30 de rifle enlazadas, usada por ametralladoras ligeras como la L6. Pensada para munición cinética de uso general.
+ent-MagazineLightRifleEmpty = cargador (.30 de rifle cualquiera)
+    .desc = Cargador curvo de doble hilera de 30 balas para rifles de combate.
+    .suffix = vacío
+ent-MagazineLightRifleIncendiary = cargador (.30 de rifle incendiario)
+    .desc = Cargador curvo de doble hilera de 30 balas para rifles de combate. Pensado para munición incendiaria autoinflamable.
+ent-MagazineLightRiflePractice = cargador (.30 de rifle de práctica)
+    .desc = Cargador curvo de doble hilera de 30 balas para rifles de combate. Pensado para munición de práctica inofensiva.
+ent-MagazineLightRifleSP = cargador (.30 de rifle SP)
+    .desc = Cargador curvo de doble hilera de 30 proyectiles para rifles de combate. Pensado para munición cinética de uso general.
+ent-MagazineLightRifleUranium = cargador (.30 de rifle de uranio)
+    .desc = Cargador curvo de doble hilera de 30 balas para rifles de combate. Pensado para munición exótica con núcleo de uranio.

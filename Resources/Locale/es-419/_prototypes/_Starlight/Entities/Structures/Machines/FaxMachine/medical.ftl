@@ -1,0 +1,12 @@
+ent-FaxMachineMedical = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+    .suffix = MED: Medicina
+ent-FaxMachineMedicalCMO = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+    .suffix = MED: Director Médico
+ent-FaxMachineMedicalChemistry = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+    .suffix = MED: Química
+ent-FaxMachineMedicalPsychology = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+    .suffix = MED: Psicología

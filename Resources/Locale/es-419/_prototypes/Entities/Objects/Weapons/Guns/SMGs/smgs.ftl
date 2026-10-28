@@ -1,0 +1,13 @@
+ent-WeaponSubMachineGunAtreides = Atreides
+    .desc = Una rara pistola ametralladora de la época de las Guerras Corporativas. Su altísima cadencia de fuego y su perfil compacto la hacen útil en combate cuerpo a cuerpo. A pesar de su edad, está en muy buen estado. Usa cargadores de subfusil .35.
+ent-WeaponSubMachineGunBriefcase = maletín marrón
+    .desc = Útil para llevar objetos en las manos.
+    .suffix = Arma
+ent-WeaponSubMachineGunC20r = subfusil C-20r
+    .desc = Un subfusil clásico y muy difundido, infame por su uso por parte de los Gorlex Marauders. Uno de los primeros diseños propios de Waffle Corp., todavía sigue en servicio. Se alimenta de cargadores de subfusil .35.
+ent-WeaponSubMachineGunC20rROW = C-20r ROW
+    .desc = Un subfusil C-20r de fuego en ráfaga para cyborgs. Crea munición calibre .35 al instante con un fabricador de munición interno, que se recarga lentamente solo.
+ent-WeaponSubMachineGunDrozd = Drozd
+    .desc = Un subfusil moderno fabricado por la División de Armas Pequeñas de NanoTrasen. Tiene una cadencia excepcional en modo ráfaga, útil para cubrir ángulos defensivos o enfrentar hostiles a mayor distancia. Se alimenta de cargadores de subfusil .35.
+ent-WeaponSubMachineGunWt550 = WT550
+    .desc = Un arma de fuego realmente única: el WT550 fue diseñado por la División de Armas Pequeñas de NanoTrasen como un subfusil compacto totalmente controlable con una mano. Tiene un exótico amortiguador de retroceso interno y usa cargadores .35 especiales montados arriba.

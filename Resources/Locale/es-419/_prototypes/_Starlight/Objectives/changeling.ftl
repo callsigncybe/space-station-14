@@ -1,0 +1,10 @@
+ent-ChangelingKillRandomHeadObjective =
+    .desc = Asegúrate de que esta persona no llegue a CentComm.
+ent-ChangelingKillRandomPersonObjective =
+    .desc = Asegúrate de que esta persona no llegue a CentComm.
+ent-ChangelingTeachRandomHeadObjective =
+    .desc = Asegúrate de que esta persona muera al menos una vez en este turno.
+ent-ChangelingTeachRandomPersonObjective =
+    .desc = Asegúrate de que esta persona muera al menos una vez en este turno.
+ent-EscapeIdentityObjective =
+    .desc = Escapa con vida y sin ataduras en el shuttle de evacuación disfrazado de esta persona. Asegúrate de que el original no llegue a CentComm.

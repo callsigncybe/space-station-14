@@ -1,0 +1,12 @@
+ent-AirAlarmVox = alarma de aire vox
+    .desc = Una alarma de aire configurada para usarse en las habitaciones de los vox. Espera nitrógeno y trata el oxígeno como un peligro.
+    .suffix = Atmósfera vox, modo automático desactivado
+ent-AirSensorVox = sensor de aire
+    .desc = Sensor de aire. Detecta aire.
+    .suffix = Atmósfera vox
+ent-GasVentPumpVox = ventilación de aire
+    .desc = Tiene una válvula y una bomba conectadas.
+    .suffix = Atmósfera vox
+ent-GasVentScrubberVox = depurador de aire
+    .desc = Tiene una válvula y una bomba conectadas.
+    .suffix = Atmósfera vox

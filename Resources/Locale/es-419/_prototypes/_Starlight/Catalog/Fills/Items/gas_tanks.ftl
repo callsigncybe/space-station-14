@@ -1,0 +1,15 @@
+ent-HealiumTankEmpty = tanque de healium
+    .desc = Contiene una mezcla de aire y healium. Mantén la presión en 65 y debería dormir incluso a quienes respiran nitrógeno. Puede contener 5 L de gas.
+    .suffix = Vacío
+ent-HealiumTankFilled = tanque de healium
+    .desc = Contiene una mezcla de aire y healium. Mantén la presión en 65 y debería dormir incluso a quienes respiran nitrógeno. Puede contener 5 L de gas.
+    .suffix = Llena
+ent-MechAirTankFilled = tanque de aire de exotraje
+    .desc = Un recipiente de aire especial capaz de contener una gran cantidad de aire.
+    .suffix = Llena
+ent-ZXATankEmpty = tanque de zxa
+    .desc = Contiene una mezcla de aire y ZXA. Mantén la presión en 23.6 y mandará directo al país de los sueños a cualquiera con pulmones. Puede contener 5 L de gas.
+    .suffix = Vacío
+ent-ZXATankFilled = tanque de zxa
+    .desc = Contiene una mezcla de aire y ZXA. Mantén la presión en 23.6 y mandará directo al país de los sueños a cualquiera con pulmones. Puede contener 5 L de gas.
+    .suffix = Llena

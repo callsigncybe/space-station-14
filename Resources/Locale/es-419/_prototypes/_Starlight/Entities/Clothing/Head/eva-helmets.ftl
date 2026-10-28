@@ -1,0 +1,14 @@
+ent-ClothingHeadBowlHelmet = casco pecera
+    .desc = Parece una pecera, pero de algún modo funciona como casco EVA.
+ent-ClothingHeadHelmetTSF = casco de combate de marine de la Federación
+    .desc = Un casco de combate motorizado que usa el Cuerpo de Marines Transolar. Da una protección excelente en todas las zonas, mientras un moderno conjunto OCULUS aumenta la visión del usuario.
+ent-ClothingHeadHelmetTSFLeader = casco de combate de oficial de marines de la Federación
+    .desc = Un casco de combate motorizado que usan los oficiales del Cuerpo de Marines Transolar. Da una protección excelente en todas las zonas, mientras un conjunto OCULUS de nueva generación aumenta la visión del usuario.
+ent-ClothingHeadHelmetsoftsuitWizard = capucha de mago del vacío
+    .desc = Una extraña capucha incrustada de gemas que irradia energías mágicas.
+ent-ClothingHeadHelmetsoftsuitWizardFire = capucha de mago piromante
+    .desc = Una capucha de fuego vivo; el infierno de su interior te mira fijamente.
+ent-ClothingHeadHelmetsoftsuitWizardFrost = capucha de mago criomante
+    .desc = Una capucha de hielo mágico; la más fría de las miradas te atraviesa el alma.
+ent-ClothingHeadSoftsuitCBURN = casco CBURN
+    .desc = Una capucha resistente a la presión e ignífuga que usan las unidades especiales de limpieza.

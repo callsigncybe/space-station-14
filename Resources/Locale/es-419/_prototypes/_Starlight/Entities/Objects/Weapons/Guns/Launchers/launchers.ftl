@@ -1,0 +1,15 @@
+ent-WeaponGrapplingHook = lanzagarfios improvisado
+    .desc = Un lanzagarfios hecho con piezas de la estación.
+ent-WeaponLauncherChonoLoke = chono loke
+    .desc = Una réplica sospechosamente convincente del infame lanzagranadas China Lake, hecha a mano con cariño por DONK CO. Dispara granadas "totalmente reales" certificadas por DONK CO. También acepta granadas reales, pero seguro que no pasa nada.
+ent-WeaponLauncherHydraEMP = hydra modificado
+    .desc = PLOP... ZAP
+    .suffix = EMP
+ent-WeaponLauncherHydraFilled = hydra
+    .desc = PLOP... FSSSSSS...
+    .suffix = Llena
+ent-WeaponLauncherHydraSyndicate = hydra modificado
+    .desc = Parece un lanzador de limpianadas Hydra de dotación estándar, pero le limaron los seguros.
+    .suffix = Syndicate
+ent-WeaponLauncherPeacekeeper = peacekeeper
+    .desc = Un lanzagranadas multipropósito de un solo disparo con apertura basculante.

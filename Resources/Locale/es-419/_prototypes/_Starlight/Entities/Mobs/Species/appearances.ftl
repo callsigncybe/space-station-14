@@ -1,0 +1,12 @@
+ent-AppearanceAvali =
+    .desc = Un avali maniquí pensado para usarse en la configuración de personaje.
+ent-AppearanceDoll =
+    .desc = Un muñeco maniquí pensado para usarse en la configuración de personaje.
+ent-AppearanceReptilian =
+    .desc = Un reptiliano maniquí pensado para usarse en la configuración de personaje.
+ent-AppearanceResomi =
+    .desc = Un resomi maniquí pensado para usarse en la configuración de personaje.
+ent-AppearanceRodentia =
+    .desc = Un rodentia maniquí pensado para usarse en la configuración de personaje.
+ent-AppearanceShadekin =
+    .desc = Un shadekin maniquí pensado para usarse en la configuración de personaje.

@@ -1,0 +1,10 @@
+ent-FalseShutterProjector = proyector de persiana falsa
+    .desc = Parece casi de verdad. Útil para bloquear la vista de los distraídos o poco observadores mientras haces lo que hay que hacer.
+ent-FalseShutterProjectorEmpty = proyector de persiana falsa
+    .desc = Parece casi de verdad. Útil para bloquear la vista de los distraídos o poco observadores mientras haces lo que hay que hacer.
+    .suffix = Vacío
+ent-HoloprojectorEngineering = holoproyector de precaución de ingeniería
+    .desc = Crea una proyección de advertencia no sólida, pensada para señalar peligros.
+ent-HoloprojectorEngineeringEmpty = holoproyector de precaución de ingeniería
+    .desc = Crea una proyección de advertencia no sólida, pensada para señalar peligros.
+    .suffix = Vacío

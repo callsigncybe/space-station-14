@@ -1,0 +1,16 @@
+ent-CarvedPumpkin = calabaza tallada
+    .desc = Una decoración tradicional de terror.
+ent-CarvedPumpkinLarge = calabaza tallada
+    .desc = Una decoración tradicional de terror.
+    .suffix = Grande
+ent-CarvedPumpkinSmall = calabaza tallada
+    .desc = Una decoración tradicional de terror.
+    .suffix = Chico
+ent-PumpkinLantern = calabaza de Halloween
+    .desc = Una calabaza tallada que emite un brillo inquietante.
+ent-PumpkinLanternLarge = calabaza de Halloween
+    .desc = Una calabaza tallada que emite un brillo inquietante.
+    .suffix = Grande
+ent-PumpkinLanternSmall = calabaza de Halloween
+    .desc = Una calabaza tallada que emite un brillo inquietante.
+    .suffix = Chico

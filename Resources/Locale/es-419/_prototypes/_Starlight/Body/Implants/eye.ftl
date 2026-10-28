@@ -1,0 +1,12 @@
+ent-EyeImplantChemistry = implante químico
+    .desc = Un implante ocular instalado quirúrgicamente que te permite ver en detalle el contenido químico de un recipiente.
+ent-EyeImplantDiagnostic = implante de diagnóstico
+    .desc = Un implante ocular instalado quirúrgicamente que te permite ver la salud de máquinas como cyborgs e IPC.
+ent-EyeImplantMedical = implante médico
+    .desc = Un implante ocular instalado quirúrgicamente que te permite ver la salud de los seres orgánicos.
+ent-EyeImplantSecurity = implante de seguridad
+    .desc = Un implante ocular instalado quirúrgicamente que te permite ver la información de seguridad de la tripulación, incluido su trabajo, su escudo mental y si están buscados.
+ent-EyeImplantSyndie = implante syndie
+    .desc = Un turbio implante ocular instalado quirúrgicamente que te permite ver la información de seguridad y la salud de la tripulación orgánica, además de resaltar a tus aliados del Syndicate.
+ent-EyeImplantWelding = implante de soldadura
+    .desc = Un implante ocular instalado quirúrgicamente que protege tus ojos de los destellos intensos.

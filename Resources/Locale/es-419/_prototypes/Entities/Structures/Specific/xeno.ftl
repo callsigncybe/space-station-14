@@ -1,0 +1,9 @@
+ent-CarpStatue = estatua de carpa
+    .desc = Una estatua de una de las valientes carpas que nos trajeron hasta donde estamos hoy. ¡Hecha con dientes de verdad!
+ent-CarpStatueEmpty = estatua de carpa
+    .desc = Un bulto de metales preciosos que pronto será una brillante estatua de carpa.
+    .suffix = Vacío
+ent-CarpStatueEyes = estatua de carpa
+    .desc = Una estatua de una de las valientes carpas que nos trajeron hasta donde estamos hoy. Esta necesita un dentista...
+    .suffix = Ojos
+ent-XenoWardingTower = torre de protección xeno

@@ -1,0 +1,9 @@
+ent-WeaponEnergyTurretAIMachineCircuitboard = placa de máquina de torreta centinela
+    .desc = Una placa de circuito impreso de máquina para una torreta centinela.
+    .suffix = IA
+ent-WeaponEnergyTurretCommandMachineCircuitboard = placa de máquina de torreta centinela
+    .desc = Una placa de circuito impreso de máquina para una torreta centinela.
+    .suffix = Mando
+ent-WeaponEnergyTurretSecurityMachineCircuitboard = placa de máquina de torreta centinela
+    .desc = Una placa de circuito impreso de máquina para una torreta centinela.
+    .suffix = Seguridad

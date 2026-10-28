@@ -1,0 +1,12 @@
+ent-GasPipeSensorNuclearCold = sensor de tubería de gas
+    .desc = Informa el estado del gas en la red de tuberías conectada.
+    .suffix = Nuclear frío
+ent-GasPipeSensorNuclearHot = sensor de tubería de gas
+    .desc = Informa el estado del gas en la red de tuberías conectada.
+    .suffix = Nuclear caliente
+ent-GasPipeSensorTEGFuel = sensor de tubería de gas
+    .desc = Informa el estado del gas en la red de tuberías conectada.
+    .suffix = Combustible TEG
+ent-GasPipeSensorVoxAir = sensor de tubería de gas
+    .desc = Informa el estado del gas en la red de tuberías conectada.
+    .suffix = Aire vox

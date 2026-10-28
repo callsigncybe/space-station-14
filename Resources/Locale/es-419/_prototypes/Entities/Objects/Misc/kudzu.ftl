@@ -1,0 +1,15 @@
+ent-FleshKudzu = tendones
+    .desc = Un cúmulo de tendones carnosos que crece rápidamente. ¡¿POR QUÉ TE DETIENES A MIRARLO?!
+ent-Kudzu = kudzu
+    .desc = Una planta peligrosa que crece rápidamente. ¡¿POR QUÉ TE DETIENES A MIRARLA?!
+ent-KudzuFlowerAngry = alfombra floral
+    .desc = Una colorida alfombra de flores que se extiende en todas direcciones. No sabes si arrancarla o dejarla.
+    .suffix = Furiosa, anomalía floral
+ent-KudzuFlowerFriendly = alfombra floral
+    .desc = Una colorida alfombra de flores que se extiende en todas direcciones. No sabes si arrancarla o dejarla.
+    .suffix = Amistosa, anomalía floral
+ent-ShadowKudzu = bruma oscura
+ent-ShadowKudzuWeak = bruma
+ent-WeakKudzu = kudzu
+    .desc = Una planta peligrosa que crece rápidamente. ¡¿POR QUÉ TE DETIENES A MIRARLA?!
+    .suffix = Débil

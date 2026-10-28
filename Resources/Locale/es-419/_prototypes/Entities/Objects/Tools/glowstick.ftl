@@ -1,0 +1,16 @@
+ent-GlowstickBlue = barra luminosa azul
+    .desc = Útil para fiestas rave y emergencias.
+ent-GlowstickGreen = barra luminosa verde
+    .desc = Útil para fiestas rave y emergencias.
+ent-GlowstickPurple = barra luminosa púrpura
+    .desc = Útil para fiestas rave y emergencias.
+ent-GlowstickRed = barra luminosa roja
+    .desc = Útil para fiestas rave y emergencias.
+ent-GlowstickYellow = barra luminosa amarilla
+    .desc = Útil para fiestas rave y emergencias.
+ent-LightBehaviourTest1 = prueba de pulso de luz
+ent-LightBehaviourTest2 = prueba de ciclo de colores
+ent-LightBehaviourTest3 = prueba de luz multicomportamiento
+ent-LightBehaviourTest4 = prueba de aparición gradual de luz
+ent-LightBehaviourTest5 = prueba de radio de pulso de luz
+ent-LightBehaviourTest6 = prueba de radio aleatorio de luz

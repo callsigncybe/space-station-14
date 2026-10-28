@@ -1,0 +1,14 @@
+ent-OrganDubiousEgg = glándula
+    .desc = Glándula alienígena sospechosa; reemplaza al corazón.
+ent-OrganDubiousGravity = glándula
+    .desc = Glándula alienígena sospechosa; reemplaza al corazón.
+ent-OrganDubiousHealth = glándula
+    .desc = Glándula alienígena sospechosa; reemplaza al corazón.
+ent-OrganDubiousNitrousOxide = glándula
+    .desc = Glándula alienígena sospechosa; reemplaza al corazón.
+ent-OrganDubiousSpider = glándula
+    .desc = Glándula alienígena sospechosa; reemplaza al corazón.
+ent-OrganDubiousVent = glándula
+    .desc = Glándula alienígena sospechosa; reemplaza al corazón.
+ent-RandomOrganDubious = glándula aleatoria
+    .desc = una glándula de abductor aleatoria

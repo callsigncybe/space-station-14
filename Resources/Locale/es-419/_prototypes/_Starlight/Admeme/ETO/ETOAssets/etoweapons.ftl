@@ -1,0 +1,15 @@
+ent-WeaponPistol75auto = PS-75 Auto
+    .desc = Una pistola totalmente automática de diseño ergonómico; usa cargadores de pistola .35.
+    .suffix = ETO
+ent-WeaponRifleZ46 = PS Z46
+    .desc = Un fusil diseñado por Private Servitude para que los fusiles más pesados estén más al alcance. Usa balas de fusil .30.
+    .suffix = ETO
+ent-WeaponRifleZ77T1 = PS Z77 T1
+    .desc = Un fusil diseñado por Private Servitude, más barato que el Lecter de uso común. Usa balas de fusil .20.
+    .suffix = ETO
+ent-WeaponShotgunTaiga = PS Taiga-10
+    .desc = Una escopeta diseñada por Private Servitude; usa cargadores de tambor calibre 12. Puede alternar entre semiautomático y automático.
+    .suffix = ETO
+ent-WeaponSubMachineGunDD22 = PS DD-22 Dryson
+    .desc = Un subfusil diseñado por Private Servitude, inspirado en parte en el AKMS. Usa balas .35 y se carga con un cargador inferior único.
+    .suffix = ETO

@@ -1,0 +1,16 @@
+ent-Cascad1 = cascada
+    .desc = Consecuencias de la falla en cascada del cristal de supermateria.
+ent-Cascad2 = cascada
+    .desc = Consecuencias de la falla en cascada del cristal de supermateria.
+ent-Cascad3 = cascada
+    .desc = Consecuencias de la falla en cascada del cristal de supermateria.
+ent-Cascad4 = cascada
+    .desc = Consecuencias de la falla en cascada del cristal de supermateria.
+ent-Cascad5 = cascada
+    .desc = Consecuencias de la falla en cascada del cristal de supermateria.
+ent-Cascad6 = cascada
+    .desc = Consecuencias de la falla en cascada del cristal de supermateria.
+ent-CascadChunk = trozo de cascada
+    .desc = Un trozo de supermateria degenerada. Los restos siguen siendo peligrosamente radiactivos.
+ent-SupermatterCrystal = supermateria
+    .desc = Un cristal de supermateria brillante, con media ID tirada al lado que dice "Clown pira...".

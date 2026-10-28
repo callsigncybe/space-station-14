@@ -1,0 +1,12 @@
+ent-BottleCaseMedTakFilled = estuche de químicos
+    .desc = Un estuche reforzado con ranuras acolchadas para frascos.
+    .suffix = Lleno, Médico
+ent-MedkitCombatMedTakFilled = kit de combate MedTak
+    .desc = El kit médico personal de un operador.
+    .suffix = Llena
+ent-MedkitCombatMedTakFilledBorg = kit de combate MedTak
+    .desc = El kit médico personal de un operador.
+    .suffix = Lleno, Borg
+ent-MedkitCombatMedTakFilledMedic = kit de combate MedTak
+    .desc = El kit médico personal de un operador.
+    .suffix = Lleno, Médico

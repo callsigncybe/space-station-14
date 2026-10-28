@@ -1,0 +1,15 @@
+ent-MobRandomMercenaryCorpse = cadáver no identificado
+    .desc = Creo que está muerto.
+    .suffix = Muerto, mercenario
+ent-MobRandomNukieCorpse = cadáver no identificado
+    .desc = Creo que está muerto.
+    .suffix = Muerto, nukie
+ent-MobRandomPirateCorpse = cadáver no identificado
+    .desc = Creo que está muerto.
+    .suffix = Muerto, pirata
+ent-MobRandomSovietCorpse = cadáver no identificado
+    .desc = Creo que está muerto.
+    .suffix = Muerto, soviético
+ent-MobRandomSyndicateCorpse = cadáver no identificado
+    .desc = Creo que está muerto.
+    .suffix = Muerto, Syndicate

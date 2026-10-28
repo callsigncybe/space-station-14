@@ -1,0 +1,12 @@
+ent-AirAlarmFreezer = alarma de aire de congelador
+    .desc = Una alarma de aire configurada para usarse en congeladores. No da la alarma por el frío.
+    .suffix = Atmósfera de congelador, modo automático desactivado
+ent-AirSensorFreezer = sensor de aire
+    .desc = Sensor de aire. Detecta aire.
+    .suffix = Atmósfera de congelador
+ent-GasVentPumpFreezer = ventilación de aire
+    .desc = Tiene una válvula y una bomba conectadas.
+    .suffix = Atmósfera de congelador
+ent-GasVentScrubberFreezer = depurador de aire
+    .desc = Tiene una válvula y una bomba conectadas.
+    .suffix = Atmósfera de congelador

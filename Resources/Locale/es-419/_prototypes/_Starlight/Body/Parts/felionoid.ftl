@@ -1,0 +1,10 @@
+ent-HeadFelionoid = cabeza de felionoide
+ent-LeftArmFelionoid = brazo izquierdo de felionoide
+ent-LeftFootFelionoid = pie izquierdo de felionoide
+ent-LeftHandFelionoid = mano izquierda de felionoide
+ent-LeftLegFelionoid = pierna izquierda de felionoide
+ent-RightArmFelionoid = brazo derecho de felionoide
+ent-RightFootFelionoid = pie derecho de felionoide
+ent-RightHandFelionoid = mano derecha de felionoide
+ent-RightLegFelionoid = pierna derecha de felionoide
+ent-TorsoFelionoid = torso de felionoide

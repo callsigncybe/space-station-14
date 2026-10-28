@@ -1,0 +1,12 @@
+ent-GasTurbineBladeShrapnel = Álabe de turbina de gas
+    .desc = Ay, no.
+ent-GasTurbineNormal = Turbina de gas
+    .desc = Una turbina grande que genera energía usando gas caliente.
+ent-GasTurbineNormalSalvage = Turbina de gas
+    .desc = Una turbina grande que genera energía usando gas caliente.
+    .suffix = Salvamento
+ent-GasTurbineSmall = Turbina de gas pequeña
+    .desc = Una turbina pequeña que genera energía usando gas caliente.
+ent-GasTurbineSmallSalvage = Turbina de gas pequeña
+    .desc = Una turbina pequeña que genera energía usando gas caliente.
+    .suffix = Salvamento

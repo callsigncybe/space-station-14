@@ -1,0 +1,12 @@
+ent-ModularBarrel = cañón modular
+    .desc = Un componente vital para fabricar armas.
+ent-UnfinishedForgedShotgun = escopeta forjada ensamblada
+    .desc = Solo le falta soldarla para que todo quede en su lugar.
+ent-UnfinishedPistolForged = piezas de pistola forjada
+    .desc = Puede requerir algo de ensamblaje. Necesita soldadura.
+ent-UnfinishedRevolverForged = piezas de revólver forjado
+    .desc = Puede requerir algo de ensamblaje. Necesita soldadura.
+ent-UnfinishedSniperForged = piezas de rifle de francotirador forjado
+    .desc = Puede requerir algo de ensamblaje. Necesita soldadura.
+ent-UnfinishedSubMachineGunForged = piezas de subfusil forjado
+    .desc = Puede requerir algo de ensamblaje. Necesita soldadura.

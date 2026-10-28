@@ -1,0 +1,14 @@
+ent-ActionActivateBluespaceImplant = Un implante subdérmico avanzado que, al activarse, teletransporta al usuario muy lejos.
+    .desc = Un implante subdérmico avanzado que, al activarse, teletransporta al usuario muy lejos.
+ent-ActionActivateGearAcidifier = Activar acidificador de equipo
+    .desc = Activa tu acidificador de equipo, derritiendo tu equipamiento pero dejando tu cuerpo intacto
+ent-ActionActivateMagillitisSerumImplant = Suero de magilitis
+    .desc = Un biochip experimental que provoca un crecimiento muscular rápido e irreversible en los homínidos. Los efectos secundarios pueden incluir hipertricosis, arrebatos violentos y una afinidad interminable por las bananas.
+ent-ActionActivateRedspaceImplant = Un implante subdérmico avanzado que, al activarse, teletransporta al usuario muy lejos.
+    .desc = Un implante subdérmico avanzado que, al activarse, teletransporta al usuario muy lejos.
+ent-ActionActivateTerminatorDeathAcidifier = Activar mecanismo de biodegradación
+    .desc = Activa tu mecanismo de biodegradación de primera fase, derritiendo por completo tu capa exterior y todos los objetos equipados. Tu endoesqueleto interior queda revelado y totalmente expuesto.
+ent-ActionActivateXenoroachSelfDestruct = Autodestrucción
+    .desc = Activa tu secuencia de autodestrucción, disolviendo tu chasis y dejando solo un charco de ácido.
+ent-ActionRetractableItemAdvancedClaws = Garras avanzadas
+    .desc = ¡Saca o retrae tus garras!

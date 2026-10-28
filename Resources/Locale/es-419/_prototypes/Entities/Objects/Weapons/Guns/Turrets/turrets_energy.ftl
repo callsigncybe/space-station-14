@@ -1,0 +1,9 @@
+ent-WeaponEnergyTurretAI = torreta centinela
+    .desc = Un sistema de armas autónomo de alta tecnología diseñado para mantener al personal no autorizado fuera de las áreas sensibles.
+    .suffix = IA
+ent-WeaponEnergyTurretCommand = torreta centinela
+    .desc = Un sistema de armas autónomo de alta tecnología diseñado para mantener al personal no autorizado fuera de las áreas sensibles.
+    .suffix = Mando
+ent-WeaponEnergyTurretSecurity = torreta centinela
+    .desc = Un sistema de armas autónomo de alta tecnología diseñado para mantener al personal no autorizado fuera de las áreas sensibles.
+    .suffix = Seguridad

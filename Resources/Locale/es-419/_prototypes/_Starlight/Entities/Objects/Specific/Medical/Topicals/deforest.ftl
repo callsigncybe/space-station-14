@@ -1,0 +1,12 @@
+ent-DeforestBrutePack = paquete para moretones DeForest
+    .desc = Paquetes para moretones de grado DeForest para todas tus necesidades.
+    .suffix = Llena
+ent-DeforestBrutePack1 = paquete para moretones DeForest
+    .desc = Paquetes para moretones de grado DeForest para todas tus necesidades. Dicen que los azules son raros.
+    .suffix = Uno
+ent-DeforestOintment = pomada DeForest
+    .desc = La pomada calmante de DeForest, usada para tratar quemaduras graves. No sirve contra las cáusticas.
+    .suffix = Llena
+ent-DeforestOintment1 = pomada DeForest
+    .desc = La pomada calmante de DeForest, usada para tratar quemaduras graves. No sirve contra las cáusticas. Dicen que las azules son raras.
+    .suffix = Uno

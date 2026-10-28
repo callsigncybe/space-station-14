@@ -1,0 +1,10 @@
+ent-AirGrenade = granada de aire
+    .desc = Una granada química especial de estado sólido que sirve para liberar rápido aire estándar en un área despresurizada. ¡Llena hasta 30 baldosas!
+ent-CleanerGrenade = granada limpiadora
+    .desc = Granada especial para conserjes, que libera una gran nube de espuma de limpiador espacial.
+ent-MetalFoamGrenade = granada de espuma metálica
+    .desc = Una herramienta de emergencia para tapar brechas en el casco con una espuma metálica especial de fraguado rápido. ¡Casi tan buena como un piso de verdad!
+ent-SmokeGrenade = granada de humo
+    .desc = Una granada táctica que libera una nube de humo grande y duradera al usarla.
+ent-TearGasGrenade = granada de gas lacrimógeno
+    .desc = Una granada de gas lacrimógeno antidisturbios. Causa irritación, dolor y te hace llorar a mares.

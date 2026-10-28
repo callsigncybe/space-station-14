@@ -1,0 +1,10 @@
+ent-Cane = bastón
+    .desc = Un bastón de madera.
+ent-CaneBlade = bastón espada
+    .desc = Una hoja filosa con empuñadura en forma de bastón.
+ent-CaneSheath = bastón
+    .desc = Un bastón de madera.
+    .suffix = Vacío
+ent-CaneSheathFilled = bastón
+    .desc = Un bastón de madera.
+    .suffix = Llena

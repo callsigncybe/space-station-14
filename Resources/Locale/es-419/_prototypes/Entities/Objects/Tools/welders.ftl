@@ -1,0 +1,17 @@
+ent-RefuelingWelder = soldador autorrecargable
+    .desc = Un soldador lento que puede recargarse solo con el tiempo.
+ent-SolutionToolWelder = solución
+ent-SolutionToolWelderExperimental = solución
+ent-SolutionToolWelderIndsutrial = solución
+ent-SolutionToolWelderMini = solución
+ent-SolutionToolWelderMiniEmergency = solución
+ent-Welder = soldador
+    .desc = Derrite cualquier cosa mientras tenga combustible. ¡No olvides la protección para los ojos!
+ent-WelderExperimental = soldador experimental
+    .desc = Un soldador experimental capaz de generar su propio combustible y menos dañino para los ojos.
+ent-WelderIndustrial = soldador industrial
+    .desc = Un soldador industrial con más del doble de capacidad de combustible.
+ent-WelderIndustrialAdvanced = soldador industrial avanzado
+    .desc = Un soldador industrial avanzado con más del doble de capacidad de combustible y una llama más caliente.
+ent-WelderMini = soldador de emergencia
+    .desc = Un soldador en miniatura que se usa en emergencias.

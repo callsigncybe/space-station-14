@@ -1,0 +1,10 @@
+ent-HeadDoll = cabeza de muñeca
+ent-LeftArmDoll = brazo izquierdo de muñeca
+ent-LeftFootDoll = pie izquierdo de muñeca
+ent-LeftHandDoll = mano izquierda de muñeca
+ent-LeftLegDoll = pierna izquierda de muñeca
+ent-RightArmDoll = brazo derecho de muñeca
+ent-RightFootDoll = pie derecho de muñeca
+ent-RightHandDoll = mano derecha de muñeca
+ent-RightLegDoll = pierna derecha de muñeca
+ent-TorsoDoll = torso de muñeca

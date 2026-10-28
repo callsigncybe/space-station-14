@@ -1,0 +1,15 @@
+ent-CrateBohrumControlRod = Caja de barras de control
+    .desc = 2 barras de control de bohrum para un reactor nuclear.
+    .suffix = Segura
+ent-CrateCerenkiteFuelRod = Caja de barras de combustible
+    .desc = 3 barras de combustible de cerenkita para alimentar un reactor nuclear.
+    .suffix = Segura
+ent-CrateNuclearFissionGenerator = Caja de construcción de generador nuclear
+    .desc = Una caja con todo lo necesario para construir tu propio generador de energía con reactor nuclear.
+    .suffix = Mapeo
+ent-CrateSteelGasChannel = Caja de barras de canal de gas
+    .desc = 4 barras de canal de gas de acero para un reactor nuclear.
+    .suffix = Segura
+ent-CrateSteelHeatExhanger = Caja de barras de intercambio de calor
+    .desc = 4 barras de intercambio de calor de acero para un reactor nuclear.
+    .suffix = Segura

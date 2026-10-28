@@ -1,0 +1,10 @@
+ent-HeadGingerbread = cabeza de jengibre
+ent-LeftArmGingerbread = brazo izquierdo de jengibre
+ent-LeftFootGingerbread = pie izquierdo de jengibre
+ent-LeftHandGingerbread = mano izquierda de jengibre
+ent-LeftLegGingerbread = pierna izquierda de jengibre
+ent-RightArmGingerbread = brazo derecho de jengibre
+ent-RightFootGingerbread = pie derecho de jengibre
+ent-RightHandGingerbread = mano derecha de jengibre
+ent-RightLegGingerbread = pierna derecha de jengibre
+ent-TorsoGingerbread = torso de jengibre

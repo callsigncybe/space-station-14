@@ -1,0 +1,12 @@
+ent-Flash0Use = flash
+    .desc = Una lámpara de flash ultrabrillante con gatillo, que deja a la víctima aturdida y sin vista por un momento. Inútil cuando se quema.
+    .suffix = 0 cargas
+ent-Flash1Use = flash
+    .desc = Una lámpara de flash ultrabrillante con gatillo, que deja a la víctima aturdida y sin vista por un momento. Inútil cuando se quema.
+    .suffix = 1 carga
+ent-Flash3Use = flash
+    .desc = Una lámpara de flash ultrabrillante con gatillo, que deja a la víctima aturdida y sin vista por un momento. Inútil cuando se quema.
+    .suffix = 3 cargas
+ent-Flash4Use = flash
+    .desc = Una lámpara de flash ultrabrillante con gatillo, que deja a la víctima aturdida y sin vista por un momento. Inútil cuando se quema.
+    .suffix = 4 cargas

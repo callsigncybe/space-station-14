@@ -1,0 +1,1 @@
+ent-StatusEffectIPCFanDisabled = cegado

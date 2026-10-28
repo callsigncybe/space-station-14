@@ -1,0 +1,10 @@
+ent-ClothingHeadHatAnimalCat = sombrero de gato gris
+    .desc = Una cabeza de gato gris tierna y esponjosa.
+ent-ClothingHeadHatAnimalCatBlack = sombrero de gato negro
+    .desc = Una cabeza de gato negro tierna y esponjosa.
+ent-ClothingHeadHatAnimalCatBrown = sombrero de gato marrón
+    .desc = Una cabeza de gato marrón tierna y esponjosa.
+ent-ClothingHeadHatAnimalHeadslime = sombrero de headslime
+    .desc = Un headslime verde y pegajoso; te lo pones en la cabeza.
+ent-ClothingHeadHatAnimalMonkey = sombrero de mono
+    .desc = Es una cabeza de mono. Tiene un agujero en la boca para comer bananas.

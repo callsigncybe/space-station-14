@@ -1,0 +1,16 @@
+ent-AdvancedMineralScanner = escáner de minerales avanzado
+    .desc = Un escáner que revisa la roca cercana en busca de minerales útiles. Tiene que estar en tu mano o bolsillo para funcionar. Este tiene un alcance mayor.
+ent-AdvancedMineralScannerEmpty = escáner de minerales avanzado
+    .desc = Un escáner que revisa la roca cercana en busca de minerales útiles. Tiene que estar en tu mano o bolsillo para funcionar. Este tiene un alcance mayor.
+    .suffix = Vacío
+ent-AdvancedMineralScannerUnpowered = escáner de minerales avanzado
+    .desc = Un escáner que revisa la roca cercana en busca de minerales útiles. Tiene que estar en tu mano o bolsillo para funcionar. Este tiene un alcance mayor.
+    .suffix = Siempre con energía
+ent-MineralScanner = escáner de minerales
+    .desc = Un escáner que revisa la roca cercana en busca de minerales útiles. Tiene que estar en tu mano o bolsillo para funcionar.
+ent-MineralScannerEmpty = escáner de minerales
+    .desc = Un escáner que revisa la roca cercana en busca de minerales útiles. Tiene que estar en tu mano o bolsillo para funcionar.
+    .suffix = Vacío
+ent-MineralScannerUnpowered = escáner de minerales
+    .desc = Un escáner que revisa la roca cercana en busca de minerales útiles. Tiene que estar en tu mano o bolsillo para funcionar.
+    .suffix = Siempre con energía

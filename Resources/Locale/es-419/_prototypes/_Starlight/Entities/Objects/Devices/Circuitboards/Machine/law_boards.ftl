@@ -1,0 +1,12 @@
+ent-CommiemovCircuitBoard = placa de leyes (commiemov)
+    .suffix = Electrónica
+ent-GenieCircuitBoard = placa de leyes (Genie in a Core)
+    .suffix = Electrónica
+ent-JanimovCircuitBoard = placa de leyes (Janimov)
+    .suffix = Electrónica
+ent-JermovCircuitBoard = placa de leyes (Jermov)
+    .suffix = Electrónica
+ent-PanicmovCircuitBoard = placa de leyes (Panicmov)
+    .suffix = Electrónica
+ent-ReporterCircuitBoard = placa de leyes (Reporter)
+    .suffix = Electrónica

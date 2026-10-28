@@ -1,0 +1,12 @@
+ent-ClothingOuterArmorTSF = armadura de combate de marine de la Federación
+    .desc = Un traje de cuerpo completo de armadura de asalto semipotenciada usado por el Cuerpo de Marines Trans-Solar. Ofrece una excelente protección en todas las zonas sin entorpecer el movimiento.
+ent-ClothingOuterArmorTSFLeader = armadura de oficial de marines de la Federación
+    .desc = Un traje de cuerpo completo de armadura de asalto semipotenciada usado por el Cuerpo de Marines Trans-Solar. Ofrece una excelente protección en todas las zonas sin entorpecer el movimiento. Este traje tiene franjas doradas en vez de las blancas habituales.
+ent-ClothingOuterSoftsuitCBURN = traje EVA aislado CBURN
+    .desc = Un biotraje pesado, resistente y acolchado, apto para EVA, usado en operaciones especiales de limpieza.
+ent-ClothingOuterSoftsuitWizard = túnica de mago del vacío
+    .desc = Una aparatosa túnica incrustada de gemas que es mágicamente resistente al vacío del espacio
+ent-ClothingOuterSoftsuitWizardFire = túnica de mago piromante
+    .desc = Una túnica mágica hecha de fuego vivo, conjurada solo por los piromantes más hábiles.
+ent-ClothingOuterSoftsuitWizardFrost = túnica de mago criomante
+    .desc = Una túnica mágica tejida con el más antiguo de los hielos, digna de los criomantes más talentosos.

@@ -1,0 +1,9 @@
+ent-PortableGeneratorJrPacman = generador portátil tipo J.R.P.A.C.M.A.N.
+    .desc = Un generador pequeño capaz de alimentar habitaciones individuales en caso de emergencia. Funciona con combustible de soldadura y está clasificado para hasta 8 kW. Apto para mayores de 3 años.
+    .suffix = Combustible de soldadura, 8 kW
+ent-PortableGeneratorPacman = generador portátil tipo P.A.C.M.A.N.
+    .desc = Un generador de respaldo versátil para alimentar diversos equipos. Funciona con láminas de plasma sólido y está clasificado para hasta 30 kW.
+    .suffix = Plasma, 30 kW
+ent-PortableGeneratorSuperPacman = generador portátil tipo S.U.P.E.R.P.A.C.M.A.N.
+    .desc = Un generador avanzado para alimentar departamentos. Funciona con láminas de uranio y está clasificado para hasta 50 kW.
+    .suffix = Uranio, 50 kW

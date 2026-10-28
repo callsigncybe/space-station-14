@@ -1,0 +1,15 @@
+ent-WeaponMedTakLightMachineGun = CODE-6 "Arbitration"
+    .desc = Una ametralladora ligera de asalto ultraliviana desarrollada para la seguridad de MedTak. Acepta cargadores de caja HVA.
+    .suffix = Admeme
+ent-WeaponMedTakPistol = CODE-4 "Triage"
+    .desc = Una pistola pesada que se entrega a los operadores de MedTak. Acepta cargadores de pistola .40.
+ent-WeaponMedTakRifle = CODE-9 "Compliance"
+    .desc = Un fusil bullpup diseñado para los operadores de MedTak. Acepta cargadores MVA.
+    .suffix = Admeme
+ent-WeaponMedTakRifleROW = CODE-9 ROW
+    .desc = Un CODE-9 recortado diseñado para cyborgs, que se alimenta de un fabricador interno de munición que se recarga lentamente
+    .suffix = Admeme
+ent-WeaponMedTakShotgun = CODE-11 "Compromise"
+    .desc = Una escopeta elegante con cargador de tambor; las balas se recámaran de forma semiautomática con el gatillo secundario.
+ent-WeaponMedTakSubMachineGun = CODE-10 "Intervention"
+    .desc = Un subfusil compacto con silenciador integrado. Tiene un sistema de retroceso avanzado, pero su cadencia de fuego es un poco menor. Acepta cargadores LVA.

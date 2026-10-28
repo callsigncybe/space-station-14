@@ -1,0 +1,12 @@
+ent-CosmicGlyphBlades = Glifo de las hojas
+    .desc = Una marca extraña, de otro mundo.
+ent-CosmicGlyphCessation = Glifo del cese
+    .desc = Una marca extraña, de otro mundo.
+ent-CosmicGlyphKnowledge = Glifo del conocimiento
+    .desc = Una marca extraña, de otro mundo.
+ent-CosmicGlyphProjection = Glifo de la proyección
+    .desc = Una marca extraña, de otro mundo.
+ent-CosmicGlyphTruth = Glifo de la verdad
+    .desc = Una marca extraña, de otro mundo.
+ent-CosmicGlyphWarding = Glifo de la protección
+    .desc = Una marca extraña, de otro mundo.

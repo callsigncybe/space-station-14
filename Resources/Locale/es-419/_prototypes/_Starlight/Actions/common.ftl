@@ -1,0 +1,14 @@
+ent-ActionOpenStorageLeftLeg = Alternar órgano de almacenamiento
+    .desc = Abre o cierra el almacenamiento de tu pierna izquierda
+ent-ActionOpenStorageRightLeg = Alternar órgano de almacenamiento
+    .desc = Abre o cierra el almacenamiento de tu pierna derecha
+ent-ActionToggleCoolingUnit = Alternar unidad de enfriamiento
+    .desc = Alterna la unidad de enfriamiento portátil.
+ent-ActionToggleCyberHandLeft = Alternar mano.
+    .desc = Alterna la mano izquierda
+ent-ActionToggleCyberHandRight = Alternar mano.
+    .desc = Alterna la mano derecha
+ent-ActionToggleCyberLimb = Alternar extremidad
+    .desc = Alternar extremidad.
+ent-VentCrawlExitAction = Salir de las ventilaciones
+    .desc = abandona estas tuberías viejas y decrépitas.

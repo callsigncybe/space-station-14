@@ -1,0 +1,17 @@
+ent-Dart = dardo
+    .desc = Dardo liviano para jugar a los dardos. ¡Cuidado con los ojos!
+ent-DartBlue = dardo
+    .desc = Dardo liviano para jugar a los dardos. ¡Cuidado con los ojos!
+ent-DartPurple = dardo
+    .desc = Dardo liviano para jugar a los dardos. ¡Cuidado con los ojos!
+ent-DartYellow = dardo
+    .desc = Dardo liviano para jugar a los dardos. ¡Cuidado con los ojos!
+ent-HypoDart = dardo
+    .desc = Dardo liviano para jugar a los dardos. ¡Cuidado con los ojos!
+    .suffix = Hipodardo
+ent-HypoDartBox = caja de hipodardo
+    .desc = Una cajita que contiene un hipodardo. El empaque se desintegra al abrirse y no deja evidencia.
+    .suffix = Hipodardo
+ent-SolutionDart = solución
+ent-TargetDarts = diana
+    .desc = Un blanco para jugar a los dardos.

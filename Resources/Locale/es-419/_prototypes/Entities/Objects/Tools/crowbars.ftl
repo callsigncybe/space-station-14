@@ -1,0 +1,12 @@
+ent-Crowbar = palanca
+    .desc = Una herramienta multiuso que sirve para muchas tareas, como abrir puertas a la fuerza o apalear invasores interdimensionales.
+ent-CrowbarAbductor = palanca de abductor
+    .desc = Una herramienta multiuso para abrir puertas a la fuerza y pelear contra invasores interdimensionales.
+ent-CrowbarGreen = palanca
+    .desc = Una herramienta multiuso que sirve para muchas tareas, como abrir puertas a la fuerza o apalear invasores interdimensionales.
+ent-CrowbarOrange = palanca
+    .desc = Una herramienta multiuso que sirve para muchas tareas, como abrir puertas a la fuerza o apalear invasores interdimensionales.
+ent-CrowbarRed = palanca
+    .desc = Una herramienta multiuso que sirve para muchas tareas, como abrir puertas a la fuerza o apalear invasores interdimensionales.
+ent-CrowbarYellow = palanca
+    .desc = Una herramienta multiuso que sirve para muchas tareas, como abrir puertas a la fuerza o apalear invasores interdimensionales.

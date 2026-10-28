@@ -1,0 +1,15 @@
+ent-ClothingShoesAerostatic = botas aerostáticas
+    .desc = Un juego de botas impecable para trabajar largas horas patrullando.
+ent-ClothingShoesGaloshnt = galochas
+    .desc = Botas de goma resbaladizas especializadas, diseñadas para aumentar los accidentes laborales de conserjería; la pesadilla de un tider.
+ent-ClothingShoesGreenLizardskin = zapatos de piel de lagarto verdes
+    .desc = Puede que hayan perdido algo de su brillo con los años, pero estos zapatos de piel de lagarto verdes te quedan perfectos.
+ent-ClothingShoesSchoolBlack = zapatos escolares negros
+    .desc = Zapatos escolares cómodos y con estilo, de color oscuro, con medias.
+ent-ClothingShoesSchoolWhite = zapatos escolares blancos
+    .desc = Zapatos escolares cómodos y con estilo, de color claro, con medias.
+ent-ClothingShoesSkatesCool = patines más geniales
+    .desc = Son más geniales que los otros.
+ent-ClownShoesNoSlip = zapatos de payaso antideslizantes
+    .desc = La última línea de ropa de Tyranny of Honk apunta a nichos más especializados del payasismo. ¡Ahora con 100% menos resbalones de operativos!
+    .suffix = Antideslizante

@@ -1,0 +1,10 @@
+ent-DebugHardBomb = bomba de depuración
+    .desc = Carajo, esto va a explotar.
+    .suffix = DEBUG
+ent-SyndicateBomb = bomba del Syndicate
+    .desc = Una bomba para operativos y agentes del Syndicate por igual. Es la de verdad, se acabó el entrenamiento, ¡a trabajar!
+ent-SyndicateBombFake = bomba del Syndicate
+    .desc = Una bomba para operativos y agentes del Syndicate por igual. Es la de verdad, se acabó el entrenamiento, ¡a trabajar!
+    .suffix = falsa
+ent-TrainingBomb = bomba de entrenamiento
+    .desc = Una bomba para tontos, manual no incluido.

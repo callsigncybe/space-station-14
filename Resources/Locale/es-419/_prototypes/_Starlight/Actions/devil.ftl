@@ -1,0 +1,10 @@
+ent-ActionDamnationsMenu = Abrir Libro de los Condenados
+    .desc = Consulta tu lista de condenaciones y mira de qué formas puedes complacer a la tripulación.
+ent-ActionInfernalJaunt = Viaje infernal
+    .desc = ¡Haz una entrada triunfal! Viene con dos cargas: una para la entrada y otra para la salida. 5 minutos de recarga.
+ent-ActionSummonBident = Recuperar bidente
+    .desc = Invoca un arma de aspecto adecuadamente malvado para fines diplomáticos.
+ent-ActionSummonDemonicContract = Invocar contrato infernal
+    .desc = Invoca un papel increíblemente siniestro.
+ent-ActionSummonDevilPen = Manifestar pluma
+    .desc = Algo con qué escribir...

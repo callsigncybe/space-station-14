@@ -1,0 +1,9 @@
+ent-MedkitRobotic = kit de tratamiento robótico
+    .desc = Se usa para tratar a pacientes robóticos, como cyborgs e IPC.
+ent-MobTrueDoctorbot = médico de verdad
+    .desc = Definitivamente un médico de verdad.
+ent-OilPack5 = paquete de aceite
+    .desc = Contiene aceite. Bastante simple comparado con otros paquetes.
+    .suffix = 5
+ent-SecurityMedkit = BrigKit
+    .desc = Un botiquín de primeros auxilios resistente, con ranuras y ganchos para suministros médicos, y nada más.

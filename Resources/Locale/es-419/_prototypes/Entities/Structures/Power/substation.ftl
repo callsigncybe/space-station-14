@@ -1,0 +1,13 @@
+ent-BaseSubstationWall = subestación de pared
+    .desc = Una subestación diseñada para shuttles y espacios compactos.
+ent-BaseSubstationWallFrame = marco de subestación de pared
+    .desc = Un marco de subestación para construcción.
+ent-SubstationBasic = subestación
+    .desc = Reduce el voltaje de la electricidad que recibe.
+    .suffix = Básico, 2.5MJ
+ent-SubstationBasicEmpty = subestación
+    .desc = Reduce el voltaje de la electricidad que recibe.
+    .suffix = Vacío
+ent-SubstationWallBasic = subestación de pared
+    .desc = Una subestación diseñada para shuttles y espacios compactos.
+    .suffix = Básico, 2MJ

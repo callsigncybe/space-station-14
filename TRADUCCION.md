@@ -7,7 +7,15 @@ Lo que no esté traducido se muestra en inglés automáticamente.
 ## Estilo
 
 - Tuteo ("tú", "puedes", "tienes"). Nada de voseo ni de "vosotros".
-- Español neutro: "computadora", "celular", "agarrar", "botón", "estación". Evitar regionalismos fuertes.
+- Español neutro: "computadora", "celular", "agarrar", "botón", "estación". Evitar regionalismos fuertes
+  (decisión del dueño del servidor, 2026-10-28). Ni rioplatenses ni mexicanismos marcados:
+
+  | Evitar | Usar |
+  |---|---|
+  | frutilla, lavandina, lapicera, bife, chupetín, lavarropas | fresa, cloro, bolígrafo, filete, paleta, lavadora |
+  | galera, remera, musculosa, manteca, barbijo, vincha | sombrero de copa, camiseta, camiseta sin mangas, mantequilla, cubrebocas, diadema |
+  | trucho, berreta, bordó, tiradores, volados, chiches, yapa | falso, barato, granate, tirantes, volantes, juguetes/adornos, de regalo |
+  | pay, chícharo, jitomate, papalote | tarta, guisante, tomate, cometa |
 - Frases naturales, no traducción palabra por palabra. Mantener el tono del original
   (serio en anuncios oficiales, informal o gracioso donde el original lo es).
 - Mayúsculas al estilo español: solo la primera palabra de títulos y botones
@@ -71,6 +79,31 @@ La comunidad usa estos términos en inglés; no se traducen:
 | health | salud |
 | damage | daño |
 | inventory / hand / pocket | inventario / mano / bolsillo |
+| jumpsuit / jumpskirt | overol / overol con falda |
+| Brigmedic | médico de brig |
+| canister (de gas) | bombona |
+| crate | cajón |
+| windoor | puerta-ventana |
+| flashbang | granada cegadora |
+| hardsuit | traje rígido |
+
+## Nombres y descripciones de objetos
+
+Los textos de objetos salen de los prototipos YAML (`Tools/argentea/EntLoc/EntLoc.cs`) y se
+traducen como lista de textos únicos; el mismo texto se usa en todos los objetos que lo comparten.
+
+- **Nombres en minúscula**, como en el original ("assistant headset" → "auriculares de asistente"),
+  salvo nombres propios, siglas y marcas ("CentCom", "PDA", "Nanotrasen").
+- Orden natural del español: sustantivo + complemento ("medical belt" → "cinturón médico",
+  "box of donk-pockets" → "caja de donk-pockets").
+- Nombres de marcas, modelos y productos inventados no se traducen ("Donk Co.", "Robust Softdrinks",
+  "M90gl", "C-20r"); sí se traduce la parte descriptiva ("C-20r submachine gun" → "subfusil C-20r").
+- Jerga y siglas del juego como en el glosario (PDA, ID, borg, shuttle, uplink, hardsuit → traje rígido).
+- Los **sufijos** (`suffix`) son etiquetas para admins y mapeadores ("Filled", "Empty", "DO NOT MAP",
+  "Admeme"): traducirlos de forma corta ("Lleno", "Vacío", "NO MAPEAR"); dejar igual los que son
+  nombres propios, siglas o códigos ("ERT", "Syndicate", "T3").
+- Las descripciones conservan el tono (muchas son chistes): adaptar el chiste antes que traducirlo literal.
+- Conservar igual etiquetas de formato (`[color=red]...[/color]`) y signos `{ } [ ]`.
 
 ## Reglas técnicas (obligatorias)
 

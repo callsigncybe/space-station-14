@@ -1,0 +1,10 @@
+ent-ActionDisguiseAnchor = Alternar anclaje
+    .desc = Muchos objetos tendrán que estar anclados para no ser demasiado obvios.
+ent-ActionDisguiseNoRot = Alternar rotación
+    .desc = Usa esto para evitar que tu disfraz gire, lo que facilita esconderse en algunas situaciones.
+ent-ChameleonDisguise = Urist McKleiner
+ent-ChameleonProjector = proyector camaleónico
+    .desc = Tecnología de holoparásito que crea una réplica de luz sólida de cualquier objeto a tu alrededor. El disfraz se destruye al agarrarlo o desactivarlo.
+    .suffix = Batería
+ent-ChameleonProjectorNoBattery = proyector camaleónico
+    .desc = Tecnología de holoparásito que crea una réplica de luz sólida de cualquier objeto a tu alrededor. El disfraz se destruye al agarrarlo o desactivarlo.

@@ -1,0 +1,12 @@
+ent-OrganRodentiaEyes = ojos de rodentia
+    .desc = Los ojos saltones de un Rodentia.
+    .suffix = Rodentia
+ent-OrganRodentiaHeart = corazón de rodentia
+    .desc = El corazón casi animal de un Rodentia.
+    .suffix = Rodentia
+ent-OrganRodentiaStomach = estómago de rodentia
+    .desc = El resistente estómago de un Rodentia.
+    .suffix = Rodentia
+ent-OrganRodentiaTongue = lengua
+    .desc = Un músculo carnoso que se usa principalmente para mentir.
+    .suffix = Rodentia

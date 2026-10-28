@@ -1,0 +1,11 @@
+ent-CrateLawboards = cajón de placas de leyes de IA
+    .desc = Un cajón lleno de diversas placas de leyes de IA.
+    .suffix = Segura
+ent-CrateScienceAnomalousContainment = cajón de suministros de contención anómala
+    .desc = Contiene una placa de circuito de Oubliette de contención y dos placas de circuito de A.P.E.
+ent-CrateStarterXenobiology = cajón inicial de xenobiología
+    .desc = Contiene un extracto de slime gris y una caja de cubos de mono para empezar tus aventuras en xenobiología. O porque realmente la arruinaste. Ah, y un etiquetador de cámaras. No dejes que ningún espía le ponga las manos encima.
+    .suffix = Segura
+ent-CrateStationAiUpload = cajón de consola de carga de IA de la estación
+    .desc = Contiene los componentes para construir una consola de carga de IA de la estación. Aún hay que vincularla manualmente al núcleo. Requiere acceso a Ciencia para abrirse.
+    .suffix = Segura

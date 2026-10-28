@@ -1,0 +1,12 @@
+ent-Defibrillator = desfibrilador
+    .desc = ¡DESPEJEN! ¡Bzzzt!
+ent-DefibrillatorCompact = desfibrilador compacto
+    .desc = ¡Ahora en tamaño mini!
+ent-DefibrillatorEmpty = desfibrilador
+    .desc = ¡DESPEJEN! ¡Bzzzt!
+    .suffix = Vacío
+ent-DefibrillatorOneHandedUnpowered = desfibrilador
+    .desc = ¡DESPEJEN! ¡Bzzzt!
+    .suffix = A una mano, siempre con energía
+ent-DefibrillatorSyndicate = desfibrilador de Interdyne
+    .desc = También sirve como arma de defensa personal contra tiders con tendencia a cometer crímenes de guerra.

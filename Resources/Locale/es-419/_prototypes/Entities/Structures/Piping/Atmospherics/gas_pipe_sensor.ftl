@@ -1,0 +1,17 @@
+ent-GasPipeSensor = sensor de tubería de gas
+    .desc = Informa el estado del gas en la red de tuberías conectada.
+ent-GasPipeSensorDistribution = sensor de tubería de gas
+    .desc = Informa el estado del gas en la red de tuberías conectada.
+    .suffix = Distribución
+ent-GasPipeSensorMixedAir = sensor de tubería de gas
+    .desc = Informa el estado del gas en la red de tuberías conectada.
+    .suffix = Aire mixto
+ent-GasPipeSensorTEGCold = sensor de tubería de gas
+    .desc = Informa el estado del gas en la red de tuberías conectada.
+    .suffix = TEG frío
+ent-GasPipeSensorTEGHot = sensor de tubería de gas
+    .desc = Informa el estado del gas en la red de tuberías conectada.
+    .suffix = TEG caliente
+ent-GasPipeSensorWaste = sensor de tubería de gas
+    .desc = Informa el estado del gas en la red de tuberías conectada.
+    .suffix = Desechos

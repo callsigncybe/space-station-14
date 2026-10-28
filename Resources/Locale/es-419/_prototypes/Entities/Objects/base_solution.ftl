@@ -1,0 +1,17 @@
+ent-Solution = solución
+ent-Solution3840 = solución
+ent-SolutionCryo = solución
+ent-SolutionDrinkHuge = solución
+ent-SolutionGinormous = solución
+ent-SolutionHuge = solución
+ent-SolutionLarge = solución
+ent-SolutionNormal = solución
+ent-SolutionSmall = solución
+ent-SolutionTiny = solución
+ent-SolutionToolGinormous = solución
+ent-SolutionToolLarge = solución
+ent-SolutionToolNormal = solución
+ent-SolutionToolSmall = solución
+ent-SolutionToolTiny = solución
+ent-SolutionToolVeryTiny = solución
+ent-SolutionVeryTiny = solución

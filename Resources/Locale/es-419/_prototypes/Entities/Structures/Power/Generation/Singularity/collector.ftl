@@ -1,0 +1,9 @@
+ent-RadiationCollector = colector de radiación
+    .desc = Una máquina que recolecta radiación y la convierte en energía. Necesita gas plasma para funcionar.
+    .suffix = Tanque vacío
+ent-RadiationCollectorFullTank = colector de radiación
+    .desc = Una máquina que recolecta radiación y la convierte en energía. Necesita gas plasma para funcionar.
+    .suffix = Tanque lleno
+ent-RadiationCollectorNoTank = colector de radiación
+    .desc = Una máquina que recolecta radiación y la convierte en energía. Necesita gas plasma para funcionar.
+    .suffix = Sin tanque

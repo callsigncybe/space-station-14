@@ -1,0 +1,12 @@
+ent-ClothingNeckLGBTie = LGBTorbata
+    .desc = ¿Por qué tenemos que usar estas corbatas fabulosas?
+ent-ClothingNeckTieBlue = corbata azul
+    .desc = Una linda corbata azul, perfecta para entrevistas de trabajo.
+ent-ClothingNeckTieBrown = corbata marrón
+    .desc = De color marrón cargo, esta corbata muestra tu profesionalismo y tu habilidad para mover cajas.
+ent-ClothingNeckTieGreen = corbata verde
+    .desc = Una corbata verde lima brillante con los colores del departamento de servicio. Muy elegante.
+ent-ClothingNeckTieGrey = corbata gris
+    .desc = Corbata gris tider, para verte impecable en los túneles de mantenimiento.
+ent-ClothingNeckTieRetro = corbata retro
+    .desc = ¿Por qué todos tenemos que usar estas corbatas ridículas?

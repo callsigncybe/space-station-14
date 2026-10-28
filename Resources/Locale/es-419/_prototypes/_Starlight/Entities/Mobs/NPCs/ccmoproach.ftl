@@ -1,0 +1,11 @@
+ent-CCMoproachCubeWrapped = cubo de moproach de CC
+    .desc = ¡Solo agrega agua! *chirría*
+    .suffix = Envuelto
+ent-CCMoproachGlasses = lentes de oficial de CentCom
+    .desc = Lentes de oficial de CentCom compatibles con mothroaches. Lamentablemente, por eso quedan pegados a su cara.
+ent-MobCCMoproach = moproach de CC
+    .desc = Un moproach entrenado especialmente en las artes de la conserjería por lo mejor que NT puede ofrecer.
+    .suffix = ERT de conserjería
+ent-MobCCMoproachHat = moproach de CC
+    .desc = Un moproach entrenado especialmente en las artes de la conserjería por lo mejor que NT puede ofrecer.
+    .suffix = ERT de conserjería, sombrero

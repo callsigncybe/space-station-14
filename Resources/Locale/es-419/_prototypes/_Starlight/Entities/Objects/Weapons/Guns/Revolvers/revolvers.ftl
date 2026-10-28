@@ -1,0 +1,10 @@
+ent-WeaponRevolverDispatcher = dispatcher
+    .desc = El revólver de servicio NT Model 7, conocido extraoficialmente como el 'Dispatcher'. Con recámara para .45 Magnum y un poder de detención robusto para acabar con cualquier desobediencia. Un verdadero clásico atemporal que porta la élite del personal de seguridad de NanoTrasen.
+ent-WeaponRevolverForged = revólver forjado
+    .desc = Lo mejor que puede ofrecer la ingeniería tider: ¡un revólver capaz de contener 4 balas!
+ent-WeaponRevolverImprovised = revólver improvisado
+    .desc = Un revólver con dos cañones y sin tambor. ¿De verdad se le puede llamar revólver?
+ent-WeaponRevolverMakeshift = revólver casero
+    .desc = Poco más que un cañón de mano con muchas probabilidades de explotarte en la cara.
+ent-WeaponRevolverZOZ = TOZ-82 'Jupiter'
+    .desc = Un revólver bullpup sobredimensionado cuyo diseño fue sacado de contrabando de la USSP. Puede que necesites las dos manos para este. Tiene una bayoneta plegable, pero la maldita está trabada. Carga 6 balas .45 magnum.

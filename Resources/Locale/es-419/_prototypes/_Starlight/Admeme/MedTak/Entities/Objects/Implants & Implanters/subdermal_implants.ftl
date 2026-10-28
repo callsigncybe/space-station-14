@@ -1,0 +1,10 @@
+ent-MedTakMindShieldImplant = implante de escudo mental MedTak
+    .desc = Este implante protege a los operadores de los dispositivos de control mental.
+ent-TrackingImplantMedTakBronze = baliza de bronce MedTak
+    .desc = Este implante avisará a la unidad de MedTak más cercana si el usuario entra en estado crítico o muere.
+ent-TrackingImplantMedTakGold = baliza de oro MedTak
+    .desc = Este implante avisará a la unidad de MedTak más cercana si el usuario entra en estado crítico o muere.
+ent-TrackingImplantMedTakSilver = baliza de plata MedTak
+    .desc = Este implante avisará a la unidad de MedTak más cercana si el usuario entra en estado crítico o muere.
+ent-TrackingImplantMedTakTeam = baliza de equipo MedTak
+    .desc = Este implante avisará a la unidad de MedTak más cercana si el usuario entra en estado crítico o muere.

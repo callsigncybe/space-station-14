@@ -1,0 +1,16 @@
+ent-WallCosmicCult = pared maligna
+    .desc = Una pared de aspecto extraño. Mirarla demasiado tiempo provoca una sensación de incomodidad.
+ent-WallCosmicCultTrimmed = pared maligna
+    .desc = Una pared de aspecto extraño. Mirarla demasiado tiempo provoca una sensación de incomodidad.
+    .suffix = Recortado
+ent-WindowCosmicCult = cristal maligno
+    .desc = Una ventana de aspecto raro. Algo en ella te inquieta.
+ent-WindowCosmicCultDark = cristal maligno
+    .desc = Una ventana de aspecto raro. Algo en ella te inquieta.
+    .suffix = Polarizado
+ent-WindowCosmicCultDiagonal = cristal maligno
+    .desc = Una ventana de aspecto raro. Algo en ella te inquieta.
+    .suffix = Diagonal
+ent-WindowCosmicCultDiagonalDark = cristal maligno
+    .desc = Una ventana de aspecto raro. Algo en ella te inquieta.
+    .suffix = Diagonal, Polarizado

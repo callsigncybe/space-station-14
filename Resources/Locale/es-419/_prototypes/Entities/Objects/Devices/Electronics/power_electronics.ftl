@@ -1,0 +1,15 @@
+ent-APCElectronics = electrónica de APC
+    .desc = Circuito que se usa para construir un APC.
+    .suffix = Electrónica
+ent-SolarTrackerElectronics = electrónica de rastreador solar
+    .desc = Placa de circuito avanzada que se usa para rastrear la estrella más cercana.
+    .suffix = Electrónica
+ent-WallmountGeneratorAPUElectronics = electrónica de APU de pared
+    .desc = Circuito que se usa para construir una APU de pared.
+    .suffix = Electrónica
+ent-WallmountGeneratorElectronics = electrónica de generador de pared
+    .desc = Circuito que se usa para construir un generador de pared.
+    .suffix = Electrónica
+ent-WallmountSubstationElectronics = electrónica de subestación de pared
+    .desc = Circuito que se usa para construir una subestación de pared.
+    .suffix = Electrónica

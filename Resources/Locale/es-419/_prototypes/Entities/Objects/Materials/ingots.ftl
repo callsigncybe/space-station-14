@@ -1,0 +1,12 @@
+ent-IngotGold = barra de oro
+    .desc = Un lingote de metal pesado con el logo de NanoTrasen grabado.
+    .suffix = Llena
+ent-IngotGold1 = barra de oro
+    .desc = Un lingote de metal pesado con el logo de NanoTrasen grabado.
+    .suffix = Uno
+ent-IngotSilver = barra de plata
+    .desc = Un lingote de metal pesado con el logo de NanoTrasen grabado.
+    .suffix = Llena
+ent-IngotSilver1 = barra de plata
+    .desc = Un lingote de metal pesado con el logo de NanoTrasen grabado.
+    .suffix = Uno

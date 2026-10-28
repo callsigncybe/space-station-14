@@ -1,0 +1,15 @@
+ent-AntiAnomalyZone = zona antianomalías
+    .desc = Las anomalías no podrán aparecer en un radio de 10 bloques de este punto.
+    .suffix = alcance 10
+ent-AntiAnomalyZone20 = zona antianomalías
+    .desc = Las anomalías no podrán aparecer en un radio de 20 bloques de este punto.
+    .suffix = alcance 20
+ent-AntiAnomalyZone30 = zona antianomalías
+    .desc = Las anomalías no podrán aparecer en un radio de 30 bloques de este punto.
+    .suffix = alcance 30
+ent-AntiAnomalyZone40 = zona antianomalías
+    .desc = Las anomalías no podrán aparecer en un radio de 40 bloques de este punto.
+    .suffix = alcance 40
+ent-AntiAnomalyZone50 = zona antianomalías
+    .desc = Las anomalías no podrán aparecer en un radio de 50 bloques de este punto.
+    .suffix = alcance 50

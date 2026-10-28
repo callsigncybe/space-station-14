@@ -1,0 +1,12 @@
+ent-CasinoPDABrigmed = PDA de médico de brig de Gamorrah
+    .desc = Remiéndalos y mándalos de vuelta a las mesas. La casa siempre gana.
+ent-CasinoPDADealer = PDA de crupier de Gamorrah
+    .desc = El éxito depende de la previsión, del cálculo desapasionado de probabilidades y de tener en cuenta cada variable suelta. La casa siempre gana.
+ent-CasinoPDAManager = PDA de gerente de Gamorrah
+    .desc = La casa siempre gana.
+ent-CasinoPDAOwner = PDA de dueño de Gamorrah
+    .desc = La casa siempre gana.
+ent-CasinoPDASecurity = PDA de seguridad de Gamorrah
+    .desc = No disfruto matar, pero cuando se hace con justicia, es solo una tarea más, como cualquier otra. La casa siempre gana.
+ent-CasinoPDATreasurer = PDA de tesorero de Gamorrah
+    .desc = Cada ficha contada, cada crédito registrado. La casa siempre gana.

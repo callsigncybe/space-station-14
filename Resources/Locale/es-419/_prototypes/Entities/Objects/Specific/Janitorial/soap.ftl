@@ -1,0 +1,14 @@
+ent-Soap = jabón
+    .desc = Una barra de jabón barata. No tiene olor.
+ent-SoapDeluxe = jabón
+    .desc = Una barra de jabón de lujo marca Waffle Co. Huele a fresas.
+ent-SoapHomemade = jabón
+    .desc = Una barra de jabón casera. Huele a... bueno....
+ent-SoapNT = jabón
+    .desc = Una barra de jabón marca NanoTrasen. Huele a plasma.
+ent-SoapOmega = jabón omega
+    .desc = El jabón más avanzado que conoce la humanidad. Huele a bluespace.
+ent-SoapSyndie = jabón
+    .desc = Una barra de jabón poco confiable. Huele a miedo.
+ent-SoapletSyndie = jaboncito
+    .desc = Un pedacito de jabón del Syndicate.

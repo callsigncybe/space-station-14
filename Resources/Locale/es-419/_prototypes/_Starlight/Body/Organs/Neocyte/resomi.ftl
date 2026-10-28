@@ -1,0 +1,12 @@
+ent-OrganNeoResomiEyes = ojos cibernéticos de resomi
+    .desc = Estos ojos cibernéticos tienen una gran visión nocturna para cazar presas en los túneles de mantenimiento, pero son muy sensibles a los destellos intensos.
+    .suffix = Neoresomi
+ent-OrganNeoResomiHeart = corazón cibernético de resomi
+    .desc = En realidad no necesita latir; solo imita el movimiento para darle comodidad al usuario.
+    .suffix = Neoresomi
+ent-OrganNeoResomiLungs = pulmones cibernéticos de resomi
+    .desc = Filtran el oxígeno de una atmósfera, que luego se envía al torrente sanguíneo para usarse como transportador de electrones. Son totalmente cibernéticos y trabajan junto al sistema de filtrado del visor.
+    .suffix = Neoresomi
+ent-OrganNeoResomiTongue = lengua cibernética bífida
+    .desc = Un órgano completamente brillante que se usa comúnmente para mentir o expresarse. A veces para ambas cosas. Ahora partido en dos.
+    .suffix = Neoresomi

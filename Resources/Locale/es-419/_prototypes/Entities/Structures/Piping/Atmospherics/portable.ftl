@@ -1,0 +1,11 @@
+ent-PortableScrubber = depurador portátil
+    .desc = ¡Depura, y es portátil!
+ent-SpaceHeater = calefactor espacial
+    .desc = Un dispositivo de tecnología bluespace que altera la temperatura local. Conocido comúnmente como "calefactor espacial".
+    .suffix = Sin anclar
+ent-SpaceHeaterAnchored = calefactor espacial
+    .desc = Un dispositivo de tecnología bluespace que altera la temperatura local. Conocido comúnmente como "calefactor espacial".
+    .suffix = Anclado
+ent-SpaceHeaterEnabled = calefactor espacial
+    .desc = Un dispositivo de tecnología bluespace que altera la temperatura local. Conocido comúnmente como "calefactor espacial".
+    .suffix = Anclado, Encendido

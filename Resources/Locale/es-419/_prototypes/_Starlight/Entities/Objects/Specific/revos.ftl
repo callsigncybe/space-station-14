@@ -1,0 +1,15 @@
+ent-BaseRevUplinkRadio = radio Svyaz-UZL
+    .desc = Radio de nodo de enlace soviético de uso extendido entre las fuerzas de la USSP. Esta fue modificada para los agentes del SKB y sus activos. Se desaconseja seriamente el uso no autorizado, porque te vamos a encontrar.
+    .suffix = Vacío
+ent-Telebond = telebono
+    .desc = Boletos obsoletos impresos con un patrón microcristalino, usados para pedir suministros mediante un viejo uplink de radio, a la antigua. "¡NO COMER!" — Boris
+    .suffix = 20 TB
+ent-Telebond1 = telebono
+    .desc = Boletos obsoletos impresos con un patrón microcristalino, usados para pedir suministros mediante un viejo uplink de radio, a la antigua. "¡NO COMER!" — Boris
+    .suffix = 1 TB
+ent-Telebond10 = telebono
+    .desc = Boletos obsoletos impresos con un patrón microcristalino, usados para pedir suministros mediante un viejo uplink de radio, a la antigua. "¡NO COMER!" — Boris
+    .suffix = 10 TB
+ent-Telebond5 = telebono
+    .desc = Boletos obsoletos impresos con un patrón microcristalino, usados para pedir suministros mediante un viejo uplink de radio, a la antigua. "¡NO COMER!" — Boris
+    .suffix = 5 TB

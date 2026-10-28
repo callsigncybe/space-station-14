@@ -1,0 +1,10 @@
+ent-MedTakPDADispatcher = PDA de despachador MedTak
+    .desc = Es pintura roja.
+ent-MedTakPDAMedic = PDA de médico MedTak
+    .desc = ¿Es sangre o pintura roja?
+ent-MedTakPDAPilot = PDA de piloto MedTak
+    .desc = Es pintura roja.
+ent-MedTakPDASecurity = PDA de seguridad MedTak
+    .desc = Es sangre.
+ent-MedTakPDATeamLead = PDA de líder de equipo MedTak
+    .desc = Es sangre.

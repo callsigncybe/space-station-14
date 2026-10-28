@@ -1,0 +1,12 @@
+ent-ClothingHeadHelmetAncient = casco de vacío NTSRA
+    .desc = Un antiguo casco espacial, diseñado por la rama NTSRA de CentCom.
+ent-ClothingHeadHelmetCosmonaut = casco de cosmonauta
+    .desc = Diseño antiguo, pero fabricación avanzada.
+ent-ClothingHeadHelmetEVA = casco EVA
+    .desc = Un casco viejo pero bueno diseñado para actividades extravehiculares. Famoso por poner paranoicos a los oficiales de seguridad.
+ent-ClothingHeadHelmetEVALarge = casco EVA
+    .desc = Un casco viejo pero bueno diseñado para actividades extravehiculares.
+ent-ClothingHeadHelmetSyndicate = casco EVA del Syndicate
+    .desc = Un casco EVA simple y con estilo. Diseñado para la máxima rudeza espacial humilde.
+ent-ClothingHeadHelmetVoidParamed = casco de vacío de paramédico
+    .desc = Un casco de vacío hecho para paramédicos.

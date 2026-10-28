@@ -1,0 +1,12 @@
+ent-BulletAK570_90mmHE = proyectil HE de 90mm AK-90
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+ent-BulletCharon280mmSlug = posta de 280mm M381 CHARYBDIS
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+ent-BulletCharon280mmSubnuclear = posta subnuclear de 280mm M381 CHARYBDIS
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+ent-BulletDravon75mmHE = proyectil HE de 75mm DVN-75
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+ent-BulletGrenade120mmBlast = granada explosiva de 120mm
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+ent-BulletLeviathan240mmHE = proyectil HE de 240mm LVT-240
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!

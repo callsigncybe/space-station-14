@@ -1,0 +1,12 @@
+ent-FaxMachineEngineering = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+    .suffix = ENG: Ingeniería
+ent-FaxMachineEngineeringAtmos = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+    .suffix = ENG: Atmos
+ent-FaxMachineEngineeringCE = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+    .suffix = ENG: Ingeniero Jefe
+ent-FaxMachineEngineeringNuclearReactor = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+    .suffix = ENG: Reactor nuclear

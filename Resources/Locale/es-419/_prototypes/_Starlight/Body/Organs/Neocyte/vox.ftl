@@ -1,0 +1,12 @@
+ent-OrganNeoVoxHeart = corazón cibernético de vox
+    .desc = En realidad no necesita latir; solo imita el movimiento para darle comodidad al usuario.
+    .suffix = Neovox
+ent-OrganNeoVoxLungs = pulmones cibernéticos de vox
+    .desc = Filtran el nitrógeno de una atmósfera, que luego se envía al torrente sanguíneo para usarse como transportador de electrones. Son totalmente cibernéticos y trabajan junto al sistema de filtrado del visor.
+    .suffix = Neovox
+ent-OrganNeoVoxStomach = reactor biológico de vox
+    .desc = Algunos dicen que está sobrediseñado, pero es vital para el funcionamiento de un neocito. Convierte materia orgánica en energía orgánica y eléctrica para alimentar la cibernética y la carne del neocito.
+    .suffix = Neovox
+ent-OrganNeoVoxTongue = lengua cibernética
+    .desc = Un órgano completamente brillante que se usa comúnmente para mentir o expresarse. A veces para ambas cosas.
+    .suffix = Neovox

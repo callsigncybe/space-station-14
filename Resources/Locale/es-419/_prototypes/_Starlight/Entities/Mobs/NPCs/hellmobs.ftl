@@ -1,0 +1,9 @@
+ent-MobBluespaceHarvesterBlankBody = cuerpo vacío
+    .desc = Una cáscara humanoide que se arrastra, vacía de pensamiento pero impulsada por la malicia.
+    .suffix = IA
+ent-MobBluespaceHarvesterMiGo = Criatura
+    .desc = Una criatura insectoide y veloz de las profundidades del bluespace. Sus movimientos son erráticos y difíciles de predecir.
+    .suffix = IA
+ent-MobBluespaceHarvesterOtherthing = otracosa
+    .desc = Una abominación enorme y pesada. Se mueve lento, pero puede aguantar un castigo tremendo.
+    .suffix = IA

@@ -1,0 +1,12 @@
+ent-DurandArmorPlate = placas de blindaje de Durand
+    .desc = Placas de blindaje de plastiacero para el exotraje Durand.
+ent-GygaxArmorPlate = placas de blindaje de Gygax
+    .desc = Placas de blindaje de acero para el exotraje Gygax.
+ent-MechAirTank = tanque de aire de exotraje
+    .desc = Un recipiente de aire especial capaz de contener una gran cantidad de aire.
+ent-MechThruster = propulsor de exotraje
+    .desc = Un propulsor con el que el exotraje puede moverse con seguridad sin gravedad.
+ent-PaddyUpgradeKit = kit de conversión Paddy
+    .desc = Este kit te permite convertir un Ripley MK-II en un Paddy.
+ent-RipleyUpgradeKit = kit de mejora de exotraje
+    .desc = Este kit te permite armar un exotraje Ripley MK-II.

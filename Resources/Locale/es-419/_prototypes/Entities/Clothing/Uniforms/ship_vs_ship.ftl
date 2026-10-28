@@ -1,0 +1,12 @@
+ent-ClothingUniformJumpsuitChiefEngineerSyndie = overol de ingeniero jefe del Syndicate
+    .desc = Un overol de aspecto malvado con chaleco reflectante y camiseta roja.
+ent-ClothingUniformJumpsuitParamedicSyndie = overol de paramédico del Syndicate
+    .desc = Por alguna razón, usarlo te hace sentir terriblemente cerca de violar la Convención de Ginebra.
+ent-ClothingUniformJumpsuitRecruitNT = overol de recluta
+    .desc = Un elegante overol gris con ribetes azules. Perfecto para el ayudante digno.
+ent-ClothingUniformJumpsuitRecruitSyndie = overol de recluta del Syndicate
+    .desc = Un dudoso overol gris oscuro. Como si los asistentes no fueran ya lo bastante dudosos.
+ent-ClothingUniformJumpsuitRepairmanNT = overol de técnico de reparaciones
+    .desc = Un overol que te recuerda a cierto puesto de trabajo del sector de la tripulación. Ojalá no tengas que hacer el mismo trabajo que ESOS fenómenos.
+ent-ClothingUniformJumpsuitRepairmanSyndie = overol de técnico de reparaciones del Syndicate
+    .desc = Funcional, a la moda y rudo. Los ingenieros de NanoTrasen desearían verse así de bien.

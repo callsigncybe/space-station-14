@@ -1,0 +1,12 @@
+ent-BarSpoon = cuchara de bar
+    .desc = Tu ayudante personal para mezclar tragos y cambiar vidas.
+ent-Fork = tenedor
+    .desc = Un utensilio para comer, perfecto para apuñalar.
+ent-ForkPlastic = tenedor de plástico
+    .desc = Un utensilio para comer, perfecto para apuñalar.
+ent-KnifePlastic = cuchillo de plástico
+    .desc = Eso no es un cuchillo. Esto es un cuchillo.
+ent-Spoon = cuchara
+    .desc = La cuchara no existe.
+ent-SpoonPlastic = cuchara de plástico
+    .desc = La cuchara no existe.

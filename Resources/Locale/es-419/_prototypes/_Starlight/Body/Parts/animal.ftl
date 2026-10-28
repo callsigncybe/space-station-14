@@ -1,0 +1,13 @@
+ent-FeetAnimal = patas de animal
+ent-HandsAnimal = manos de animal
+ent-HeadAnimal = cabeza de animal
+ent-LeftHandAdmemeCorgi = mano de corgi
+    .suffix = Corgi
+ent-LeftHandAnimal = mano izquierda de animal
+ent-LeftHandSmartCorgi = mano de corgi
+ent-LegsAnimal = patas traseras de animal
+ent-RightHandAdmemeCorgi = mano de corgi
+    .suffix = Corgi
+ent-RightHandAnimal = mano derecha de animal
+ent-RightHandSmartCorgi = mano de corgi
+ent-TorsoAnimal = torso de animal

@@ -1,0 +1,3 @@
+ent-BigBoxSyndicateBundle = caja de cartón
+    .desc = ¿Eh? Solo una caja...
+    .suffix = Syndicate, Lleno

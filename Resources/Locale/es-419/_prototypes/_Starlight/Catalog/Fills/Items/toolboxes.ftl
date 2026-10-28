@@ -1,0 +1,11 @@
+ent-ToolboxArtisticFilledCleaner = caja de herramientas artística
+    .desc = Una caja de herramientas que normalmente trae suministros artísticos.
+    .suffix = Limpiador
+ent-ToolboxElectricalTurretPirateFilled = caja de herramientas eléctrica
+    .desc = Una caja de herramientas que normalmente trae equipo eléctrico.
+    .suffix = Pirata, Torreta, Lleno
+ent-ToolboxRoboticist = caja de herramientas de roboticista
+    .desc = ¿Qué, es solo una caja de herramientas de roboticista? ¿Esperabas otra cosa?
+ent-ToolboxRoboticistFilled = caja de herramientas de roboticista
+    .desc = ¿Qué, es solo una caja de herramientas de roboticista? ¿Esperabas otra cosa?
+    .suffix = Llena

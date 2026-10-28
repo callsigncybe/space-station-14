@@ -1,0 +1,9 @@
+ent-AirAlarmChamber = alarma de aire de cámara
+    .desc = Una alarma de aire preparada para usarse en cámaras. No informa a la consola de alertas de la estación.
+    .suffix = Cámara
+ent-AirAlarmChamberUnlocked = alarma de aire de cámara desbloqueada
+    .desc = Una alarma de aire preparada para usarse en cámaras. Cualquiera puede ajustarla, y no informa a la consola de alertas de la estación.
+    .suffix = Cámara, desbloqueada
+ent-AirAlarmUnlocked = alarma de aire desbloqueada
+    .desc = Una alarma de aire con su lector de acceso desactivado. Cualquiera puede ajustarla.
+    .suffix = Desbloqueada

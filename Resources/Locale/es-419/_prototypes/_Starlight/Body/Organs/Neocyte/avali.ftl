@@ -1,0 +1,12 @@
+ent-OrganNeoAvaliHeart = corazón cibernético de avali
+    .desc = En realidad no necesita latir; solo imita el movimiento para darle comodidad al usuario.
+    .suffix = Neoavali
+ent-OrganNeoAvaliLiver = hígado cibernético de avali
+    .desc = Sugerencia de maridaje: una guarnición de barras de RAM fermentadas y un buen CPU.
+    .suffix = Neoavali
+ent-OrganNeoAvaliStomach = reactor biológico de avali
+    .desc = Algunos dicen que está sobrediseñado, pero es vital para el funcionamiento de un neocito. Convierte materia orgánica en energía orgánica y eléctrica para alimentar la cibernética y la carne del neocito.
+    .suffix = Neoavali
+ent-OrganNeoAvaliTongue = lengua cibernética bífida
+    .desc = Un órgano completamente brillante que se usa comúnmente para mentir o expresarse. A veces para ambas cosas. Ahora partido en dos.
+    .suffix = Neoavali

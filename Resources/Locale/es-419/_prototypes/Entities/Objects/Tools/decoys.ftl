@@ -1,0 +1,10 @@
+ent-BalloonAgent = globo de sanitario
+    .desc = Mirándolo de cerca, este sanitario del Syndicate en realidad es un globo.
+ent-BalloonCommander = globo de comandante
+    .desc = Mirándolo de cerca, este comandante del Syndicate en realidad es un globo.
+ent-BalloonElite = globo de operativo de élite
+    .desc = Mirándolo de cerca, este operativo de élite del Syndicate en realidad es un globo.
+ent-BalloonJuggernaut = globo de juggernaut
+    .desc = Mirándolo de cerca, este juggernaut del Syndicate en realidad es un globo.
+ent-BalloonOperative = globo de operativo
+    .desc = Mirándolo de cerca, este operativo del Syndicate en realidad es un globo.

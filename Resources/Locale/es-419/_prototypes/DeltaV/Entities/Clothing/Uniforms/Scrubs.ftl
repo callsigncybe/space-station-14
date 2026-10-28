@@ -1,0 +1,12 @@
+ent-UniformScrubsColorBlack = uniforme quirúrgico negro
+    .desc = Una combinación de comodidad y utilidad pensada para que sacarle a alguien hasta el último órgano y vendérselos a un robot espacial se vea mucho más oficial.
+ent-UniformScrubsColorCyan = uniforme quirúrgico cian
+    .desc = Una combinación de comodidad y utilidad pensada para que sacarle a alguien hasta el último órgano y vendérselos a un robot espacial se vea mucho más oficial.
+ent-UniformScrubsColorCybersun = uniforme quirúrgico de Cybersun
+    .desc = El uniforme oficial de la división de biotecnología de Cybersun
+ent-UniformScrubsColorPink = uniforme quirúrgico rosa
+    .desc = Una combinación de comodidad y utilidad pensada para que sacarle a alguien hasta el último órgano y vendérselos a un robot espacial se vea mucho más oficial.
+ent-UniformScrubsColorRainbow = uniforme quirúrgico arcoíris
+    .desc = Una combinación de comodidad y utilidad pensada para que sacarle a alguien hasta el último órgano y vendérselos a un robot espacial se vea mucho más oficial.
+ent-UniformScrubsColorWhite = uniforme quirúrgico blanco
+    .desc = Una combinación de comodidad y utilidad pensada para que sacarle a alguien hasta el último órgano y vendérselos a un robot espacial se vea mucho más oficial.

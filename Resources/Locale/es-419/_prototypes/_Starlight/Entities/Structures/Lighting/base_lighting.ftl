@@ -1,0 +1,12 @@
+ent-AlwaysPoweredLightBlackLight = luz
+    .desc = Una luz siempre alimentada.
+    .suffix = Siempre alimentada, luz negra
+ent-AlwaysPoweredLightWarm = luz
+    .desc = Una luz siempre alimentada.
+    .suffix = Siempre alimentada, Cálida
+ent-PoweredlightBlackLight = luz
+    .desc = Una lámpara. Consume energía y produce luz cuando tiene un tubo de luz.
+    .suffix = luz negra
+ent-PoweredlightWarm = luz
+    .desc = Una lámpara. Consume energía y produce luz cuando tiene un tubo de luz.
+    .suffix = Cálida

@@ -1,0 +1,11 @@
+ent-TintedWindow = ventana polarizada
+    .desc = Ventana polarizada inteligente con opción de cambio de estado.
+ent-Window = ventana
+    .desc = No ensucies el vidrio de ahí abajo.
+ent-WindowDiagonal = ventana
+    .desc = No ensucies el vidrio de ahí abajo.
+    .suffix = diagonal
+ent-WindowDirectional = ventana direccional
+    .desc = No ensucies el vidrio de ahí abajo.
+ent-WindowFrostedDirectional = ventana esmerilada direccional
+    .desc = No ensucies el vidrio de ahí abajo.

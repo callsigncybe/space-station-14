@@ -1,0 +1,10 @@
+ent-CartridgePistol40AP = cartucho (.40 AP)
+ent-CartridgePistol40FMJ = cartucho (.40 FMJ)
+ent-CartridgePistol40HP = cartucho (.40 HP)
+ent-CartridgePistol40SP = cartucho (.40 SP)
+ent-CartridgePistolAP = cartucho (.35 auto AP)
+ent-CartridgePistolFMJ = cartucho (.35 auto FMJ)
+ent-CartridgePistolHP = cartucho (.35 auto HP)
+ent-CartridgePistolImprovised = cartucho improvisado (.35 auto)
+    .desc = Una bala de pistola hecha a mano; usa fósforo como propelente en lugar de pólvora, lo que la hace mucho menos efectiva.
+ent-CartridgePistolRubber = cartucho (.35 auto de goma)

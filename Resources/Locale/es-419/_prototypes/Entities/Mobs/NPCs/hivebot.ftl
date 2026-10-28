@@ -1,0 +1,9 @@
+ent-MobHivebot = hivebot
+    .desc = Plagas mecanizadas y molestas.
+    .suffix = IA
+ent-MobHivebotRanged = hivebot
+    .desc = Plagas mecanizadas y molestas. Esta tiene un arma.
+    .suffix = A distancia
+ent-MobHivebotStrong = hivebot fuerte
+    .desc = Plagas mecanizadas y molestas. Esta se ve mucho más fuerte de lo normal.
+    .suffix = A distancia

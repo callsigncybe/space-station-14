@@ -1,0 +1,11 @@
+ent-HeadTerminator = cráneo de nt-800
+    .desc = Sus ojos rojos se apagaron... por ahora.
+ent-LeftArmTerminator = brazo izquierdo de nt-800
+ent-LeftFootTerminator = pie izquierdo de nt-800
+ent-LeftHandTerminator = mano izquierda de nt-800
+ent-LeftLegTerminator = pierna izquierda de nt-800
+ent-RightArmTerminator = brazo derecho de nt-800
+ent-RightFootTerminator = pie derecho de nt-800
+ent-RightHandTerminator = mano derecha de nt-800
+ent-RightLegTerminator = pierna derecha de nt-800
+ent-TorsoTerminator = torso de nt-800

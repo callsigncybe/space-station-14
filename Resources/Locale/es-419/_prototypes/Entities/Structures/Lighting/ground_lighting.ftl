@@ -1,0 +1,11 @@
+ent-LightPostSmall = farola
+    .desc = Una luz siempre alimentada.
+    .suffix = Siempre con energía
+ent-PoweredLEDLightPostSmall = farola
+    .desc = Una lámpara. Consume energía y produce luz cuando tiene un tubo de luz.
+    .suffix = LED
+ent-PoweredLightPostSmall = farola
+    .desc = Una lámpara. Consume energía y produce luz cuando tiene un tubo de luz.
+ent-PoweredLightPostSmallEmpty = farola
+    .desc = Un pequeño poste de luz.
+    .suffix = Vacío

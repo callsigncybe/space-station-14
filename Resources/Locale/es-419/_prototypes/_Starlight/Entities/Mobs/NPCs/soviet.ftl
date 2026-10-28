@@ -1,0 +1,16 @@
+ent-MobBearSoviet = oso soviético
+    .desc = Huele a alcohol.
+    .suffix = IA
+ent-MobSovietComrade = camarada
+ent-MobSovietComradeAk = camarada
+    .suffix = AK
+ent-MobSovietComradeFinka = camarada
+    .suffix = Finka
+ent-MobSovietComradeMakarov = camarada
+    .suffix = Makarov
+ent-MobSovietComradeRevolver = camarada
+    .suffix = ZOZ
+ent-MobSovietComradeSawn = camarada
+    .suffix = Recortada
+ent-MobSovietComradeSpear = camarada
+    .suffix = Lanza

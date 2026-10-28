@@ -1,0 +1,10 @@
+ent-MaintenanceFluffSpawner = Generador de botín de mantenimiento
+    .suffix = Decoración+ropa
+ent-MaintenanceInsulsSpawner = Generador de botín de mantenimiento
+    .suffix = Aislantes, seguro
+ent-MaintenancePlantSpawner = Generador de botín de mantenimiento
+    .suffix = Plantas
+ent-MaintenanceToolSpawner = Generador de botín de mantenimiento
+    .suffix = Herramientas+celdas+materiales
+ent-MaintenanceWeaponSpawner = Generador de botín de mantenimiento
+    .suffix = Chatarra+armas

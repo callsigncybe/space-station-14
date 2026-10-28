@@ -1,0 +1,14 @@
+ent-ClothingHeadHatHardhatArmored = casco de obra blindado
+    .desc = Un casco de obra blindado. Ofrece lo mejor de ambos mundos en protección y utilidad; perfecto para el ingeniero en primera línea.
+ent-ClothingHeadHatHardhatBlue = casco de obra azul
+    .desc = Un casco de obra pintado de azul, usado en condiciones de trabajo peligrosas para proteger la cabeza. Trae una linterna integrada.
+ent-ClothingHeadHatHardhatOrange = casco de obra naranja
+    .desc = Un casco de obra pintado de naranja, usado en condiciones de trabajo peligrosas para proteger la cabeza. Trae una linterna integrada.
+ent-ClothingHeadHatHardhatRed = casco de obra rojo
+    .desc = Un casco de obra pintado de rojo, usado en condiciones de trabajo peligrosas para proteger la cabeza. Trae una linterna integrada.
+ent-ClothingHeadHatHardhatWhite = casco de obra blanco
+    .desc = Un casco de obra pintado de blanco, usado en condiciones de trabajo peligrosas para proteger la cabeza. Trae una linterna integrada.
+ent-ClothingHeadHatHardhatYellow = casco de obra amarillo
+    .desc = Un casco de obra pintado de amarillo, usado en condiciones de trabajo peligrosas para proteger la cabeza. Trae una linterna integrada.
+ent-ClothingHeadHatHardhatYellowDark = casco de obra amarillo oscuro
+    .desc = Un casco de obra pintado de amarillo oscuro, usado en condiciones de trabajo peligrosas para proteger la cabeza. Trae una linterna integrada.

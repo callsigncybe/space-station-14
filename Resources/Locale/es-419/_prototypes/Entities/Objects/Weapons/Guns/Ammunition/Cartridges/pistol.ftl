@@ -1,0 +1,10 @@
+ent-CartridgePistolIncendiary = cartucho (.35 auto incendiario)
+    .desc = Posiblemente el calibre más popular del mercado, usado por todo tipo de pistolas y subfusiles. La munición incendiaria contiene un compuesto autoinflamable que prende fuego a los objetivos.
+ent-CartridgePistolPractice = cartucho (.35 auto de práctica)
+    .desc = Posiblemente el calibre más popular del mercado, usado por todo tipo de pistolas y subfusiles. La munición de práctica dispara un proyectil de tiza que pica un poco, pero no causa daño duradero.
+ent-CartridgePistolSP = cartucho (.35 auto SP)
+    .desc = Posiblemente el calibre más popular del mercado, usado por todo tipo de pistolas y subfusiles. La munición cinética estándar es común y útil en la mayoría de las situaciones.
+ent-CartridgePistolSpent = cartucho (.35 auto)
+    .suffix = consumido
+ent-CartridgePistolUranium = cartucho (.35 auto de uranio)
+    .desc = Posiblemente el calibre más popular del mercado, usado por todo tipo de pistolas y subfusiles. La munición de uranio reemplaza el núcleo de plomo de la bala por material fisible, que irradia a los objetivos desde adentro.

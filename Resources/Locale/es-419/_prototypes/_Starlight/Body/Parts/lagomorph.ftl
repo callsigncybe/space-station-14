@@ -1,0 +1,10 @@
+ent-HeadLagomorph = cabeza de lagomorfo
+ent-LeftArmLagomorph = brazo izquierdo de lagomorfo
+ent-LeftFootLagomorph = pie izquierdo de lagomorfo
+ent-LeftHandLagomorph = mano izquierda de lagomorfo
+ent-LeftLegLagomorph = pierna izquierda de lagomorfo
+ent-RightArmLagomorph = brazo derecho de lagomorfo
+ent-RightFootLagomorph = pie derecho de lagomorfo
+ent-RightHandLagomorph = mano derecha de lagomorfo
+ent-RightLegLagomorph = pierna derecha de lagomorfo
+ent-TorsoLagomorph = torso de lagomorfo

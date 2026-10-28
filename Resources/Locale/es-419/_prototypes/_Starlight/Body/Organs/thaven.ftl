@@ -1,0 +1,9 @@
+ent-OrganThavenBrain = cerebro de thaven
+    .desc = Un cerebro positrónico orgánico. La verdad, bastante notable.
+    .suffix = Thaven
+ent-OrganThavenEyes = ojos de thaven
+    .desc = Los ojos de un Thaven.
+    .suffix = Thaven
+ent-OrganThavenTongue = lengua
+    .desc = Un músculo carnoso que se usa principalmente para mentir.
+    .suffix = Thaven

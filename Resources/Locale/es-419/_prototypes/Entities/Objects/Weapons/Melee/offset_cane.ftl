@@ -1,0 +1,10 @@
+ent-OffsetCane = bastón ortopédico estándar
+    .desc = Un bastón ortopédico estándar, esencial para moverse cuando las piernas no dan más. Puede o no darte la sabiduría de los ancianos.
+ent-OffsetCaneClown = bastón ortopédico arcoíris
+    .desc = Un bastón ortopédico arcoíris, perfecto para payasos y para quienes disfrutan de un toque de color en su vida.
+ent-OffsetCaneMime = bastón ortopédico a rayas
+    .desc = Un bastón a rayas blancas y negras, perfecto para actuaciones silenciosas.
+ent-OffsetCaneNT = bastón ortopédico de nanotrasen
+    .desc = Un bastón ortopédico reglamentario de nanotrasen con el logo de NT, preferido por quienes buscan un look más corporativo.
+ent-OffsetCaneWood = bastón ortopédico de madera
+    .desc = Un bastón ortopédico de madera, una opción clásica para quienes valoran los materiales naturales y un agarre firme.

@@ -1,0 +1,14 @@
+ent-CheapInsulatedFabric = tela aislante barata
+    .desc = Un rollo de tela aislante áspera, no sirve de mucho en su forma actual.
+ent-InsulatedFabric = tela aislante
+    .desc = Un rollo de tela aislante suave, no sirve de mucho en su forma actual.
+ent-InsulatedThread = hilo aislante
+    .desc = Un carrete de hilo aislante, útil para coser guantes.
+ent-PlasteelFilament = filamento de plastiacero
+    .desc = Un carrete de finos filamentos de plastiacero, útil para que la tela aislante barata realmente aísle.
+ent-SheetPrinter = papel
+    .desc = Una hoja de papel blanco.
+    .suffix = Llena
+ent-SheetPrinter1 = papel
+    .desc = Una hoja de papel blanco.
+    .suffix = Uno

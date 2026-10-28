@@ -1,0 +1,12 @@
+ent-WeatherAshfall = lluvia de ceniza
+ent-WeatherAshfallHeavy = lluvia de ceniza intensa
+ent-WeatherAshfallLight = lluvia de ceniza leve
+ent-WeatherFallout = lluvia radiactiva
+ent-WeatherHail = granizo
+ent-WeatherRain = lluvia
+ent-WeatherSandstorm = tormenta de arena
+ent-WeatherSandstormHeavy = tormenta de arena intensa
+ent-WeatherSnowfallHeavy = nevada intensa
+ent-WeatherSnowfallLight = nevada leve
+ent-WeatherSnowfallMedium = nevada moderada
+ent-WeatherStorm = tormenta

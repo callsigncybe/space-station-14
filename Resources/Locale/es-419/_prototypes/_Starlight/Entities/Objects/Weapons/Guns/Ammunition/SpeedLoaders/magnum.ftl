@@ -1,0 +1,6 @@
+ent-SpeedLoaderMagnumFMJ = cargador rápido (.45 magnum FMJ)
+ent-SpeedLoaderMagnumHP = cargador rápido (.45 magnum HP)
+ent-SpeedLoaderMagnumImprovised = cargador rápido (.45 magnum)
+ent-SpeedLoaderMagnumLeverImprovised = cargador rápido (.30 /.45 magnum)
+ent-SpeedLoaderMagnumRubber = cargador rápido (.45 magnum de goma)
+ent-SpeedLoaderMagnumSP = cargador rápido (.45 magnum SP)

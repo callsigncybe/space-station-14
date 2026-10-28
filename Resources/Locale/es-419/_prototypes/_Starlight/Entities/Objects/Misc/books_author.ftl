@@ -1,0 +1,11 @@
+ent-BookClownMimeWar = Historia de la guerra intergaláctica entre payasos y mimos
+    .desc = Hay escritos frenéticos garabateados en varias páginas. La mayor parte del texto está cubierta de signos de pregunta escritos a mano.
+ent-BookConspiracies = Lo que no quieren que sepas
+    .desc = Hay escritos frenéticos garabateados en varias páginas. ¿Seguro que deberías leer esto?
+ent-BookMarsIncident = Historia del siglo XXII: el incidente de Marte
+    .desc = Hay escritos frenéticos garabateados en varias páginas. La mayor parte del texto está cubierta de signos de pregunta escritos a mano.
+ent-BookMoreConspiracies = Más cosas que no quieren que sepas
+    .desc = Hay escritos frenéticos garabateados en varias páginas. ¿Seguro que deberías leer esto?
+ent-BookSecureTerminalManual = Manual de la terminal segura
+    .desc = Una guía para usar el sistema de terminal segura. Lectura obligatoria para todo el personal de mando.
+    .suffix = guía

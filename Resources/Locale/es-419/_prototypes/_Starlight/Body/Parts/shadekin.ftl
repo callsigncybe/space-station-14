@@ -1,0 +1,10 @@
+ent-HeadShadekin = cabeza de shadekin
+ent-LeftArmShadekin = brazo izquierdo de shadekin
+ent-LeftFootShadekin = pie izquierdo de shadekin
+ent-LeftHandShadekin = mano izquierda de shadekin
+ent-LeftLegShadekin = pierna izquierda de shadekin
+ent-RightArmShadekin = brazo derecho de shadekin
+ent-RightFootShadekin = pie derecho de shadekin
+ent-RightHandShadekin = mano derecha de shadekin
+ent-RightLegShadekin = pierna derecha de shadekin
+ent-TorsoShadekin = torso de shadekin

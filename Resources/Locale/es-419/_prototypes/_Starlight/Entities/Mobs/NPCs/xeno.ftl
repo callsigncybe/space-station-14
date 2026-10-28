@@ -1,0 +1,12 @@
+ent-MobXenoAdmeme = excavador
+    .desc = Vienen mayormente de noche. Mayormente.
+    .suffix = Admeme
+ent-MobXenoRounyAdmeme = rouny
+    .desc = Vienen mayormente de noche. Mayormente.
+    .suffix = Admeme
+ent-MobXenoRunnerAdmeme = pretoriano
+    .desc = Vienen mayormente de noche. Mayormente.
+    .suffix = Admeme
+ent-MobXenoSpitterAdmeme = escupidor
+    .desc = Vienen mayormente de noche. Mayormente.
+    .suffix = Admeme

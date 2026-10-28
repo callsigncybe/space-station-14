@@ -1,0 +1,10 @@
+ent-ShardGlass = fragmento de vidrio
+    .desc = Un pequeño trozo de vidrio.
+ent-ShardGlassClockwork = fragmento de vidrio de relojería
+    .desc = Un pequeño trozo de vidrio con infusión de latón.
+ent-ShardGlassPlasma = fragmento de vidrio de plasma
+    .desc = Un pequeño trozo de vidrio de plasma.
+ent-ShardGlassReinforced = fragmento de vidrio reforzado
+    .desc = Un pequeño trozo de vidrio reforzado.
+ent-ShardGlassUranium = fragmento de vidrio de uranio
+    .desc = Un pequeño trozo de vidrio de uranio.

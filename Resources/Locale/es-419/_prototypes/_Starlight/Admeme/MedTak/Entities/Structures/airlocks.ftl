@@ -1,0 +1,12 @@
+ent-AirlockGlassShuttleMedTakLocked = esclusa externa
+    .desc = Necesaria para conectar dos naves espaciales.
+    .suffix = Vidrio, Acoplamiento, MedTak, Bloqueada
+ent-AirlockMedTakBasicGlassLocked = esclusa de vidrio
+    .desc = Se abre, se cierra y quizás te aplasta.
+    .suffix = MedTak, Bloqueado
+ent-AirlockMedTakGlassLocked = esclusa de vidrio
+    .desc = Se abre, se cierra y quizás te aplasta.
+    .suffix = MedTak, Bloqueado
+ent-AirlockMedTakLocked = esclusa
+    .desc = Se abre, se cierra y quizás te aplasta.
+    .suffix = MedTak, Bloqueado

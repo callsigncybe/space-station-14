@@ -1,0 +1,14 @@
+ent-MobCosmicAstralAscended = ascendido astral
+    .desc = Trascendente, ascendente.
+    .suffix = IA
+ent-MobCosmicAstralProjection = proyección astral
+    .desc = Ni aquí ni allá.
+ent-MobCosmicCustodian = custodio maligno
+    .desc = Una abominación forjada de masa maligna. Flota con una gracia ingrávida e inquietante.
+    .suffix = IA
+ent-MobCosmicLodestar = estrella guía maligna
+    .desc = Una abominación forjada de masa maligna. Una luz abrasadora titila en su interior.
+    .suffix = IA
+ent-MobCosmicOracle = oráculo maligno
+    .desc = Una abominación forjada de masa maligna. Su mirada busca sin descanso.
+    .suffix = IA

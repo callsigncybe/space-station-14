@@ -1,0 +1,12 @@
+ent-VampireEscapeObjective = Escapa a CentComm con vida y sin ataduras.
+    .desc = Necesito escapar en el shuttle de evacuación. De incógnito.
+ent-VampireKillRandomHeadObjective =
+    .desc = Esta persona de alto valor no debe llegar a CentComm.
+ent-VampireKillRandomPersonObjective =
+    .desc = Hazlo como quieras, solo asegúrate de que no llegue a CentComm.
+ent-VampirePickerKillObjective =
+    .desc = Hazlo como quieras, solo asegúrate de que no llegue a CentComm.
+ent-VampireSurviveObjective = Sobrevive
+    .desc = Debo sobrevivir pase lo que pase.
+ent-VampireThrallObeyMasterObjective = Obedece a tu amo
+    .desc = Estás cautivado. Sigue las órdenes de tu amo.

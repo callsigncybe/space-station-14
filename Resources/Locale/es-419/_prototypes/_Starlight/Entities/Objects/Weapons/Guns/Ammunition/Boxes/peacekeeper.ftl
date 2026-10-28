@@ -1,0 +1,10 @@
+ent-BoxPeacekeeperBaton = caja de munición de porra para Peacekeeper
+    .desc = Una caja de granadas de porra menos letales para el Peacekeeper; no olvides que "menos" significa que puedes matar con ellas, solo que menos.
+ent-BoxPeacekeeperBola = caja de munición de boleadoras para Peacekeeper
+    .desc = Una caja de granadas boleadoras para el Peacekeeper, ¡para que hacer tropezar a los sospechosos sea aún más divertido!
+ent-BoxPeacekeeperFlash = caja de munición cegadora para Peacekeeper
+    .desc = Una caja de granadas cegadoras para el Peacekeeper, buena para alcanzar a un malhechor que huye o para dispersar multitudes.
+ent-BoxPeacekeeperGas = caja de munición de gas lacrimógeno para Peacekeeper
+    .desc = Una caja de granadas de gas lacrimógeno para el Peacekeeper; la etiqueta tiene un gran "NO OLVIDES LOS INTERNOS" escrito en rojo.
+ent-BoxPeacekeeperStinger = caja de munición stinger para Peacekeeper
+    .desc = Una caja de granadas stinger para el Peacekeeper, muy buenas para dispersar multitudes y ganarse demandas.

@@ -1,0 +1,10 @@
+ent-ClothingOuterWizardGreen = túnica de mago verde
+    .desc = Una extraña túnica verde incrustada de gemas que irradia energías mágicas.
+ent-ClothingOuterWizardOrange = túnica de mago naranja
+    .desc = Una extraña túnica naranja incrustada de gemas que irradia energías mágicas.
+ent-ClothingOuterWizardPeach = túnica de mago durazno
+    .desc = Una extraña túnica color durazno incrustada de gemas que irradia energías mágicas.
+ent-ClothingOuterWizardPurple = túnica de mago morada
+    .desc = Una extraña túnica morada incrustada de gemas que irradia energías mágicas.
+ent-ClothingOuterWizardYellow = túnica de mago amarilla
+    .desc = Una extraña túnica amarilla incrustada de gemas que irradia energías mágicas.

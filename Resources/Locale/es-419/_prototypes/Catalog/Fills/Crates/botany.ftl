@@ -1,0 +1,12 @@
+ent-CrateHydroponicsSeeds = cajón de semillas
+    .desc = Las grandes cosas tienen comienzos pequeños. Contiene veinticuatro semillas distintas.
+ent-CrateHydroponicsSeedsExotic = cajón de semillas exóticas
+    .desc = El sueño de todo botánico emprendedor. Contiene muchas semillas exóticas distintas. Requiere acceso a Hidroponía para abrir.
+    .suffix = Segura
+ent-CrateHydroponicsSeedsMedicinal = cajón de semillas medicinales
+    .desc = El sueño del aspirante a químico. ¡El poder de la medicina al alcance de tu mano! Requiere acceso a Hidroponía para abrir.
+    .suffix = Segura
+ent-CrateHydroponicsTools = cajón de equipo de hidroponía
+    .desc = ¡Suministros para cultivar un gran jardín! Contiene algunos atomizadores con químicos para plantas, un hacha de mano, una mini azada, una guadaña, un par de guantes de cuero y un delantal de botánico.
+ent-CrateHydroponicsTray = cajón de bandeja hidropónica
+    .desc = Contiene una bandeja hidropónica desarmada.

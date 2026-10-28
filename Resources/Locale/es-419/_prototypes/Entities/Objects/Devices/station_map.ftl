@@ -1,0 +1,15 @@
+ent-HandheldStationMap = mapa de la estación
+    .desc = Muestra un plano de la estación actual.
+    .suffix = De mano
+ent-HandheldStationMapEmpty = mapa de la estación
+    .desc = Muestra un plano de la estación actual.
+    .suffix = De mano, vacío
+ent-HandheldStationMapNukeops = mapa de la estación objetivo
+    .desc = Muestra un plano de la estación objetivo.
+    .suffix = De mano, NukeOps
+ent-HandheldStationMapStatic = mapa de la estación
+    .desc = Muestra un plano de la estación actual.
+    .suffix = De mano, funciona fuera de la estación
+ent-HandheldStationMapUnpowered = mapa de la estación
+    .desc = Muestra un plano de la estación actual.
+    .suffix = De mano, siempre con energía

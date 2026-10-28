@@ -1,0 +1,12 @@
+ent-SurveillanceWirelessCameraAnchoredConstructed = cámara inalámbrica
+    .desc = Una cámara. Te está mirando. Más o menos.
+    .suffix = Construido, Anclado
+ent-SurveillanceWirelessCameraAnchoredEntertainment = cámara inalámbrica
+    .desc = Una cámara. Te está mirando. Más o menos.
+    .suffix = Entretenimiento, Anclado
+ent-SurveillanceWirelessCameraMovableConstructed = cámara inalámbrica
+    .desc = Una cámara. Te está mirando. Más o menos.
+    .suffix = Construido, Móvil
+ent-SurveillanceWirelessCameraMovableEntertainment = cámara inalámbrica
+    .desc = Una cámara. Te está mirando. Más o menos.
+    .suffix = Entretenimiento, Móvil

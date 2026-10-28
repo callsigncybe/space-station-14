@@ -1,0 +1,12 @@
+ent-AluminiumMetalFoam = espuma metálica de aluminio
+ent-Foam = espuma
+ent-FoamedAluminiumMetal = metal de aluminio espumado
+    .desc = Restos de espuma dispersa de una granada de espuma de aluminio. Se destruye fácilmente.
+ent-FoamedIronMetal = metal de hierro espumado
+    .desc = Para sellar brechas en el casco.
+ent-IronMetalFoam = espuma metálica de hierro
+ent-MetalFoam = espuma metálica
+ent-Smoke = humo
+ent-TearGasSmoke = gas lacrimógeno
+ent-TearGasSmokeWhite = gas lacrimógeno
+ent-WizardSmoke = humo

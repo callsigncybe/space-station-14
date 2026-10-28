@@ -1,0 +1,14 @@
+ent-CaptainSabre = sable del Capitán
+    .desc = Un arma ceremonial que pertenece al Capitán de la estación.
+ent-Claymore = claymore
+    .desc = Una antigua espada de guerra.
+ent-Cutlass = alfanje
+    .desc = Una hoja de curva malvada, que se ve seguido en manos de piratas espaciales.
+ent-EnergyKatana = katana de energía
+    .desc = Una katana imbuida de energía poderosa.
+ent-Katana = katana
+    .desc = Artesanía antigua hecha con plastiacero no tan antiguo.
+ent-Machete = machete
+    .desc = Una hoja grande de aspecto feroz.
+ent-Throngler = throngler
+    .desc = Si Seguridad se atreve a quitártela, solo recuérdales que sí son mortales.

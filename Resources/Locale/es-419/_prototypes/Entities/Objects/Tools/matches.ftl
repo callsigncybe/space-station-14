@@ -1,0 +1,11 @@
+ent-GorlexMatchbox = caja de fósforos Gorlex
+    .desc = Una caja de fósforos neumática con el estilo del equipo de los Gorlex Marauders. Contiene 24 fósforos.
+ent-GorlexMatchstick = fósforo
+    .desc = Un fósforo de grado militar, que sirve para encender tanto buenos fumables como a los no combatientes.
+ent-Matchbox = caja de fósforos
+    .desc = Una cajita de Fósforos Premium Casi Pero No Del Todo De Plasma.
+ent-Matchstick = fósforo
+    .desc = Un simple fósforo, que sirve para encender buenos fumables.
+ent-MatchstickSpent = fósforo
+    .desc = Un simple fósforo, que sirve para encender buenos fumables.
+    .suffix = consumido

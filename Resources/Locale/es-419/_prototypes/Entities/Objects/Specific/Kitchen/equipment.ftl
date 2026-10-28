@@ -1,0 +1,12 @@
+ent-HandheldJuicer = exprimidor de mano
+    .desc = Sirve para exprimir pequeñas cantidades de objetos.
+ent-HandheldJuicerMakeshift = exprimidor improvisado
+    .desc = Sirve para exprimir pequeñas cantidades de objetos. Versión inferior hecha de madera.
+ent-IncompleteHandheldJuicer = exprimidor de mano incompleto
+    .desc = Un poco de madera y plástico pegados.
+ent-IncompleteMortarAndPestle = mortero y mazo incompleto
+    .desc = Unas cuantas tablas de madera pegadas.
+ent-MortarAndPestle = mortero y mazo
+    .desc = Sirve para moler pequeñas cantidades de objetos.
+ent-MortarAndPestleMakeshift = mortero y mazo improvisado
+    .desc = Sirve para moler pequeñas cantidades de objetos. Versión inferior hecha de madera.

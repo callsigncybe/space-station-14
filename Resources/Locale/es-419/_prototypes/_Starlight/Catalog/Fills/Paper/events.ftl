@@ -1,0 +1,9 @@
+ent-PaperEndGreenshift = reinicia el reloj.
+    .desc = ¿Un papel que parece "iniciar el reloj" de nuevo? La cuenta regresiva lo hace demasiado grande para caber en un fax.
+ent-PaperIonstormBorgs = ¿robots demasiado ordenados?
+    .desc = Un papel. Se siente un poco eléctrico en tus manos. Probablemente destruiría un fax si lo insertaras.
+ent-PaperTooQuietNeedChaos = el fin de Q
+    .desc = un papel terrible que no cabe en una máquina de fax.
+ent-PaperTooQuietNeedChaosFew = fin de Q
+    .desc = un papel terrible que no se puede enviar por fax, pero tiene sus propias formas de moverse.
+    .suffix = Poca población

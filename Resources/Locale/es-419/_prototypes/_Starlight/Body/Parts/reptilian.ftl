@@ -1,0 +1,10 @@
+ent-HeadReptilian = cabeza de reptiliano
+ent-LeftArmReptilian = brazo izquierdo de reptiliano
+ent-LeftFootReptilian = pie izquierdo de reptiliano
+ent-LeftHandReptilian = mano izquierda de reptiliano
+ent-LeftLegReptilian = pierna izquierda de reptiliano
+ent-RightArmReptilian = brazo derecho de reptiliano
+ent-RightFootReptilian = pie derecho de reptiliano
+ent-RightHandReptilian = mano derecha de reptiliano
+ent-RightLegReptilian = pierna derecha de reptiliano
+ent-TorsoReptilian = torso de reptiliano

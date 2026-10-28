@@ -1,0 +1,14 @@
+ent-CargoMailBox = buzón de carga
+    .desc = Un buzón para guardar y recoger correo. Permite a Carga guardar y recoger su correo.
+ent-CommandMailBox = buzón de Mando
+    .desc = Un buzón para guardar y recoger correo. Permite a Mando guardar y recoger su correo.
+ent-EngineeringMailBox = buzón de Ingeniería
+    .desc = Un buzón para guardar y recoger correo. Permite a Ingeniería guardar y recoger su correo.
+ent-MedicalMailBox = buzón de Medicina
+    .desc = Un buzón para guardar y recoger correo. Permite a Medicina guardar y recoger su correo.
+ent-ScienceMailBox = buzón de Ciencia
+    .desc = Un buzón para guardar y recoger correo. Permite a Ciencia guardar y recoger su correo.
+ent-SecurityMailBox = buzón de Seguridad
+    .desc = Un buzón para guardar y recoger correo. Permite a Seguridad guardar y recoger su correo.
+ent-ServiceMailBox = buzón de Servicio
+    .desc = Un buzón para guardar y recoger correo. Permite a Servicio guardar y recoger su correo.

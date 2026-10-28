@@ -1,0 +1,9 @@
+ent-HandDryer = secador de manos
+    .desc = Un secador de manos, para cuando te crees demasiado bueno para las toallas de papel.
+ent-HandSanitiser = dispensador de desinfectante de manos
+    .desc = Que no te entre en los ojos.
+ent-ToiletPaper = papel higiénico
+    .desc = De una hoja, para máxima ineficiencia. Supones que la empresa tiene que ahorrar centavos donde puede.
+ent-ToiletPaperOffset = papel higiénico
+    .desc = De una hoja, para máxima ineficiencia. Supones que la empresa tiene que ahorrar centavos donde puede.
+    .suffix = Desplazado

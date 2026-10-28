@@ -1,0 +1,3 @@
+ent-WallStainFireEffect = fuego
+    .desc = Ups...
+ent-WallStainSparkle = destello

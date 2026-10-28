@@ -1,0 +1,10 @@
+ent-HeadVox = cabeza de vox
+ent-LeftArmVox = brazo izquierdo de vox
+ent-LeftFootVox = pie izquierdo de vox
+ent-LeftHandVox = mano izquierda de vox
+ent-LeftLegVox = pierna izquierda de vox
+ent-RightArmVox = brazo derecho de vox
+ent-RightFootVox = pie derecho de vox
+ent-RightHandVox = mano derecha de vox
+ent-RightLegVox = pierna derecha de vox
+ent-TorsoVox = torso de vox

@@ -1,0 +1,17 @@
+ent-GunSafeBaseArmorySL = caja fuerte de armas
+    .desc = Una unidad de almacenamiento reglamentaria de Nanotrasen.
+    .suffix = Armería, Cerrado
+ent-GunSafeBaseCommandSL = caja fuerte de armas
+    .desc = Una unidad de almacenamiento reglamentaria de Nanotrasen.
+    .suffix = Mando, Bloqueada
+ent-GunSafeBaseLawyerSL = caja fuerte de armas
+    .desc = Una unidad de almacenamiento reglamentaria de Nanotrasen.
+    .suffix = Abogado, Bloqueada
+ent-GunSafeBaseSecuritySL = caja fuerte de armas
+    .desc = Una unidad de almacenamiento reglamentaria de Nanotrasen.
+    .suffix = Seguridad, Bloqueada
+ent-GunSafeBaseSyndicateSL = caja fuerte de armas
+    .desc = Una unidad de almacenamiento reglamentaria de Nanotrasen.
+    .suffix = Syndicate, Bloqueada
+ent-GunSafeSL = caja fuerte de armas
+    .desc = Una unidad de almacenamiento reglamentaria de Nanotrasen.

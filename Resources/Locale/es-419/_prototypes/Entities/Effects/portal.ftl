@@ -1,0 +1,12 @@
+ent-PortalArtifact = portal bluespace
+    .desc = ¡Te transporta a un destino vinculado!
+ent-PortalBlue = portal bluespace
+    .desc = ¡Te transporta a un destino vinculado!
+ent-PortalGatewayBlue = portal bluespace
+    .desc = ¡Te transporta a un destino vinculado!
+ent-PortalGatewayOrange = portal bluespace
+    .desc = ¡Te transporta a un destino vinculado!
+ent-PortalRed = portal bluespace
+    .desc = Este parece más un portal redspace.
+ent-ShadowPortal = grieta de sombras
+    .desc = Se ve inestable.

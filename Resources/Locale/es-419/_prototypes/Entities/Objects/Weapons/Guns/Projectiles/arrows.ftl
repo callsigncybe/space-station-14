@@ -1,0 +1,12 @@
+ent-ArrowCard = flecha de cartón
+    .desc = ¡Cuidado, que le vas a sacar un ojo a alguien!
+ent-ArrowImprovised = flecha de fragmento de vidrio
+    .desc = El proyectil preferido de los camisas grises.
+ent-ArrowImprovisedCarp = flecha de diente de carpa
+    .desc = La flecha preferida de los rescatadores. Mata a tus enemigos con los dientes de sus familias.
+ent-ArrowImprovisedPlasma = flecha de fragmento de vidrio de plasma
+    .desc = El proyectil preferido de los camisas grises. ¡Ahora con letalidad extra!
+ent-ArrowImprovisedUranium = flecha de fragmento de vidrio de uranio
+    .desc = El proyectil preferido de los camisas grises. ¡Ahora con radiación añadida!
+ent-ArrowRegular = flecha
+    .desc = Puedes sentir dentro de ti el poder de la estepa.

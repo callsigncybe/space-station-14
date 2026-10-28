@@ -1,0 +1,9 @@
+ent-PartRodMetal = varilla de metal
+    .desc = Una materia prima.
+    .suffix = Llena
+ent-PartRodMetal1 = varilla de metal
+    .desc = Una materia prima.
+    .suffix = Uno
+ent-PartRodMetal10 = varilla de metal
+    .desc = Una materia prima.
+    .suffix = 10

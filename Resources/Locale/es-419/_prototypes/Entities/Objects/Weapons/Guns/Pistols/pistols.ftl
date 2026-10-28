@@ -1,0 +1,10 @@
+ent-WeaponPistolCobra = cobra
+    .desc = Pistola semiautomática con supresor integrado usada por el Syndicate, que dispara balas subsónicas sin vaina. La preferida de cualquier agente al que le guste mantener las cosas en silencio y no dejar evidencias. Se alimenta de cargadores de pistola .25.
+ent-WeaponPistolEchis = echis
+    .desc = Un sistema de armas montado en cyborg basado en la pistola Viper. Crea munición al instante con un fabricador interno, que se recarga lentamente solo.
+ent-WeaponPistolMk58 = mk 58
+    .desc = Diseñada por la División de Armas Pequeñas de NanoTrasen, la Mk58 es una pistola semiautomática convencional con un mecanismo simple de retroceso y una excelente confiabilidad. El arma secundaria estándar de la seguridad de las estaciones y de los equipos de respuesta a emergencias de NanoTrasen. Se alimenta de cargadores de pistola .35.
+ent-WeaponPistolN1984 = N1984
+    .desc = Un ‘cañón de mano’ excepcionalmente potente, diseñado como parte de la iniciativa BFG de NanoTrasen. Con recámara para .45, el calibre del señor, en general se considera demasiado difícil de manejar para el uso estándar, pero se volvió una especie de símbolo de estatus entre los funcionarios de NanoTrasen. Se alimenta de cargadores de pistola .45.
+ent-WeaponPistolViper = viper
+    .desc = Una pistola común modificada ilegalmente por el Syndicate. La Viper tiene un selector entre semiautomático, "rock and roll" y "dispara y reza". El arma secundaria estándar de cualquier soldado que pelea bajo las tres serpientes. Se alimenta de cargadores de pistola .35.

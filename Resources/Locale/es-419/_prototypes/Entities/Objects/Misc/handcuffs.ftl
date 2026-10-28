@@ -1,0 +1,12 @@
+ent-Cablecuffs = esposas improvisadas
+    .desc = Esposas caseras hechas con cables sobrantes.
+ent-CablecuffsBroken = cables rotos
+    .desc = Estos cables están rotos en varias partes y no parecen muy útiles.
+ent-ClothingOuterStraightjacket = camisa de fuerza
+    .desc = Se usa para inmovilizar a quienes podrían hacerse daño a sí mismos o a otros.
+ent-Handcuffs = esposas
+    .desc = Usadas para detener criminales y otros idiotas.
+ent-Zipties = precintos
+    .desc = Precintos de plástico resistentes de un solo uso, ideales para inmovilizar a prisioneros revoltosos.
+ent-ZiptiesBroken = precintos rotos
+    .desc = Parece que estos precintos intentaron sujetar los cables equivocados.

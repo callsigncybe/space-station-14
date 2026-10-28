@@ -1,0 +1,12 @@
+ent-ClothingBeltMedTakFilledHeavy = cinturón MedTak
+    .desc = Un cinturón versátil que usan los operadores de MedTak.
+    .suffix = Lleno, Seguridad, Pesado
+ent-ClothingBeltMedTakFilledMedic = cinturón MedTak
+    .desc = Un cinturón versátil que usan los operadores de MedTak.
+    .suffix = Lleno, Médico
+ent-ClothingBeltMedTakFilledPilot = cinturón MedTak
+    .desc = Un cinturón versátil que usan los operadores de MedTak.
+    .suffix = Lleno, Piloto
+ent-ClothingBeltMedTakFilledRifle = cinturón MedTak
+    .desc = Un cinturón versátil que usan los operadores de MedTak.
+    .suffix = Lleno, Seguridad, Fusil

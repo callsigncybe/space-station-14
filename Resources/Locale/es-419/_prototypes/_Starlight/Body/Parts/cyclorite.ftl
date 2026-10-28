@@ -1,0 +1,10 @@
+ent-HeadCyclorite = cabeza de cyclorite
+ent-LeftArmCyclorite = brazo izquierdo de cyclorite
+ent-LeftFootCyclorite = pie izquierdo de cyclorite
+ent-LeftHandCyclorite = mano izquierda de cyclorite
+ent-LeftLegCyclorite = pierna izquierda de cyclorite
+ent-RightArmCyclorite = brazo derecho de cyclorite
+ent-RightFootCyclorite = pie derecho de cyclorite
+ent-RightHandCyclorite = mano derecha de cyclorite
+ent-RightLegCyclorite = pierna derecha de cyclorite
+ent-TorsoCyclorite = torso de cyclorite

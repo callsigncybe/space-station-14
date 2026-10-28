@@ -1,0 +1,10 @@
+ent-EndymionStatueLarge1 = pequeño memorial del Endymion
+    .desc = Un memorial encargado en 2143 para conmemorar las vidas perdidas a bordo del Endymion y el Blu-E, tallado en un fragmento recuperado del casco de las naves y moldeado a su semejanza. Los nombres de la tripulación perdida están grabados en él. "Al alcanzar el futuro, nunca debemos olvidar a quienes vinieron antes que nosotros." - Representante de la TSF Kennedy Sunderland
+ent-Phoronic = cascada forónica
+    .desc = Una enorme estructura hecha de plasma puro. Energía oscura se agita y estalla en su interior.
+ent-StatueAngel = estatua de un ángel
+    .desc = Una antigua estatua de mármol. La figura aparece con túnicas ondulantes y alas bien extendidas.
+ent-StatueOneYearAnniversary = monumento al primer año
+    .desc = Una estatua de mármol de un empleado idealizado, hecha para conmemorar el primer aniversario del control de NanoTrasen sobre el Sector Starlight. Aunque en teoría es celebratoria, parece extrañamente fúnebre. Muchos murieron para hacer esto posible.
+ent-StatueStoneCUP = estatua de piedra del té
+    .desc = Una estatua de piedra que representa a un revolucionario bebiendo té. Es un símbolo de unidad y propósito común entre camaradas.

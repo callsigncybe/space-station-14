@@ -1,0 +1,9 @@
+ent-ActionStethoscope = Escuchar con estetoscopio
+ent-ClothingNeckBling = bling
+    .desc = Uf, qué bien se siente ser gánster.
+ent-ClothingNeckLawyerbadge = insignia de abogado
+    .desc = Una insignia que demuestra que su dueño es un abogado "legítimo" que aprobó el examen de abogacía de NT necesario para ejercer.
+ent-ClothingNeckStethoscope = estetoscopio
+    .desc = Un aparato médico anticuado para escuchar los sonidos del cuerpo humano. También te hace ver como si supieras lo que haces.
+ent-Dinkystar = calcomanía de estrella
+    .desc = ¡Una estrellita para los oficiales de seguridad más trabajadores! Ya ni siquiera pega.

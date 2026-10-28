@@ -1,0 +1,10 @@
+ent-ActionHoloPin = Activar holo-pin
+    .desc = ¡ÚLTIMO MOMENTO! ¡NO ME MATES, POR FAVOR!
+ent-ClothingNeckAngelPin = pin de buenas acciones
+    .desc = ¡Por lo mejor!
+    .suffix = NO MAPEAR, Admeme
+ent-ClothingNeckDevilPin = pin de malas acciones
+    .desc = ¡Por lo peor!
+    .suffix = NO MAPEAR, Admeme
+ent-HoloReporterPin = holo-pin de reportero
+    .desc = Es un pin electrónico con un botón en forma de micrófono. Una forma más clara de decir: ¡NO DISPAREN!

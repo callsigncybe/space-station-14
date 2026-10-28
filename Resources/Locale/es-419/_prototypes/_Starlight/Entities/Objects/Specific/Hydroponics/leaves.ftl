@@ -1,0 +1,12 @@
+ent-GroundCannabis10 = cannabis molido
+    .desc = Cannabis molido, listo para llevarte de viaje.
+    .suffix = 10
+ent-GroundCannabis5 = cannabis molido
+    .desc = Cannabis molido, listo para llevarte de viaje.
+    .suffix = 5
+ent-GroundTobacco5 = tabaco molido
+    .desc = Tabaco molido, perfecto para cigarrillos armados a mano.
+    .suffix = 5
+ent-LeavesTobaccoDried5 = hojas de tabaco secas
+    .desc = Hojas de tabaco secas, listas para moler.
+    .suffix = 5

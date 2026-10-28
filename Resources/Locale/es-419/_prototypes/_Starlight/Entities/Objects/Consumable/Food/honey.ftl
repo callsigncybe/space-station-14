@@ -1,0 +1,12 @@
+ent-FoodHoneyFrame = marco de miel
+    .desc = Una tabla de madera con panales construidos dentro.
+ent-FoodHoneyLoaf = hogaza de miel
+    .desc = Una hogaza de pan tibia y suave bañada en miel.
+ent-FoodHoneyLoafSlice = rebanada de miel
+    .desc = Una rebanada de pan tibia y suave bañada en miel.
+ent-FoodHoneyRoll = rollo de miel
+    .desc = ¿Qué pasa, alguien te robó tu rollo de miel?
+ent-FoodHoneybar = barra de miel
+    .desc = Una barra de cereales pegajosa y dulce cubierta de miel.
+ent-Honeycomb = panal
+    .desc = Un panal de miel. A muchas abejas les llevó mucho tiempo hacerlo.

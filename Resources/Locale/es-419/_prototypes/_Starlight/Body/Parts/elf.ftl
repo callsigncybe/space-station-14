@@ -1,0 +1,10 @@
+ent-HeadElf = cabeza de elfo
+ent-LeftArmElf = brazo izquierdo de elfo
+ent-LeftFootElf = pie izquierdo de elfo
+ent-LeftHandElf = mano izquierda de elfo
+ent-LeftLegElf = pierna izquierda de elfo
+ent-RightArmElf = brazo derecho de elfo
+ent-RightFootElf = pie derecho de elfo
+ent-RightHandElf = mano derecha de elfo
+ent-RightLegElf = pierna derecha de elfo
+ent-TorsoElf = torso de elfo

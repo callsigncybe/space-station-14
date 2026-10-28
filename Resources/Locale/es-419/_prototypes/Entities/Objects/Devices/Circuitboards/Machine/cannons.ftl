@@ -1,0 +1,15 @@
+ent-ShuttleGunDusterCircuitboard = placa de máquina EXP-2100g "Duster"
+    .desc = Una placa de circuito impreso de máquina para un EXP-2100g "Duster".
+    .suffix = NO MAPEAR, Placa de máquina
+ent-ShuttleGunFriendshipCircuitboard = placa de máquina EXP-320g "Friendship"
+    .desc = Una placa de circuito impreso de máquina para un EXP-320g "Friendship".
+    .suffix = NO MAPEAR, Placa de máquina
+ent-ShuttleGunKineticCircuitboard = placa de máquina PTK-800 "Matter Dematerializer"
+    .desc = Una placa de circuito impreso de máquina para un PTK-800 "Matter Dematerializer".
+    .suffix = NO MAPEAR, Placa de máquina
+ent-ShuttleGunPerforatorCircuitboard = placa de máquina LSE-1200c "Perforator"
+    .desc = Una placa de circuito impreso de máquina para un LSE-1200c "Perforator".
+    .suffix = NO MAPEAR, Placa de máquina
+ent-ShuttleGunSvalinnMachineGunCircuitboard = placa de máquina LSE-400c "Svalinn machine gun"
+    .desc = Una placa de circuito impreso de máquina para una LSE-400c "Svalinn machine gun".
+    .suffix = NO MAPEAR, Placa de máquina

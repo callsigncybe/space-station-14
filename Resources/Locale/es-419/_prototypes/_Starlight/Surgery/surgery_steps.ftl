@@ -1,0 +1,17 @@
+ent-SurgeryStepClampBleeders = Pinzar los sangrados
+ent-SurgeryStepClampTendrils = Quitar los tentáculos
+ent-SurgeryStepCloseBones = Cerrar huesos
+ent-SurgeryStepCloseIncision = Cerrar incisión
+ent-SurgeryStepCloseIncisionDoll = Cerrar incisión
+ent-SurgeryStepCutAbdominalMuscles = Cortar los músculos abdominales
+ent-SurgeryStepMendRibcage = Reparar caja torácica
+ent-SurgeryStepMendShellDoll = Reparar caparazón
+ent-SurgeryStepMendSkull = Reparar cráneo
+ent-SurgeryStepMendSlime = Reformar masa de slime
+ent-SurgeryStepOpenIncisionScalpel = Cortar con un bisturí
+ent-SurgeryStepOpenShell = Romper el caparazón
+ent-SurgeryStepPriseOpenBones = Separar los huesos haciendo palanca
+ent-SurgeryStepRestoreAbdominalWalls = Restaurar paredes abdominales
+ent-SurgeryStepRetractAbdominalWalls = Retraer paredes abdominales
+ent-SurgeryStepSawBones = Serrar los huesos
+ent-SurgeryStepSutureMuscles = Suturar músculos abdominales

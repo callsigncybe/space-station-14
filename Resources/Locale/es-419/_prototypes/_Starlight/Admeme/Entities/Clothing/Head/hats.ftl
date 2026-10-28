@@ -1,0 +1,12 @@
+ent-ClothingHeadHatNTNC = gorra de marine de la armada de NanoTrasen.
+ent-ClothingHeadHatNTNCEnsign = gorra de alférez de la armada de NanoTrasen.
+ent-ClothingHeadHatNTNCGrey = gorra gris de marine de la armada de NanoTrasen.
+ent-ClothingHeadHatTophatArmored = sombrero de copa
+    .desc = Un elegante sombrero de copa negro, forrado de kevlar
+    .suffix = blindada, admeme
+ent-ClothingHeadHatTophatBigArmored = sombrero de copa grande
+    .desc = Este sombrero claramente pertenece a alguien muy, muy importante. Está forrado de kevlar.
+    .suffix = blindada, admeme
+ent-ClothingHeadHatTophatBigWhiteArmored = sombrero de copa grande
+    .desc = Este sombrero claramente pertenece a alguien muy, muy importante. Está forrado de kevlar.
+    .suffix = blindada, admeme

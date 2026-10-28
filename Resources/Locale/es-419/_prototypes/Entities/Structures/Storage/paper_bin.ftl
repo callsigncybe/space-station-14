@@ -1,0 +1,12 @@
+ent-PaperBin = bandeja de papel
+    .desc = ¿Qué secretos esconde el fondo de su pila interminable?
+    .suffix = Vacío
+ent-PaperBin10 = bandeja de papel
+    .desc = ¿Qué secretos esconde el fondo de su pila interminable?
+    .suffix = 10
+ent-PaperBin20 = bandeja de papel
+    .desc = ¿Qué secretos esconde el fondo de su pila interminable?
+    .suffix = 20
+ent-PaperBin5 = bandeja de papel
+    .desc = ¿Qué secretos esconde el fondo de su pila interminable?
+    .suffix = 5

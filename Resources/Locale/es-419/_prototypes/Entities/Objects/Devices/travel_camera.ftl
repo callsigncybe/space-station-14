@@ -1,0 +1,9 @@
+ent-PhotographBlack = fotografía
+ent-PhotographBlue = fotografía
+ent-PhotographGreen = fotografía
+ent-PhotographPurple = fotografía
+ent-PhotographRainbow = fotografía
+ent-PhotographRed = fotografía
+ent-PhotographYellow = fotografía
+ent-TravelCamera = cámara de viaje
+    .desc = Una imagen dice más que mil palabras. Viene con un flash ultrabrillante y un rollo de fotos con recarga interna.

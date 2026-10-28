@@ -1,0 +1,16 @@
+ent-SpawnMobXenoBurrower = Generador de xenos
+    .suffix = Excavador
+ent-SpawnMobXenoDrone = Generador de xenos
+    .suffix = Dron
+ent-SpawnMobXenoLonePraetorian = Generador de xenos
+    .suffix = Pretoriano solitario, Exo Station
+ent-SpawnMobXenoPraetorian = Generador de xenos
+    .suffix = Pretoriano
+ent-SpawnMobXenoQueen = Generador de xenos
+    .suffix = Reina
+ent-SpawnMobXenoRavager = Generador de xenos
+    .suffix = Devastador
+ent-SpawnMobXenoRunner = Generador de xenos
+    .suffix = Corredor
+ent-SpawnMobXenoSpitter = Generador de xenos
+    .suffix = Escupidor

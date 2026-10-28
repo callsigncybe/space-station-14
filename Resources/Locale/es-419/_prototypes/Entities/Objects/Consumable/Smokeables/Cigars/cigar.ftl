@@ -1,0 +1,10 @@
+ent-Cigar = puro
+    .desc = Un rollo marrón de tabaco y... bueno, no estás muy seguro.
+ent-CigarGold = puro habano premium
+    .desc = Un puro digno solo de los mejores entre los mejores.
+ent-CigarGoldSpent = puro habano premium
+    .desc = Un puro digno solo de los mejores entre los mejores.
+    .suffix = consumido
+ent-CigarSpent = puro
+    .desc = Un rollo marrón de tabaco y... bueno, no estás muy seguro.
+    .suffix = consumido

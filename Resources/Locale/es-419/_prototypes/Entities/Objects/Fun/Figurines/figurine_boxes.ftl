@@ -1,0 +1,10 @@
+ent-MysteryFigureBox = caja misteriosa de minifiguras de astronautas
+    .desc = Una caja que contiene una minifigura misteriosa. El costado de la caja muestra algunas figuras "raras" ocultas, incluida una con una silueta grande y no humanoide.
+ent-MysteryFigureBoxTrash = caja de cartón desplegada
+    .desc = Una pequeña caja de cartón de juguete, desplegada.
+ent-MysteryLighterBox = caja misteriosa de encendedores de novedad
+    .desc = Una caja de encendedores promocionales descontinuados. Una etiqueta descolorida y rayada en el costado dice: "Puede contener contrabando".
+    .suffix = Llena
+ent-UplinkLighterBox = caja misteriosa de encendedores de novedad
+    .desc = Una caja de encendedores promocionales descontinuados. Una etiqueta descolorida y rayada en el costado dice: "Puede contener contrabando".
+    .suffix = Uplink

@@ -1,0 +1,12 @@
+ent-ActionMechActivateAirHorn = ¡¡¡HOOOOOONNNNNNNKKKKK!!!
+    .desc = Lleva alegría a todos los que estén al alcance del oído.
+ent-ActionMechToggleInternals = Alternar internos
+    .desc = Empieza a ventilar el interior desde el tanque de gas.
+ent-ActionMechToggleLights = Alternar luces
+    .desc = Enciende los reflectores montados en el mech para ver en zonas poco iluminadas.
+ent-ActionMechToggleNightVision = Alternar cámara
+    .desc = Enciende la cámara de visión nocturna montada en el mech.
+ent-ActionMechToggleSirens = Alternar sirenas
+    .desc = Enciende la sirena montada en el mech para que todos sepan quién viene.
+ent-ActionMechToggleThrusters = Alternar propulsores
+    .desc = Enciende los propulsores montados en el mech para volar en el espacio.

@@ -1,0 +1,15 @@
+ent-CheapRollerBed = camilla
+    .desc = Una camilla desgastada. Se usa para trasladar pacientes.
+ent-CheapRollerBedSpawnFolded = camilla
+    .desc = Una camilla desgastada. Se usa para trasladar pacientes.
+    .suffix = plegada
+ent-EmergencyRollerBed = camilla
+    .desc = Una camilla de aspecto robusto usada para emergencias.
+ent-EmergencyRollerBedSpawnFolded = camilla
+    .desc = Una camilla de aspecto robusto usada para emergencias.
+    .suffix = plegada
+ent-RollerBed = camilla
+    .desc = Se usa para trasladar pacientes sin lastimarlos.
+ent-RollerBedSpawnFolded = camilla
+    .desc = Se usa para trasladar pacientes sin lastimarlos.
+    .suffix = plegada

@@ -1,0 +1,12 @@
+ent-Railing = baranda
+    .desc = Una baranda básica pensada para evitar que idiotas como tú se caigan.
+    .suffix = acero
+ent-RailingCorner = baranda
+    .desc = Una baranda básica pensada para evitar que idiotas como tú se caigan.
+    .suffix = acero, esquina
+ent-RailingCornerSmall = baranda
+    .desc = Una baranda básica pensada para evitar que idiotas como tú se caigan.
+    .suffix = acero, esquina pequeña
+ent-RailingRound = baranda
+    .desc = Una baranda básica pensada para evitar que idiotas como tú se caigan.
+    .suffix = acero, redonda

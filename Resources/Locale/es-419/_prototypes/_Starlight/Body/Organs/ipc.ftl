@@ -1,0 +1,13 @@
+ent-OrganIPCEars = oídos robóticos
+    .desc = Procesan audio con la misma calidad que los cyborgs de la estación
+    .suffix = IPC
+ent-OrganIPCEyes = ojos robóticos
+    .desc = Definitivamente nada blandos. Bastante filosos, en realidad.
+    .suffix = IPC
+ent-OrganIPCHeart = microbomba
+    .desc = Hace circular refrigerante de una forma enfermizamente familiar.
+    .suffix = IPC
+ent-OrganIPCTongue = modulador vocal
+    .desc = Un modulador vocal, que normalmente se usa para mentir.
+    .suffix = IPC
+ent-SolutionBaseIPCOrganUnGibbableOrgan = solución

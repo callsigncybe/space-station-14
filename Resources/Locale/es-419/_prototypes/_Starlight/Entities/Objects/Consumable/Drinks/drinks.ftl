@@ -1,0 +1,9 @@
+ent-DrinkDraganSpecialGlass = vaso metamórfico
+    .desc = Un vaso metamórfico que se convierte automágicamente en el vaso adecuado para la bebida que contiene. Tiene un número de patente lijado en la base.
+    .suffix = especial dragan
+ent-DrinkTheHighlanderGlass = vaso metamórfico
+    .desc = Un vaso metamórfico que se convierte automágicamente en el vaso adecuado para la bebida que contiene. Tiene un número de patente lijado en la base.
+    .suffix = The Highlander
+ent-DrinkWaterBottleEmpty = botella de agua
+    .desc = Agua simple y limpia de origen desconocido. Piensas que quizás no quieras saberlo.
+    .suffix = Vacío

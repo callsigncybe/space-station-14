@@ -1,0 +1,11 @@
+ent-WeaponEnergyTurretAIControlPanel = panel de control de torretas centinela
+    .desc = Una interfaz de pared para configurar a distancia los parámetros operativos de las torretas centinela vinculadas.
+    .suffix = IA
+ent-WeaponEnergyTurretCommandControlPanel = panel de control de torretas centinela
+    .desc = Una interfaz de pared para configurar a distancia los parámetros operativos de las torretas centinela vinculadas.
+    .suffix = Mando
+ent-WeaponEnergyTurretControlPanelFrame = ensamblaje de panel de control de torreta centinela
+    .desc = Un ensamblaje de pared incompleto para un panel de control de torreta centinela.
+ent-WeaponEnergyTurretSecurityControlPanel = panel de control de torretas centinela
+    .desc = Una interfaz de pared para configurar a distancia los parámetros operativos de las torretas centinela vinculadas.
+    .suffix = Seguridad

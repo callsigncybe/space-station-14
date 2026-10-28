@@ -1,0 +1,10 @@
+ent-HeadAvali = cabeza de avali
+ent-LeftArmAvali = brazo izquierdo de avali
+ent-LeftFootAvali = pie izquierdo de avali
+ent-LeftHandAvali = mano izquierda de avali
+ent-LeftLegAvali = pierna izquierda de avali
+ent-RightArmAvali = brazo derecho de avali
+ent-RightFootAvali = pie derecho de avali
+ent-RightHandAvali = mano derecha de avali
+ent-RightLegAvali = pierna derecha de avali
+ent-TorsoAvali = torso de avali

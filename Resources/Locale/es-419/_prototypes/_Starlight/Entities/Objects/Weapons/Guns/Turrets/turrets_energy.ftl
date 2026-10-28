@@ -1,0 +1,9 @@
+ent-WeaponEnergyTurretITG = torreta centinela
+    .desc = Un sistema de armas autónomo de alta tecnología diseñado para mantener al personal no autorizado fuera de las áreas sensibles.
+    .suffix = ITG
+ent-WeaponEnergyTurretSilicon = torreta centinela
+    .desc = Un sistema de armas autónomo de alta tecnología diseñado para mantener al personal no autorizado fuera de las áreas sensibles.
+    .suffix = Silicio
+ent-WeaponEnergyTurretSolgov = torreta centinela
+    .desc = Un sistema de armas autónomo de alta tecnología diseñado para mantener al personal no autorizado fuera de las áreas sensibles.
+    .suffix = SolGov

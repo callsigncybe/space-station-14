@@ -1,0 +1,10 @@
+ent-Finka = finka
+    .desc = Daga legendaria del SNKVD, una excelente arma cuerpo a cuerpo; se dice que existía una técnica secreta para lanzar este cuchillo.
+ent-FinkaAdmeme = finka ForceableFollow
+    .desc = Daga legendaria del SNKVD, una excelente arma cuerpo a cuerpo; se dice que existía una técnica secreta para lanzar este cuchillo.
+    .suffix = Admeme
+ent-XenoKnife = cuchillo de combate
+    .desc = Un cuchillo mortal pensado para enfrentamientos cuerpo a cuerpo.
+    .suffix = Xenoborg
+ent-XenoShiv = faca
+    .desc = Un cuchillo débil, que en realidad solo sirve para mantener a los demás alejados.

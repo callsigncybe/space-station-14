@@ -1,0 +1,16 @@
+ent-BagpipeInstrument = gaita
+    .desc = Combina muy bien con un kilt.
+ent-ClarinetInstrument = clarinete
+    .desc = Kalamardo Tentáculos.
+ent-FluteInstrument = flauta
+    .desc = Alcanzando nuevas alturas de chillido horrible.
+ent-HarmonicaInstrument = armónica
+    .desc = Eso es un instrumento.
+ent-OcarinaInstrument = ocarina
+    .desc = Buena para tocar canciones de cuna.
+ent-PanFluteInstrument = flauta de Pan
+    .desc = Perfecta para atraer a antiguos seres míticos a bailar contigo.
+ent-RecorderInstrument = flauta dulce
+    .desc = ¡Viene en varios colores de plástico a la moda!
+ent-SaxophoneInstrument = saxofón
+    .desc = Un instrumento. Probablemente podrías molerlo y sacar jazz puro.

@@ -1,0 +1,11 @@
+ent-ParcelWrap = papel de embalaje
+    .desc = Papel usado para envolver objetos para su transporte.
+ent-ParcelWrapAdmeme = envoltorio bluespace
+    .desc = Papel usado para envolver objetos para su transporte. Este parece poder guardar una cantidad inusual de espacio adentro.
+    .suffix = Admeme
+ent-ParcelWrapTrash = papel de embalaje
+    .desc = Los decepcionantes restos de un paquete desenvuelto.
+ent-WrappedParcel = paquete envuelto
+    .desc = Algo envuelto en papel. Me pregunto qué habrá adentro...
+ent-WrappedParcelHumanoid = paquete envuelto
+    .desc = Algo envuelto en papel. Tiene una forma sospechosamente humana.

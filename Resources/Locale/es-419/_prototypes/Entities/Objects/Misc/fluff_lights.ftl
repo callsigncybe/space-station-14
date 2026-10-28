@@ -1,0 +1,12 @@
+ent-Floodlight = reflector
+    .desc = Un poste con potentes luces montadas.
+ent-FloodlightBroken = reflector roto
+    .desc = Un poste con potentes luces montadas. Está roto.
+ent-Lamp = lámpara
+    .desc = Un dispositivo que emite luz.
+ent-LampBanana = lámpara banana
+    .desc = Un dispositivo que emite luz, con forma de banana.
+ent-LampGold = lámpara de escritorio
+    .desc = Un dispositivo que emite luz y que quedaría genial sobre un escritorio.
+ent-LampInterrogator = lámpara de interrogatorio
+    .desc = Lámpara ultrabrillante para el policía malo.

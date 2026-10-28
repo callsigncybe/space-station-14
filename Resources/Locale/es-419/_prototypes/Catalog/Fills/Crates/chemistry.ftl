@@ -1,0 +1,11 @@
+ent-CrateChemistryD = cajón de químicos (D)
+    .desc = Contiene químicos del bloque D de los elementos. Requiere acceso a Química para abrir.
+    .suffix = Segura
+ent-CrateChemistryP = cajón de químicos (P)
+    .desc = Contiene químicos del bloque P de los elementos. Requiere acceso a Química para abrir.
+    .suffix = Segura
+ent-CrateChemistryS = cajón de químicos (S)
+    .desc = Contiene químicos del bloque S de los elementos. Requiere acceso a Química para abrir.
+    .suffix = Segura
+ent-CratePlantBGone = cajón de Plant-B-Gone a granel
+    .desc = De Monstano. "¡Malezas indeseadas, conozcan a su Roundup celestial!"

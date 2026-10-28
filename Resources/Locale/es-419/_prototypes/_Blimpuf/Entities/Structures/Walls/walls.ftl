@@ -1,0 +1,10 @@
+ent-WallBrass = pared de latón
+    .desc = Mantiene el aire adentro y a los asistentes afuera.
+ent-WallBrassDiagonal = pared de latón
+    .desc = Mantiene el aire adentro y a los asistentes afuera.
+    .suffix = Diagonal
+ent-WallReinforcedBrass = pared de latón reforzada
+    .desc = Mantiene el aire adentro y a los asistentes afuera.
+ent-WallReinforcedBrassDiagonal = pared de latón reforzada
+    .desc = Mantiene el aire adentro y a los asistentes afuera.
+    .suffix = Diagonal

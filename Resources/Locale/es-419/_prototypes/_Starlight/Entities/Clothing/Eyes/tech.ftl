@@ -1,0 +1,12 @@
+ent-ClothingEyesTechnology = aparato robótico
+    .desc = Es pesado y está cubierto de un lío de cables.
+ent-ClothingEyesTechnologyLudovic = lentes de insomne
+    .desc = ¡Con estos lentes lo veo todo! ...Ah, no, es solo polvo.
+ent-ClothingEyesTechnologyTwo = ojo robótico
+    .desc = Único entre los antiguos.
+ent-ClothingEyesTechnologyX = lentes de pantalla
+    .desc = Hora de entrar al mundo de 8 bits.
+ent-ClothingEyesTechnologyZero = oculares robóticos
+    .desc = Un par de oculares que chisporrotean con electricidad estática.
+ent-ClothingHeadHatTechnologyFive = láser de frente
+    .desc = Un puntero para los vagos.

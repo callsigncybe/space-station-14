@@ -1,0 +1,15 @@
+ent-ParticleAcceleratorEmitterFore = emisor de contención proa del AP
+    .desc = Lanza las partículas alfa; mejor no pararse cerca de este extremo.
+ent-ParticleAcceleratorEmitterForeUnfinished = emisor de contención proa del AP
+    .desc = Lanza las partículas alfa; mejor no pararse cerca de este extremo. Parece sin terminar.
+    .suffix = Sin terminar, Proa
+ent-ParticleAcceleratorEmitterPort = emisor de contención babor del AP
+    .desc = Lanza las partículas alfa; mejor no pararse cerca de este extremo.
+ent-ParticleAcceleratorEmitterPortUnfinished = emisor de contención babor del AP
+    .desc = Lanza las partículas alfa; mejor no pararse cerca de este extremo. Parece sin terminar.
+    .suffix = Sin terminar, Babor
+ent-ParticleAcceleratorEmitterStarboard = emisor de contención estribor del AP
+    .desc = Lanza las partículas alfa; mejor no pararse cerca de este extremo.
+ent-ParticleAcceleratorEmitterStarboardUnfinished = emisor de contención estribor del AP
+    .desc = Lanza las partículas alfa; mejor no pararse cerca de este extremo. Parece sin terminar.
+    .suffix = Sin terminar, Estribor

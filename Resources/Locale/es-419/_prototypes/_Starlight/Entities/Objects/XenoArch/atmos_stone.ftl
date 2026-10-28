@@ -1,0 +1,12 @@
+ent-GassyStoneHalon = piedra extraña
+    .desc = Una piedra pequeña excepcionalmente seca al tacto. Aunque no tiene poros, parece emitir una pequeña cantidad de gas.
+    .suffix = Halón
+ent-GassyStonePluoxium = piedra extraña
+    .desc = Una piedra pequeña excepcionalmente seca al tacto. Aunque no tiene poros, parece emitir una pequeña cantidad de gas.
+    .suffix = Pluoxio
+ent-GassyStoneUlnitranium = piedra extraña
+    .desc = Una piedra pequeña excepcionalmente seca al tacto. Aunque no tiene poros, parece emitir una pequeña cantidad de gas.
+    .suffix = Ulnitranio
+ent-GassyStoneZXA = piedra extraña
+    .desc = Una piedra pequeña excepcionalmente seca al tacto. Aunque no tiene poros, parece emitir una pequeña cantidad de gas.
+    .suffix = ZXA

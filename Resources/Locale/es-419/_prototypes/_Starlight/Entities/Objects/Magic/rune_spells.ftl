@@ -1,0 +1,13 @@
+ent-ActionEruption = Erupción
+    .desc = Invoca una runa que, después de 2 segundos, empieza a lanzar esquirlas ardientes en un área amplia (40 segundos de enfriamiento).
+ent-ActionExplosionRuneWiz = Runa explosiva
+    .desc = Invoca una runa que explota si alguien la pisa.
+ent-ActionFreezeRune = Runa congelante
+    .desc = Invoca una runa que congela en el lugar a cualquiera que la pise.
+ent-ActionIgniteRuneWiz = runa incendiaria
+    .desc = Invoca una runa que prende fuego a cualquiera que la pise.
+ent-EruptionRuneWiz = runa de erupción
+ent-ExplosionRuneWiz = runa explosiva
+ent-FreezeRune2Wiz = runa congelante
+ent-FreezeRuneWiz = runa congelante
+ent-IgniteRuneWiz = runa de ignición

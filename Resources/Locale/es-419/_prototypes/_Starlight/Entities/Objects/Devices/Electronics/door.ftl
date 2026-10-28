@@ -1,0 +1,12 @@
+ent-BaseDoorElectronicsCentComm = electrónica de puerta de Central Command
+    .desc = Una placa electrónica usada en puertas y esclusas.
+    .suffix = Electrónica
+ent-BaseDoorElectronicsPirate = electrónica de puerta pirata
+    .desc = Una placa electrónica usada en puertas y esclusas. Huele a agua salada.
+    .suffix = Electrónica
+ent-BaseDoorElectronicsSyndicate = electrónica de puerta del Syndicate
+    .desc = Una placa electrónica usada en puertas y esclusas.
+    .suffix = Electrónica
+ent-BaseDoorElectronicsXenoborg = electrónica de puerta xenoborg
+    .desc = Una placa electrónica usada en puertas y esclusas.
+    .suffix = Electrónica

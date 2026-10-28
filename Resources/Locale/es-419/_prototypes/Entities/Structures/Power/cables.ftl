@@ -1,0 +1,17 @@
+ent-CableApcExtension = cable de energía BV
+    .desc = Un cable que se usa para conectar máquinas a un APC.
+ent-CableApcExtensionUncuttable = cable de energía BV
+    .desc = Un cable que se usa para conectar máquinas a un APC.
+    .suffix = no cortable
+ent-CableDet = cordón explosivo
+    .desc = Espagueti para gente que odia las paredes.
+ent-CableHV = cable de energía AV
+    .desc = Un cable de energía naranja de alto voltaje.
+ent-CableHVUncuttable = cable de energía AV
+    .desc = Un cable de energía naranja de alto voltaje.
+    .suffix = no cortable
+ent-CableMV = cable de energía MV
+    .desc = Un cable de energía de medio voltaje.
+ent-CableMVUncuttable = cable de energía MV
+    .desc = Un cable de energía de medio voltaje.
+    .suffix = no cortable

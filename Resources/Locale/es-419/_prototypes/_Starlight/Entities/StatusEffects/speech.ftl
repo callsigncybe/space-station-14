@@ -1,0 +1,1 @@
+ent-StatusEffectRatvarianLanguage = idioma ratvariano

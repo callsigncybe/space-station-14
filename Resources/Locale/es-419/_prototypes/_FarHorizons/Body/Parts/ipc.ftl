@@ -1,0 +1,10 @@
+ent-HeadIPC = cabeza de IPC
+ent-LeftArmIPC = brazo izquierdo de IPC
+ent-LeftFootIPC = pie izquierdo de IPC
+ent-LeftHandIPC = mano izquierda de IPC
+ent-LeftLegIPC = pierna izquierda de IPC
+ent-RightArmIPC = brazo derecho de IPC
+ent-RightFootIPC = pie derecho de IPC
+ent-RightHandIPC = mano derecha de IPC
+ent-RightLegIPC = pierna derecha de IPC
+ent-TorsoIPC = torso de IPC

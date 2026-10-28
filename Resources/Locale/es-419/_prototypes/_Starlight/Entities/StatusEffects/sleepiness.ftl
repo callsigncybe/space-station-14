@@ -1,0 +1,1 @@
+ent-StatusEffectSleepiness = somnolencia

@@ -1,0 +1,12 @@
+ent-OrganDwarfHeart = corazón de enano
+    .desc = Me da pena el desalmado que perdió esto.
+    .suffix = Enano
+ent-OrganDwarfLiver = hígado de enano
+    .desc = Sugerencia de maridaje: chianti y habas.
+    .suffix = Enano
+ent-OrganDwarfStomach = estómago de enano
+    .desc = Qué asco. Esto es difícil de digerir.
+    .suffix = Enano
+ent-OrganDwarfTongue = lengua
+    .desc = Un músculo carnoso que se usa principalmente para mentir.
+    .suffix = Enano

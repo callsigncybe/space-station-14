@@ -1,0 +1,15 @@
+ent-ClosetL3Filled = armario de equipo de riesgo biológico nivel 3
+    .desc = Es una unidad de almacenamiento para equipo de riesgo biológico nivel 3.
+    .suffix = Lleno, Genérico
+ent-ClosetL3JanitorFilled = armario de equipo de riesgo biológico nivel 3
+    .desc = Es una unidad de almacenamiento para equipo de riesgo biológico nivel 3.
+    .suffix = Lleno, Conserje
+ent-ClosetL3ScienceFilled = armario de equipo de riesgo biológico nivel 3
+    .desc = Es una unidad de almacenamiento para equipo de riesgo biológico nivel 3.
+    .suffix = Lleno, Ciencia
+ent-ClosetL3SecurityFilled = armario de equipo de riesgo biológico nivel 3
+    .desc = Es una unidad de almacenamiento para equipo de riesgo biológico nivel 3.
+    .suffix = Lleno, Seguridad
+ent-ClosetL3VirologyFilled = armario de equipo de riesgo biológico nivel 3
+    .desc = Es una unidad de almacenamiento para equipo de riesgo biológico nivel 3.
+    .suffix = Lleno, Virología

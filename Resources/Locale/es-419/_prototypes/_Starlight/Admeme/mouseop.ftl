@@ -1,0 +1,12 @@
+ent-ClothingBackpackDuffelSyndicateAmmoMouse = ¡bolso de op mouff!
+    .desc = Un bolso grande para guardar diversos artículos de traitor.
+    .suffix = NO MAPEAR, Admeme
+ent-ClothingHandsGlovesCombatmous = guantes de combate mouff imposibles de quitar
+    .desc = ¡hechos por mouffs para mouffs!
+    .suffix = NO MAPEAR, Admeme
+ent-ClothingOuterHardsuitSyndieMouseOps = traje rígido rojo mouff
+    .desc = ¡hechos por mouffs para mouffs!
+    .suffix = NO MAPEAR, Admeme
+ent-MobNyrMouseOps = operativo mouff
+    .desc = ES EL PUTO RATÓN, VINO POR UN PUTO QUESO
+    .suffix = NO MAPEAR, Admeme

@@ -1,0 +1,10 @@
+ent-CartridgeMagnumAP = cartucho (.45 magnum perforante)
+    .desc = Cartucho magnum pesado que usan sobre todo los revólveres. La munición perforante es famosa por atravesar directamente los chalecos antibalas.
+ent-CartridgeMagnumIncendiary = cartucho (.45 magnum incendiario)
+    .desc = Cartucho magnum pesado que usan sobre todo los revólveres. La munición incendiaria contiene un compuesto autoinflamable que prende fuego a los objetivos.
+ent-CartridgeMagnumPractice = cartucho (.45 magnum de práctica)
+    .desc = Cartucho magnum pesado que usan sobre todo los revólveres. La munición de práctica dispara un proyectil de tiza que pica un poco, pero no causa daño duradero.
+ent-CartridgeMagnumSP = cartucho (.45 magnum SP)
+    .desc = Cartucho magnum pesado que usan sobre todo los revólveres. La munición cinética estándar es común y útil en la mayoría de las situaciones.
+ent-CartridgeMagnumUranium = cartucho (.45 magnum de uranio)
+    .desc = Cartucho magnum pesado que usan sobre todo los revólveres. La munición de uranio reemplaza el núcleo de plomo de la bala por material fisible, que irradia a los objetivos desde adentro.

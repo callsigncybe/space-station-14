@@ -1,0 +1,15 @@
+ent-GrassBattlemap = mapa de batalla de pasto
+    .desc = ¡Un mapa de batalla para que empiece tu épica exploración de mazmorras, piezas no incluidas!
+ent-GrassBoardTabletop = mapa de batalla de pasto
+ent-MoonBattlemap = mapa de batalla lunar
+    .desc = ¡Un mapa de batalla para que empiece tu épica exploración lunar, piezas no incluidas!
+ent-MoonBoardTabletop = mapa de batalla de pasto
+ent-SandBattlemap = mapa de batalla de arena
+    .desc = ¡Un mapa de batalla para que empiecen tus épicos episodios de playa, piezas no incluidas!
+ent-SandBoardTabletop = mapa de batalla de arena
+ent-ShipBattlemap = mapa de batalla de nave
+    .desc = ¡Un mapa de batalla para que empiece tu épica exploración espacial, piezas no incluidas!
+ent-ShipBoardTabletop = mapa de batalla de nave
+ent-SnowBattlemap = mapa de batalla de nieve
+    .desc = ¡Un mapa de batalla para que empiece tu gélida exploración, piezas no incluidas!
+ent-SnowBoardTabletop = mapa de batalla de nieve

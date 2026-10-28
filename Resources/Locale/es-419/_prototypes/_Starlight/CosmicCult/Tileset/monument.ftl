@@ -1,0 +1,17 @@
+ent-MonumentCollider =
+    .suffix = Depuración, NO MAPEAR
+ent-MonumentCosmicCult1 = El Monumento
+    .desc = Una gran losa de desconocimiento, visible solo para quienes saben de ella. Construida con mil pequeñas nadas, su superficie refleja un vacío sin estrellas...
+    .suffix = Base, NO MAPEAR
+ent-MonumentCosmicCult2 =
+    .suffix = NO MAPEAR, NO SPAWNEAR
+ent-MonumentCosmicCult3 =
+    .suffix = NO MAPEAR, NO SPAWNEAR
+ent-MonumentCosmicCultMoveEnd = El Monumento
+    .suffix = Aparición, NO MAPEAR
+ent-MonumentCosmicCultMoveStart = El Monumento
+    .suffix = Aparición, NO MAPEAR
+ent-MonumentCosmicCultSpawnIn = El Monumento
+    .suffix = Aparición, NO MAPEAR
+ent-MonumentSlowZone =
+    .suffix = Depuración, NO MAPEAR

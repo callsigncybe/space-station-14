@@ -1,0 +1,13 @@
+ent-CigPackBlack = cajetilla de Nomads
+    .desc = Nomads extrafuertes, para cuando tu vida es extradura.
+ent-CigPackBlue = cajetilla de AcmeCo
+    .desc = Para quienes de alguna forma quieren batir el récord de más tumores cancerosos.
+ent-CigPackGreen = cajetilla de Spessman's Smokes
+    .desc = Una etiqueta en el paquete dice: ¿No sería una muerte lenta un buen cambio?
+ent-CigPackMixed = cigarros empapados de Dan
+    .desc = Dan trabajó con química de NT para deshacerse de químicos sobrantes. DISFRÚTALOS.
+    .suffix = Mixto
+ent-CigPackRed = cajetilla de DromedaryCo
+    .desc = La marca más popular de cigarros espaciales, patrocinadora de las Olimpiadas Espaciales.
+ent-CigPackSyndicate = cajetilla de hierbas Interdyne
+    .desc = Cigarros medicinales infusionados con medicina para cuando necesitas algo más que calmar los nervios.

@@ -1,0 +1,11 @@
+ent-MagazineShotgun = tambor de perdigones calibre 12
+    .desc = Un gran cargador de tambor usado por algunas escopetas automáticas de grado militar. Pensado para munición cinética de uso general.
+ent-MagazineShotgunBeanbag = tambor de bolsas de frijoles calibre 12
+    .desc = Un cargador de tambor grande que usan algunas escopetas automáticas de grado militar. Pensado para munición de bolsa de frijoles menos que letal.
+ent-MagazineShotgunEmpty = tambor de munición calibre 12
+    .desc = Un cargador de tambor grande que usan algunas escopetas automáticas de grado militar.
+    .suffix = vacío
+ent-MagazineShotgunIncendiary = tambor incendiario calibre 12
+    .desc = Un cargador de tambor grande que usan algunas escopetas automáticas de grado militar. Pensado para munición incendiaria autoinflamable.
+ent-MagazineShotgunSlug = tambor de postas calibre 12
+    .desc = Un gran cargador de tambor usado por algunas escopetas automáticas de grado militar. Pensado para munición de posta de largo alcance.

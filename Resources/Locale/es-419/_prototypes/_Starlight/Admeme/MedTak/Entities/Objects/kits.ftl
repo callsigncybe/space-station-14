@@ -1,0 +1,13 @@
+ent-BottleCaseMedTak = estuche de químicos
+    .desc = Un estuche reforzado con ranuras acolchadas para frascos.
+ent-BoxFolderMedTak = carpeta
+    .desc = Una carpeta llena de papeleo ultrasecreto.
+    .suffix = MedTak
+ent-MedkitCombatMedTak = kit de combate MedTak
+    .desc = El kit médico personal de un operador.
+ent-PenPackMedTak = paquete de autoinyectores
+    .desc = Una bolsa cargada de autoinyectores.
+    .suffix = MedTak, Lleno
+ent-SurgicalKitMedTak = kit quirúrgico avanzado
+    .desc = Un kit compacto de herramientas quirúrgicas.
+    .suffix = MedTak, Lleno

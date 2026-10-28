@@ -1,0 +1,10 @@
+ent-MimicSusToolbox = mímico sospechoso
+    .desc = No era un par de guantes de combate gratis.
+    .suffix = IA
+ent-MimicSusToolboxWaking = ¿caja de herramientas sospechosa?
+    .desc = Una caja de herramientas de aspecto siniestro llena de- espera, algo anda mal.
+ent-MobMimicHostile = mímico
+    .desc = Sorpresa.
+    .suffix = Hostil
+ent-ToolboxSyndicateMimic = caja de herramientas sospechosa
+    .desc = Una caja de herramientas de aspecto siniestro llena de herramientas de élite del Syndicate. ¿Acaba de moverse?

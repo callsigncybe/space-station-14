@@ -1,0 +1,12 @@
+ent-GoldBrutePack = paquete para moretones dorado
+    .desc = Paquetes para moretones dorados de edición limitada.
+    .suffix = Llena
+ent-GoldBrutePack1 = paquete para moretones dorado
+    .desc = Paquetes para moretones dorados de edición limitada. Son rarísimos. Atesóralos.
+    .suffix = Uno
+ent-GoldOintment = pomada dorada
+    .desc = Pomada dorada de edición limitada. ¡También cura quemaduras cáusticas leves!
+    .suffix = Llena
+ent-GoldOintment1 = pomada dorada
+    .desc = Pomadas doradas de edición limitada. ¡También curan quemaduras cáusticas leves! Son rarísimas. Atesóralas.
+    .suffix = Uno

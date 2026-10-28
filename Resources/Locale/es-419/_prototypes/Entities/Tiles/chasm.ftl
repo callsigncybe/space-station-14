@@ -1,0 +1,11 @@
+ent-FloorChasmEntity = abismo
+    .desc = Ni siquiera puedes ver el fondo.
+ent-FloorChromiteChasm = abismo
+    .desc = Ni siquiera puedes ver el fondo.
+    .suffix = Cromita
+ent-FloorDesertChasm = abismo
+    .desc = Ni siquiera puedes ver el fondo.
+    .suffix = Desierto
+ent-FloorSnowChasm = abismo
+    .desc = Ni siquiera puedes ver el fondo.
+    .suffix = Nieve

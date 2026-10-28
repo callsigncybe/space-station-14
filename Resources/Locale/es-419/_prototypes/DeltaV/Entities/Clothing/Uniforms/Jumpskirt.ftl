@@ -1,0 +1,10 @@
+ent-ClothingUniformJumpskirtCmoFormal = traje de falda formal del Director Médico
+    .desc = Un lujoso traje de falda azul verdoso con botones dorados y un pin de cruz verde, hecho a medida para el jefe de medicina.
+ent-ClothingUniformJumpskirtCmoVest = overol con falda con chaleco del Director Médico
+    .desc = Un acogedor chaleco de algodón verde azulado con un pin de cruz verde, combinado con una camisa blanca abotonada.
+ent-ClothingUniformJumpskirtDutyOfficerOrange = uniforme naranja del oficial de guardia
+    .desc = Una falda de seguridad llamativa para distinguirte del alcaide, mientras le da una excusa para golpearte diciendo que parecías un prisionero.
+ent-ClothingUniformJumpskirtHopFormal = vestido formal del Jefe de Personal
+    .desc = Un vestido bien hecho con botones dorados y ribete rojo. Ya que estamos, mejor verse bien cuando botánica se prenda fuego.
+ent-ClothingUniformJumpskirtQmFormal = vestido formal del Intendente
+    .desc = Inspirado en los oficiales de logística de los ejércitos del pasado, el atuendo perfecto para abastecer una ocasión formal.

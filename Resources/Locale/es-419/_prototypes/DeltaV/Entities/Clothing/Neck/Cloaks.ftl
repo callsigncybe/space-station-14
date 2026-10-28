@@ -1,0 +1,16 @@
+ent-ClothingNeckCloakBoat = capa de bote del Capitán
+    .desc = Una regia capa de bote de durahilo azul con forro de fieltro rojo y ribetes dorados. De algún modo, es aún más cara de lo que parece.
+ent-ClothingNeckCloakBoatCC = capa de bote de Comando Central
+    .desc = Una capa de bote de durahilo verde esmeralda con forro de fieltro rojo y ribetes dorados. De algún modo, es aún más cara de lo que parece.
+ent-ClothingNeckCloakBoatHos = capa de bote del Jefe de Seguridad
+    .desc = Una capa de bote de durahilo gris claro con forro de fieltro rojo y ribetes dorados. De algún modo, es aún más cara de lo que parece.
+ent-ClothingNeckCloakHopFormal = capa formal del Jefe de Personal
+    .desc = Una versión más elegante de la capa común, que seguro aumenta un poquito la admiración de la tripulación hacia ti.
+ent-ClothingNeckCloakNtr = capa del representante de NT
+    .desc = Una pesada capa adornada con una insignia modesta y un gran ribete de piel.
+ent-ClothingNeckCmoOverShoulder = abrigo sobre los hombros del Director Médico
+    .desc = Un abrigo para directores médicos que saben ponerse un abrigo, pero eligen no hacerlo como demostración de poder.
+ent-ClothingNeckCmoShawl = chal del Director Médico
+    .desc = Un chal con charretera digno de un director médico que quiere mantenerse abrigado pero profesional.
+ent-ClothingNeckHosRobe = bata decadente del Jefe de Seguridad
+    .desc = Una cómoda bata formal que se entrega a los jefes de seguridad veteranos

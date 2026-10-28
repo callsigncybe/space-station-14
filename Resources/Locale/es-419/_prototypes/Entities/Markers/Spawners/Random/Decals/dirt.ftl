@@ -1,0 +1,10 @@
+ent-DecalSpawnerBurns = Generador de calcomanías
+    .suffix = Quemaduras, radio 1
+ent-DecalSpawnerDirtMonospace = Generador de calcomanías
+    .suffix = Suciedad, monoespacio, radio 1
+ent-DecalSpawnerDirtNear = Generador de calcomanías
+    .suffix = Suciedad, radio 1.5
+ent-DecalSpawnerDirtSingle = Generador de calcomanías
+    .suffix = Suciedad, radio 0
+ent-DecalSpawnerDirtWide = Generador de calcomanías
+    .suffix = Suciedad, radio 3

@@ -1,0 +1,13 @@
+ent-ShadowBasaltFive = piedra sombría
+    .desc = Grietas brillantes en la realidad. Seguro que no pasa nada.
+ent-ShadowBasaltFour = piedra sombría
+    .desc = Grietas brillantes en la realidad. Seguro que no pasa nada.
+ent-ShadowBasaltOne = piedra sombría
+    .desc = Grietas brillantes en la realidad. Seguro que no pasa nada.
+ent-ShadowBasaltRandom = piedra sombría
+    .desc = Grietas brillantes en la realidad. Seguro que no pasa nada.
+    .suffix = Aleatorio
+ent-ShadowBasaltThree = piedra sombría
+    .desc = Grietas brillantes en la realidad. Seguro que no pasa nada.
+ent-ShadowBasaltTwo = piedra sombría
+    .desc = Grietas brillantes en la realidad. Seguro que no pasa nada.

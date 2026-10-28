@@ -1,0 +1,15 @@
+ent-OrganSlimeHeart = circulador de slime
+    .desc = Un pequeño circulador que hace que el fluido se mueva por el cuerpo del slime.
+    .suffix = Slime
+ent-OrganSlimeLungs = sacos de gas de slime
+    .desc = Recolectan nitrógeno, que las células de slime usan para su mantenimiento.
+    .suffix = Slime
+ent-OrganSlimePeepoids = peepoides
+    .desc = Primitivos y viscosos, pero más o menos igual de buenos que el equivalente humano.
+    .suffix = Slime
+ent-OrganSlimeSlurpoid = slurpoide
+    .desc = Tiene toda la consistencia de la gelatina.
+    .suffix = Slime
+ent-SentientSlimeCore = núcleo de slime consciente
+    .desc = La fuente de una viscosidad increíble e interminable.
+    .suffix = Slime

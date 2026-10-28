@@ -1,0 +1,17 @@
+ent-BriefcaseSmugglerCash = maletín de contrabandista
+    .desc = Útil para llevar objetos en las manos.
+    .suffix = Contrabandista, No mapear
+ent-ClothingBackpackDuffelClownSmuggler = bolso de payaso de contrabandista
+    .desc = Un bolso grande para llevar mercancía honk extra.
+    .suffix = Contrabandista, No mapear
+ent-ClothingBackpackSatchelSmuggler = morral de contrabandista
+    .desc = Un morral práctico y de aspecto sospechoso. Lo bastante plano para caber debajo de las baldosas del piso.
+    .suffix = Vacío
+ent-ClothingBackpackSatchelSmugglerFilled = morral de contrabandista
+    .desc = Un morral práctico y de aspecto sospechoso. Lo bastante plano para caber debajo de las baldosas del piso.
+    .suffix = Contrabandista, No mapear
+ent-ClothingBackpackSatchelSmugglerUnanchored = morral de contrabandista
+    .desc = Un morral práctico y de aspecto sospechoso. Lo bastante plano para caber debajo de las baldosas del piso.
+    .suffix = Vacío, Sin anclar
+ent-RandomSatchelSpawner = generador de morral de contrabandista al azar
+    .suffix = NO MAPEAR

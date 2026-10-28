@@ -1,0 +1,12 @@
+ent-OrganNeoCycloriteEye = ojo cibernético de cyclorite
+    .desc = Los cyclorites ven el mundo de forma un poco distinta.
+    .suffix = Neocyclorite
+ent-OrganNeoCycloriteHeart = corazón cibernético de cyclorite
+    .desc = En realidad no necesita latir; solo imita el movimiento para darle comodidad al usuario.
+    .suffix = Neocyclorite
+ent-OrganNeoCycloriteLungs = pulmones cibernéticos de cyclorite
+    .desc = Filtran el nitrógeno de una atmósfera, que luego se envía al torrente sanguíneo para usarse como transportador de electrones. Son totalmente cibernéticos y trabajan junto al sistema de filtrado del visor.
+    .suffix = Neocyclorite
+ent-OrganNeoCycloriteTongue = lengua cibernética
+    .desc = Un órgano completamente brillante que se usa comúnmente para mentir o expresarse. A veces para ambas cosas.
+    .suffix = Neocyclorite

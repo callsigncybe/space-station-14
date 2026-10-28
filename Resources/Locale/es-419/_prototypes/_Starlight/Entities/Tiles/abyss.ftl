@@ -1,0 +1,13 @@
+ent-AbyssFive = abismo
+    .desc = Roca.
+ent-AbyssFour = abismo
+    .desc = Roca.
+ent-AbyssOne = abismo
+    .desc = Roca.
+ent-AbyssRandom = abismo
+    .desc = Roca.
+    .suffix = Aleatorio
+ent-AbyssThree = abismo
+    .desc = Roca.
+ent-AbyssTwo = abismo
+    .desc = Roca.

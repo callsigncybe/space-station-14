@@ -1,0 +1,15 @@
+ent-InflatableDoorStack = puerta inflable
+    .desc = Una membrana plegada que al activarse se expande rápidamente en una gran forma cúbica.
+    .suffix = Llena
+ent-InflatableDoorStack1 = puerta inflable
+    .desc = Una membrana plegada que al activarse se expande rápidamente en una gran forma cúbica.
+    .suffix = 1
+ent-InflatableWallStack = barricada inflable
+    .desc = Una membrana plegada que al activarse se expande rápidamente en una gran forma cúbica.
+    .suffix = Llena
+ent-InflatableWallStack1 = barricada inflable
+    .desc = Una membrana plegada que al activarse se expande rápidamente en una gran forma cúbica.
+    .suffix = 1
+ent-InflatableWallStack5 = barricada inflable
+    .desc = Una membrana plegada que al activarse se expande rápidamente en una gran forma cúbica.
+    .suffix = 5

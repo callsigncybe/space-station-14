@@ -1,0 +1,12 @@
+ent-WoodenSign = letrero de madera
+    .desc = Está señalando hacia algún lado.
+ent-WoodenSignRight = letrero de madera
+    .desc = Está señalando hacia algún lado.
+ent-WoodenSupport = soporte de madera
+    .desc = Aumenta tu confianza en que no te va a caer una roca en la cabeza.
+ent-WoodenSupportBeam = viga de soporte de madera
+    .desc = Aumenta tu confianza en que no te va a caer una roca en la cabeza.
+ent-WoodenSupportWall = pared de soporte de madera
+    .desc = Una pared vieja y podrida.
+ent-WoodenSupportWallBroken = pared de soporte de madera
+    .desc = Una pared vieja y podrida.

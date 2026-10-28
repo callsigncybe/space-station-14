@@ -1,0 +1,14 @@
+ent-ClothingHeadETOEvaHelmet = casco de riesgo espacial ETO
+    .desc = Un casco certificado para el espacio con protección balística adicional.
+ent-ClothingHeadHelmetETO = casco de operativo ETO
+    .desc = Un casco diseñado para los operativos ETO; ofrece protección básica.
+ent-ClothingOuterSoftsuitETO = traje de riesgo espacial ETO
+    .desc = Un traje EVA liviano acolchado con protección balística.
+ent-ClothingOuterVestWebETOBase = chaleco de correas ETO
+    .desc = Un chaleco protector hecho para los miembros de ETO, que te permite moverte con agilidad.
+ent-ClothingOuterVestWebETOCombatTech = chaleco de técnico de combate ETO
+    .desc = Un chaleco resistente arrancado del traje rígido de un ingeniero avanzado. Protege el cuerpo, pero le pesa al usuario.
+ent-ClothingOuterVestWebETOCorpsman = chaleco médico ETO
+    .desc = Un chaleco protector hecho para los sanitarios ETO, que te permite moverte con agilidad y llegar a quienes lo necesitan.
+ent-ClothingOuterVestWebETOLead = chaleco de correas de líder ETO
+    .desc = Un chaleco de correas muy protector diseñado para el líder del equipo.

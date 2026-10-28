@@ -1,0 +1,11 @@
+ent-FaxMachineBase = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+ent-FaxMachineCaptain = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+    .suffix = CMD: Capitán, Códigos nucleares
+ent-FaxMachineCentcom = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+    .suffix = CC: Comando Central
+ent-FaxMachineSyndie = fax de largo alcance
+    .desc = Tecnologías del espacio azul aplicadas a la burocracia.
+    .suffix = Syndicate: ERR*?*%!

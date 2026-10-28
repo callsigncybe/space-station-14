@@ -1,0 +1,11 @@
+ent-LandMineExplosive = mina explosiva
+    .suffix = armada
+ent-LandMineExplosiveUnarmed = mina explosiva
+ent-LandMineKick = mina de patada
+    .suffix = armada
+ent-LandMineKickUnarmed = mina de patada
+ent-LandMineModular = mina modular
+    .desc = Esta belleza podría traer cualquier cantidad de peligros. O una bocina de bicicleta.
+    .suffix = armada
+ent-LandMineModularUnarmed = mina modular
+    .desc = Esta belleza podría traer cualquier cantidad de peligros. O una bocina de bicicleta.

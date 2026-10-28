@@ -1,0 +1,12 @@
+ent-ClockworkGrille = reja de relojería
+    .desc = Un endeble armazón de barras de hierro ensamblado al estilo tradicional ratvariano.
+ent-ClockworkGrilleBroken = reja de relojería
+    .desc = Un endeble armazón de barras de hierro ensamblado al estilo tradicional ratvariano. Ha visto días mejores.
+ent-ClockworkGrilleDiagonal = reja de relojería diagonal
+    .desc = Un endeble armazón de barras de hierro ensamblado al estilo tradicional ratvariano.
+ent-Grille = reja
+    .desc = Un endeble armazón de barras de hierro.
+ent-GrilleBroken = reja
+    .desc = Un endeble armazón de barras de hierro. Ha visto días mejores.
+ent-GrilleDiagonal = reja diagonal
+    .desc = Un endeble armazón de barras de hierro.

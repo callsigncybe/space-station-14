@@ -1,0 +1,12 @@
+ent-FloorTrapEMP = trampa de piso EMP
+ent-FloorTrapExplosion = trampa de piso explosiva
+ent-SpawnFloorTrapBear = generador de trampa de piso
+    .suffix = Oso
+ent-SpawnFloorTrapCarp = generador de trampa de piso
+    .suffix = Carpa
+ent-SpawnFloorTrapKangaroo = generador de trampa de piso
+    .suffix = Canguro
+ent-SpawnFloorTrapXenoBurrower = generador de trampa de piso
+    .suffix = Xeno. Excavador
+ent-SpawnFloorTrapXenoDrone = generador de trampa de piso
+    .suffix = Xeno. Dron

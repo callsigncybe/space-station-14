@@ -1,0 +1,11 @@
+ent-HeadSkeleton = cráneo
+    .desc = ¡Ay, pobre Yorick...
+ent-LeftArmSkeleton = brazo izquierdo de esqueleto
+ent-LeftFootSkeleton = pie izquierdo de esqueleto
+ent-LeftHandSkeleton = mano izquierda de esqueleto
+ent-LeftLegSkeleton = pierna izquierda de esqueleto
+ent-RightArmSkeleton = brazo derecho de esqueleto
+ent-RightFootSkeleton = pie derecho de esqueleto
+ent-RightHandSkeleton = mano derecha de esqueleto
+ent-RightLegSkeleton = pierna derecha de esqueleto
+ent-TorsoSkeleton = torso de esqueleto

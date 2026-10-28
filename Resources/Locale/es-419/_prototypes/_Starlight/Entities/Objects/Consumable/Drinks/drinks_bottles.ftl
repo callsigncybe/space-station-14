@@ -1,0 +1,9 @@
+ent-DrinkVodkizineBottleFull = botella grande de vodkizina
+    .desc = La mejor cura y causa de la resaca.
+    .suffix = Llena
+ent-DrinkVodkizineSmallBottleFull = botella de vodkizina
+    .desc = La mejor cura y causa de la resaca.
+    .suffix = Llena
+ent-DrinkVodkizineSmallBottleUsed = botella de vodkizina
+    .desc = La mejor cura y causa de la resaca.
+    .suffix = Llena

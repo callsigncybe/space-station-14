@@ -1,0 +1,11 @@
+ent-OrganExperimentEyes = ojos
+    .desc = Nadie lo vio venir.
+    .suffix = Experimento
+ent-OrganExperimentHeart = corazón
+    .desc = Se le acelera el pulso al ver minas terrestres.
+ent-OrganExperimentLiver = hígado
+ent-OrganExperimentStomach = estómago
+    .desc = Qué asco. Esto es difícil de digerir.
+ent-OrganExperimentTongue = lengua
+    .desc = Un músculo carnoso que se usa principalmente para mentir.
+    .suffix = Experimento

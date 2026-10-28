@@ -1,0 +1,12 @@
+ent-MiningDrill = taladro minero
+    .desc = Una herramienta poderosa que sirve para perforar rocas rápidamente.
+ent-MiningDrillDiamond = taladro minero con punta de diamante
+    .desc = Un taladro minero bastante más eficiente, con punta de diamante.
+ent-Pickaxe = pico
+    .desc = Dentado a la perfección, para clavarlo en las rocas.
+ent-WeaponCrusher = triturador
+    .desc = Uno de los primeros diseños del acelerador protocinético.
+ent-WeaponCrusherDagger = daga trituradora
+    .desc = Una versión reducida de una trituradora protocinética. Usa energía cinética para hacer vibrar la hoja a gran velocidad.
+ent-WeaponCrusherGlaive = guja trituradora
+    .desc = Uno de los primeros diseños del acelerador protocinético, en forma de guja.

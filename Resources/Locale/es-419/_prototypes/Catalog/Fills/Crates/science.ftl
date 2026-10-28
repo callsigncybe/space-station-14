@@ -1,0 +1,9 @@
+ent-CrateCrewMonitoring = cajón de monitoreo de tripulación
+    .desc = Contiene un servidor de monitoreo de tripulación desarmado y algunas computadoras de monitoreo de tripulación. Requiere acceso a Ciencia para abrir.
+    .suffix = Segura
+ent-CrateScienceBiosuit = cajón de trajes de riesgo biológico de científico
+    .desc = Contiene 2 trajes de riesgo biológico para que ninguna enfermedad te distraiga de hacer ciencia. Requiere acceso a Ciencia para abrir.
+    .suffix = Segura
+ent-CrateStationAiCore = cajón de núcleo de IA de estación
+    .desc = Contiene los componentes para construir un núcleo de IA de estación. Cerebro positrónico no incluido. Requiere acceso a Ciencia para abrir.
+    .suffix = Segura

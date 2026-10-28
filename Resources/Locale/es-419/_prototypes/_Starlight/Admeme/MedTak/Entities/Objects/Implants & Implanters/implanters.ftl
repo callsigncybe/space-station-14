@@ -1,0 +1,10 @@
+ent-MedTakImplanterMindShield = implantador de escudo mental MedTak
+    .desc = Un implantador descartable compacto, pensado para colocar un implante bajo la piel de forma rápida y (casi) indolora.
+ent-MedTakImplanterTrackingBronze = rastreador de bronce MedTak
+    .desc = Un implantador descartable compacto, pensado para colocar un implante bajo la piel de forma rápida y (casi) indolora.
+ent-MedTakImplanterTrackingGold = rastreador de oro MedTak
+    .desc = Un implantador descartable compacto, pensado para colocar un implante bajo la piel de forma rápida y (casi) indolora.
+ent-MedTakImplanterTrackingSilver = rastreador de plata MedTak
+    .desc = Un implantador descartable compacto, pensado para colocar un implante bajo la piel de forma rápida y (casi) indolora.
+ent-MedTakImplanterTrackingTeam = rastreador MedTak
+    .desc = Un implantador descartable compacto, pensado para colocar un implante bajo la piel de forma rápida y (casi) indolora.

@@ -1,0 +1,10 @@
+ent-BlankFlag = bandera en blanco
+    .desc = Un pedazo de tela blanca. Definitivamente no es la bandera de Francia.
+ent-LGBTQFlag = bandera LGBTQ
+    .desc = Bandera de "Be gay do crime".
+ent-NTFlag = bandera de NanoTrasen
+    .desc = ¡Gloria a NT! Un momento, ¿de verdad hicieron una bandera para una corporación?
+ent-PirateFlag = bandera pirata
+    .desc = ¡Icen la Jolly Roger, bribones!
+ent-SyndieFlag = bandera del Syndicate
+    .desc = Huele a sangre. ¡Muerte a NT!

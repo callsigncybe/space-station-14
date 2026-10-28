@@ -1,0 +1,11 @@
+ent-MobMoproachHat = moproach
+    .desc = ¡Esta pequeña mothroach tiene zapatos-trapeador en sus patas! ¡Qué adorable!
+    .suffix = sombrero
+ent-MoproachBox = kit de moproach
+    .desc = Un kit para preparar rápidamente a dos moproaches para trabajar.
+ent-MoproachCubeWrapped = cubo de moproach
+    .desc = Desenvuelve esto para obtener un cubo de moproach.
+    .suffix = Envuelto
+ent-PaperMoproachManual = papel
+    .desc = Una hoja de papel blanco.
+    .suffix = manual de moproach

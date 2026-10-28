@@ -1,0 +1,9 @@
+ent-LockerOldAISat = armario
+    .desc = Es una unidad de almacenamiento con un diseño rojo sangre.
+    .suffix = Casillero de trajes de vacío NTSRA
+ent-LockerSyndicateShipGearBasic = armario rojo sangre
+    .desc = Es una unidad de almacenamiento con un diseño rojo sangre.
+    .suffix = Equipo básico de nave, Al azar
+ent-LockerSyndicateShipGearBasicChameleonKit = armario rojo sangre
+    .desc = Es una unidad de almacenamiento con un diseño rojo sangre.
+    .suffix = Equipo básico de nave, Al azar, Kit camaleón

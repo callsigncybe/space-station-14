@@ -1,0 +1,10 @@
+ent-DrinkCarpRamen = ramen de carpa
+    .desc = Un ramen raro y descontinuado con trozos de carpa espacial frita picante.
+ent-FoodSnackHighEnergy = barra energética todavía más energética
+    .desc = Una barra energética con mucha pegada.
+ent-FoodSnackHighEnergyBar = barra energética todavía más energética
+    .desc = ¡Una barra energética con una cantidad electrizante de sabor!
+ent-FoodSnackNapNapNoodles = fideos nap nap
+    .desc = ¡Un snack picante! Cada uno de los fideos está cubierto de algún tipo de polvo o condimento.
+ent-FoodSnackPopcornBoom = palomitas húmedas
+    .desc = Cada grano reventado está un poco demasiado húmedo.

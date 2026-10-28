@@ -1,0 +1,7 @@
+ent-MagazineBoxPistol40AP = caja de munición (.40 AP)
+ent-MagazineBoxPistol40FMJ = caja de munición (.40 FMJ)
+ent-MagazineBoxPistol40HP = caja de munición (.40 HP)
+ent-MagazineBoxPistol40SP = caja de munición (.40 SP)
+ent-MagazineBoxPistolAP = caja de munición (.35 auto AP)
+ent-MagazineBoxPistolFMJ = caja de munición (.35 auto FMJ)
+ent-MagazineBoxPistolRubber = caja de munición (.35 auto de goma)

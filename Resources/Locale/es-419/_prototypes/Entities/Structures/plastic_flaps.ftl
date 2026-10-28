@@ -1,0 +1,12 @@
+ent-PlasticFlapsAirtightClear = cortinas de plástico herméticas
+    .desc = Cortinas de plástico herméticas, de uso rudo y un poco más fuertes. Definitivamente no se puede pasar por ahí. De ninguna manera.
+    .suffix = Hermética, Transparente
+ent-PlasticFlapsAirtightOpaque = cortinas de plástico herméticas
+    .desc = Cortinas de plástico herméticas, de uso rudo y un poco más fuertes. Definitivamente no se puede pasar por ahí. De ninguna manera.
+    .suffix = Hermética, Opaca
+ent-PlasticFlapsClear = cortinas de plástico
+    .desc = Cortinas de plástico de uso rudo. Definitivamente no se puede pasar por ahí. De ninguna manera.
+    .suffix = Transparente
+ent-PlasticFlapsOpaque = cortinas de plástico
+    .desc = Cortinas de plástico de uso rudo. Definitivamente no se puede pasar por ahí. De ninguna manera.
+    .suffix = Opaca

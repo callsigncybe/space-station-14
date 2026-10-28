@@ -1,0 +1,14 @@
+ent-ActionToggleMagboots = Alternar botas magnéticas
+    .desc = Activa y desactiva las botas magnéticas.
+ent-ClothingShoesBootsMag = botas magnéticas
+    .desc = Botas magnéticas, usadas a menudo durante actividades extravehiculares para que el usuario permanezca bien sujeto al vehículo.
+ent-ClothingShoesBootsMagAdv = botas magnéticas avanzadas
+    .desc = Botas magnéticas de última generación que no ralentizan a quien las usa.
+ent-ClothingShoesBootsMagBlinding = botas magnéticas de velocidad cegadora
+    .desc = Se verían geniales en un recadero como tú.
+ent-ClothingShoesBootsMagERT = botas magnéticas del ERT
+    .desc = Botas magnéticas mejoradas que usan los Equipos de Respuesta de Emergencia de Nanotrasen; tienen una fuerte atracción magnética y propulsores integrados. Pueden contener 0.75 L de gas.
+ent-ClothingShoesBootsMagSci = botas magnéticas
+    .desc = Botas magnéticas, usadas a menudo durante actividades extravehiculares para que el usuario permanezca bien sujeto al vehículo.
+ent-ClothingShoesBootsMagSyndie = botas magnéticas rojo sangre
+    .desc = Obtenidas por ingeniería inversa de las botas magnéticas ERT, tienen una fuerte atracción magnética, propulsores integrados y están diseñadas para el combate. Pueden contener 0,75 L de gas.

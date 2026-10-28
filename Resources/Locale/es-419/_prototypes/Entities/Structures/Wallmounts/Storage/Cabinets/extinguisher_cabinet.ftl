@@ -1,0 +1,11 @@
+ent-ExtinguisherCabinet = gabinete de extintor
+    .desc = Un pequeño gabinete de pared diseñado para guardar un extintor.
+ent-ExtinguisherCabinetFilled = gabinete de extintor
+    .desc = Un pequeño gabinete de pared diseñado para guardar un extintor.
+    .suffix = Llena
+ent-ExtinguisherCabinetFilledOpen = gabinete de extintor
+    .desc = Un pequeño gabinete de pared diseñado para guardar un extintor.
+    .suffix = Lleno, Abierto
+ent-ExtinguisherCabinetOpen = gabinete de extintor
+    .desc = Un pequeño gabinete de pared diseñado para guardar un extintor.
+    .suffix = Abierto

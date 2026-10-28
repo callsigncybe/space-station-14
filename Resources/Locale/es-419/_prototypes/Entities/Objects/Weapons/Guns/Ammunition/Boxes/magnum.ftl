@@ -1,0 +1,10 @@
+ent-MagazineBoxMagnumAP = caja de munición (.45 magnum AP)
+    .desc = Una caja de cartón con balas .45 magnum. Pensada para munición perforante especializada.
+ent-MagazineBoxMagnumHP = caja de munición (.45 magnum HP)
+ent-MagazineBoxMagnumIncendiary = caja de munición (.45 magnum incendiaria)
+    .desc = Una caja de cartón con balas .45 magnum. Pensada para munición incendiaria autoinflamable.
+ent-MagazineBoxMagnumPractice = caja de munición (.45 magnum de práctica)
+    .desc = Una caja de cartón con balas .45 magnum. Pensada para munición de práctica inofensiva.
+ent-MagazineBoxMagnumSP = caja de munición (.45 magnum SP)
+ent-MagazineBoxMagnumUranium = caja de munición (.45 magnum de uranio)
+    .desc = Una caja de cartón con balas .45 magnum. Pensada para munición exótica con núcleo de uranio.

@@ -1,0 +1,15 @@
+ent-AbyssiumOre = mineral de abisio
+    .desc = Un trozo de mineral sin refinar.
+    .suffix = Llena
+ent-AbyssiumOre1 = mineral de abisio
+    .desc = Un trozo de mineral sin refinar.
+    .suffix = Uno
+ent-RawBluespaceCrystal = cristal de bluespace en bruto
+    .desc = Un cristal de bluespace resplandeciente; no se sabe mucho sobre cómo funcionan. Se ve muy delicado.
+    .suffix = Llena
+ent-RawBluespaceCrystal1 = cristal de bluespace en bruto
+    .desc = Un cristal de bluespace resplandeciente; no se sabe mucho sobre cómo funcionan. Se ve muy delicado.
+    .suffix = Uno
+ent-RawBluespaceCrystal10 = cristal de bluespace en bruto
+    .desc = Un cristal de bluespace resplandeciente; no se sabe mucho sobre cómo funcionan. Se ve muy delicado.
+    .suffix = 10

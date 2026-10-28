@@ -1,0 +1,14 @@
+ent-FoodNoodles = espagueti
+    .desc = Espagueti con tomates triturados. ¡Igualito al que hacía tu padre abusivo!
+ent-FoodNoodlesBoiled = espagueti hervido
+    .desc = Un plato simple de fideos; le faltan ingredientes.
+ent-FoodNoodlesButter = fideos con mantequilla
+    .desc = Fideos cubiertos de sabrosa mantequilla. Simples y resbalosos, pero deliciosos.
+ent-FoodNoodlesChowmein = chow mein
+    .desc = Una linda mezcla de fideos y verduras fritas.
+ent-FoodNoodlesCopy = copypasta
+    .desc = Probablemente no deberías probar esto; siempre escuchas a la gente decir lo malo que es...
+ent-FoodNoodlesMeatball = espagueti con albóndigas
+    .desc = ¡Esa sí que es una buena albóndiga-a!
+ent-FoodNoodlesSpesslaw = spesslaw
+    .desc = El favorito de los abogados.

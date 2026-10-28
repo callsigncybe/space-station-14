@@ -1,0 +1,13 @@
+ent-BasicHitscan = rayo láser básico
+ent-DebugLaser = rayo láser de debug
+    .suffix = DEBUG
+ent-DebugLaserGib = rayo gibeador de debug
+    .suffix = DEBUG
+ent-Pulse = rayo láser azul de alta energía
+ent-RedHeavyLaser = rayo láser rojo de alta energía
+ent-RedLaser = rayo láser rojo
+ent-RedLaserPractice = rayo láser rojo de práctica
+ent-RedLightLaser = rayo láser rojo ligero
+ent-RedMediumLaser = rayo láser rojo amplificado
+ent-RedShuttleLaser = rayo láser rojo clase shuttle
+ent-XrayLaser = haz de pulso de rayos X

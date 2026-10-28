@@ -1,0 +1,16 @@
+ent-ClothingBeltChef = cinturón de chef
+    .desc = Un cinturón para llevar cuchillos de cocina y condimentos a mano.
+ent-ClothingBeltChiefEngineer = cinturón de herramientas del Ingeniero Jefe
+    .desc = Lleva herramientas y se ve elegante.
+ent-ClothingBeltJanitor = cinturón de conserje
+    .desc = Un cinturón para llevar la mayoría de los suministros de limpieza.
+ent-ClothingBeltMedical = cinturón médico
+    .desc = Puede llevar diverso equipo médico.
+ent-ClothingBeltMedicalEMT = cinturón de paramédico
+    .desc = Perfecto para llevar diverso equipo para emergencias médicas.
+ent-ClothingBeltPlant = cinturón botánico
+    .desc = Un cinturón para llevar la mayoría de los suministros de hidroponía. Sorprendentemente, no es verde.
+ent-ClothingBeltSecurity = cinturón de seguridad
+    .desc = Puede contener equipo de seguridad como esposas y flashes.
+ent-ClothingBeltUtility = cinturón multiuso
+    .desc = Puede llevar diversas cosas.

@@ -1,0 +1,10 @@
+ent-HeadVulpkanin = cabeza de vulpkanin
+ent-LeftArmVulpkanin = brazo izquierdo de vulpkanin
+ent-LeftFootVulpkanin = pie izquierdo de vulpkanin
+ent-LeftHandVulpkanin = mano izquierda de vulpkanin
+ent-LeftLegVulpkanin = pierna izquierda de vulpkanin
+ent-RightArmVulpkanin = brazo derecho de vulpkanin
+ent-RightFootVulpkanin = pie derecho de vulpkanin
+ent-RightHandVulpkanin = mano derecha de vulpkanin
+ent-RightLegVulpkanin = pierna derecha de vulpkanin
+ent-TorsoVulpkanin = torso de vulpkanin

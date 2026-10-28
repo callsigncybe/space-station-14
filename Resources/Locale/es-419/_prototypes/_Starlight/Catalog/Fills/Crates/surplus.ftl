@@ -1,0 +1,9 @@
+ent-CrateITGArmamentSurplus = cajón de excedentes de armamento ITG
+    .desc = Una caja con armas sacadas del fondo de un almacén de ITG, ¡quién sabe qué pusieron los pasantes en esta!
+    .suffix = Salvamento, Seguro
+ent-CrateITGMedicalSurplus = cajón de excedentes médicos ITG
+    .desc = Una caja con suministros médicos sacados del fondo de un almacén de ITG
+    .suffix = Salvamento, Seguro
+ent-CrateITGSurplus = cajón de excedentes comerciales ITG
+    .desc = Una caja con mercancía sacada del fondo de un almacén de ITG, pensada para endosársela a los incautos de la estación
+    .suffix = Salvamento, Seguro

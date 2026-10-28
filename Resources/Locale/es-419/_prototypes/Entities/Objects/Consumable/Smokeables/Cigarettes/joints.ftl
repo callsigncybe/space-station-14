@@ -1,0 +1,10 @@
+ent-Blunt = blunt
+    .desc = Un rollo de materia vegetal seca envuelto en una hoja de tabaco seca.
+ent-BluntRainbow = blunt
+    .desc = Un rollo de materia vegetal seca envuelto en una hoja de tabaco seca. Por dentro parece colorido.
+    .suffix = Arcoíris
+ent-Joint = porro
+    .desc = Un rollo de materia vegetal seca envuelto en papel fino.
+ent-JointRainbow = porro
+    .desc = Un rollo de materia vegetal seca envuelto en papel fino. Por dentro parece colorido.
+    .suffix = Arcoíris

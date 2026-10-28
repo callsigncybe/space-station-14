@@ -1,0 +1,12 @@
+ent-ActionCantripAntidote = Semilla rejuvenecedora
+    .desc = Crea una semilla mágica que devuelve la vitalidad a una planta enferma. Desaparece si no se usa en 15 segundos.
+ent-ActionCantripBandage = Glifo hemostático
+    .desc = Crea una runa mágica que detiene el sangrado. Desaparece si no se usa en 15 segundos.
+ent-ActionCantripGlow = Orbe luminoso
+    .desc = Crea una bola de luz luminosa de corta duración. Se desvanece después de 25 segundos.
+ent-ActionCantripMessage = Susurro psíquico
+    .desc = Transmite un mensaje secreto a la mente de un solo objetivo.
+ent-ActionCantripMop = Limpiar
+    .desc = Elimina la suciedad a tu alrededor. Como una pequeña granada limpiadora. Solo afecta las casillas adyacentes a donde estás parado.
+ent-ActionCantripSpark = Ascua mágica
+    .desc = Crea una llama de corta duración que sirve como fuente de ignición. Se apaga después de 5 segundos.

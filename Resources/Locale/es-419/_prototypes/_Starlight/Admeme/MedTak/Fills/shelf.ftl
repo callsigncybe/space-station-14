@@ -1,0 +1,9 @@
+ent-ShelfMedTakSecureFilledChems = estante de suministros MedTak
+    .desc = Un estante resistente y compacto para guardar suministros médicos.
+    .suffix = Seguro, Lleno, Químicos
+ent-ShelfMedTakSecureFilledCryo = estante de suministros MedTak
+    .desc = Un estante resistente y compacto para guardar suministros médicos.
+    .suffix = Seguro, Lleno, Químicos criogénicos
+ent-ShelfMedTakSecureFilledTopicals = estante de suministros MedTak
+    .desc = Un estante resistente y compacto para guardar suministros médicos.
+    .suffix = Seguro, Lleno, Tópicos

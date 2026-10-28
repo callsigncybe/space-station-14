@@ -1,0 +1,11 @@
+ent-PlastitaniumWindow = ventana de plastitanio
+    .desc = No ensucies el vidrio de ahí abajo.
+ent-PlastitaniumWindowDiagonal = ventana de plastitanio
+    .desc = No ensucies el vidrio de ahí abajo.
+    .suffix = diagonal
+ent-PlastitaniumWindowDiagonalIndestructible = ventana de plastitanio
+    .desc = No ensucies el vidrio de ahí abajo.
+    .suffix = diagonal, indestructible
+ent-PlastitaniumWindowIndestructible = ventana de plastitanio
+    .desc = No ensucies el vidrio de ahí abajo.
+    .suffix = indestructible

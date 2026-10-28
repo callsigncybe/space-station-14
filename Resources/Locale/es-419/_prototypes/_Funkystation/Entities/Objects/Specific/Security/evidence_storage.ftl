@@ -1,0 +1,14 @@
+ent-BoxShelfEvidenceRoom = estante de cajas
+    .desc = Un estante para guardar cajas.
+    .suffix = Evidencia
+ent-CardboardBoxLargeEvidenceFilled = caja de suministros de evidencia
+    .desc = Una caja de cartón grande para guardar cosas.
+    .suffix = LLENA
+ent-CardboardBoxLargeEvidenceFilledExtras = caja de suministros de evidencia extra
+    .desc = Una caja de cartón grande para guardar cosas.
+    .suffix = EXTRAS
+ent-EvidenceBag = bolsa de evidencia
+    .desc = Una bolsa pequeña para guardar evidencia de crímenes.
+ent-EvidenceBagFilled = bolsa de evidencia
+    .desc = Una bolsa pequeña para guardar evidencia de crímenes.
+    .suffix = Llena

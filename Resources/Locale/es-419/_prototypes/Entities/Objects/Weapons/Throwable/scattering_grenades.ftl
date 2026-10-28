@@ -1,0 +1,13 @@
+ent-ClusterBananaPeel = cáscara de banana de racimo
+    .desc = ¡Se divide en 6 cáscaras de banana explosivas después de lanzarla, diversión garantizada!
+ent-ClusterBang = granada cegadora de racimo
+    .desc = Solo se puede usar con granadas cegadoras. Explota varias veces.
+ent-ClusterBangFull = granada cegadora de racimo
+    .desc = Lanza tres granadas cegadoras cuando se acaba el temporizador.
+    .suffix = Llena
+ent-ClusterGrenade = granada de racimo
+    .desc = ¿Para qué usar una granada cuando puedes usar tres a la vez?
+ent-GrenadeFoamDart = granada de dardos de espuma
+    .desc = Libera una molesta lluvia de dardos de espuma que causan serios moretones.
+ent-SlipocalypseClusterSoap = jabón de racimo del resbalocalipsis
+    .desc = Al caer al piso, esparce pedacitos de jabón del Syndicate por toda un área.

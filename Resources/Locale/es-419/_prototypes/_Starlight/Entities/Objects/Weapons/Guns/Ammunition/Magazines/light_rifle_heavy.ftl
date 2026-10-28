@@ -1,0 +1,9 @@
+ent-LightRifleHeavyBase = caja de cargadores .30
+ent-LightRifleHeavyMagazineAP = caja de cargadores (.30 rifle AP)
+ent-LightRifleHeavyMagazineEmpty = caja de cargadores (.30 rifle cualquiera)
+    .suffix = vacío
+ent-LightRifleHeavyMagazineFMJ = caja de cargadores (.30 rifle FMJ)
+ent-LightRifleHeavyMagazineHP = caja de cargadores (.30 rifle HP)
+ent-LightRifleHeavyMagazineIncendiary = caja de cargadores (.30 rifle incendiaria)
+ent-LightRifleHeavyMagazineSP = caja de cargadores (.30 rifle SP)
+ent-LightRifleHeavyMagazineUranium = caja de cargadores (.30 rifle uranio)

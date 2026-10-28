@@ -1,0 +1,12 @@
+ent-PillDesoxyephedrine = desoxiefedrina
+    .desc = No es un supositorio.
+    .suffix = Desoxiefedrina 15u
+ent-PillDesoxyephedrine5 = desoxiefedrina
+    .desc = No es un supositorio.
+    .suffix = Desoxiefedrina 5u
+ent-PillLead = plomo
+    .desc = No es un supositorio.
+    .suffix = Plomo 15u
+ent-PillLead5 = plomo
+    .desc = No es un supositorio.
+    .suffix = Plomo 5u

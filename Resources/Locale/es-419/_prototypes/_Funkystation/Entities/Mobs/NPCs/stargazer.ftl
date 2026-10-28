@@ -1,0 +1,11 @@
+ent-FoodSnackStargazerLollipop = paleta de stargazer
+    .desc = Una dulce paleta carnosa hecha con el cadáver de un stargazer. Tiene un leve sabor a sandía.
+    .suffix = NO MAPEAR
+ent-MobStargazer = stargazer
+    .desc = Una criatura misteriosa de otra dimensión; su mirada ardiente derrite a quienes le resultan molestos. Su caparazón exterior está hecho de polímeros de caramelo mezclados con butirato de etilo, lo que le da una capa protectora pegajosa pero resistente. Dicen que sirve para hacer una buena paleta de sandía.
+ent-StargazerShell1 = fragmento
+    .desc = Un extraño fragmento de caparazón. Los restos del stargazer.
+ent-StargazerShell2 = fragmento
+    .desc = Un extraño fragmento de caparazón. Los restos del stargazer.
+ent-StargazerShell3 = fragmento
+    .desc = Un extraño fragmento de caparazón. Los restos del stargazer.

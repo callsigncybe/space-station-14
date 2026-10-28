@@ -1,0 +1,9 @@
+ent-OrganMothEyes = ojos de polilla
+    .desc = Grandes ojos compuestos que sirven para captar la luz.
+    .suffix = Polilla
+ent-OrganMothStomach = estómago de polilla
+    .desc = Un estómago especializado en digerir tela, que normalmente no es comestible.
+    .suffix = Polilla
+ent-OrganMothTongue = lengua
+    .desc = Un músculo carnoso que se usa principalmente para mentir.
+    .suffix = Polilla

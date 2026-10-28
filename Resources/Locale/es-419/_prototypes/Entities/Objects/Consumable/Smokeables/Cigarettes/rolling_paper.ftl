@@ -1,0 +1,16 @@
+ent-CigaretteFilter = filtro de cigarro
+    .desc = Una tira de papel firme que se usa como filtro para cigarros armados a mano.
+    .suffix = Llena
+ent-CigaretteFilter1 = filtro de cigarro
+    .desc = Una tira de papel firme que se usa como filtro para cigarros armados a mano.
+    .suffix = Uno
+ent-PackPaperRolling = paquete de papel para armar
+    .desc = Un paquete de papelitos finos para armar buenos fumables.
+ent-PackPaperRollingFilters = paquete de papel para armar con filtros
+    .desc = Un paquete de filtros y papelitos finos para armar buenos fumables.
+ent-PaperRolling = papel para armar
+    .desc = Un papelito fino para armar buenos fumables.
+    .suffix = Llena
+ent-PaperRolling1 = papel para armar
+    .desc = Un papelito fino para armar buenos fumables.
+    .suffix = Uno

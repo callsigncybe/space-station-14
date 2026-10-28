@@ -1,0 +1,12 @@
+ent-GrateEngie = rejilla
+    .desc = Muy industrial.
+    .suffix = Marrón
+ent-GrateGray = rejilla
+    .desc = Muy industrial.
+    .suffix = Gris
+ent-GrateSec = rejilla
+    .desc = Muy industrial.
+    .suffix = Rojo
+ent-LatticeFalse = enrejado endeble
+    .desc = Estructuralmente inviable.
+    .suffix = Falsa, Rejilla

@@ -1,0 +1,10 @@
+ent-HeadHuman = cabeza humana
+ent-LeftArmHuman = brazo izquierdo humano
+ent-LeftFootHuman = pie izquierdo humano
+ent-LeftHandHuman = mano izquierda humana
+ent-LeftLegHuman = pierna izquierda humana
+ent-RightArmHuman = brazo derecho humano
+ent-RightFootHuman = pie derecho humano
+ent-RightHandHuman = mano derecha humana
+ent-RightLegHuman = pierna derecha humana
+ent-TorsoHuman = torso humano

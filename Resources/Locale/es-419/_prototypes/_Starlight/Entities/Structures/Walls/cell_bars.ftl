@@ -1,0 +1,13 @@
+ent-CellBarsBroken = barrotes de celda rotos
+    .desc = Alguien se enojó mucho con un objeto inanimado.
+ent-CellBarsCorner = barrotes de celda
+    .desc = Un conjunto resistente de barrotes de metal.
+    .suffix = Esquina
+ent-CellBarsEnd = barrotes de celda
+    .desc = Un conjunto resistente de barrotes de metal.
+    .suffix = Extremo
+ent-CellBarsGate = puerta de barrotes de celda
+    .desc = Podrías usar la puerta, si tan solo...
+ent-CellBarsStraight = barrotes de celda
+    .desc = Un conjunto resistente de barrotes de metal.
+    .suffix = Recta

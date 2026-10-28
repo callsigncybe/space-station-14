@@ -1,0 +1,1 @@
+ent-CartridgeBattery = cartucho (láser)

@@ -1,0 +1,10 @@
+ent-EggSpider = huevo araña
+    .desc = ¿Es una gema? ¿Es un huevo? Parece caro.
+ent-EggSpiderFertilized = huevo araña
+    .desc = ¿Es una gema? ¿Es un huevo? Parece caro.
+ent-TerrorGrayEggSpiderFertilized = huevo araña
+    .desc = ¿Es una gema? ¿Es un huevo? Parece caro.
+ent-TerrorGreenSpiderFertilized = huevo araña
+    .desc = ¿Es una gema? ¿Es un huevo? Parece caro.
+ent-TerrorRedEggSpiderFertilized = huevo araña
+    .desc = ¿Es una gema? ¿Es un huevo? Parece caro.

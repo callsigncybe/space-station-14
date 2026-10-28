@@ -1,0 +1,11 @@
+ent-ClothingBackpackTrunkMail = baúl de correo
+    .desc = Un baúl enorme hecho con los sueños de todo aspirante a técnico de correo.
+ent-ClothingBackpackTrunkMailSenior = baúl de correo sénior
+    .desc = Un baúl enorme para los técnicos de correo más fuertes de la estación.
+ent-ClothingBackpackTrunkSpaceCourier = baúl de mensajero espacial
+    .desc = Un baúl enorme inspirado en un legendario mensajero espacial.
+ent-ClothingBackpackTrunkSpaceCourierPAI = baúl de mensajero espacial
+    .desc = Un baúl enorme inspirado en un legendario mensajero espacial.
+    .suffix = Rol fantasma
+ent-ClothingBackpackTrunkSyndicate = baúl del Syndicate
+    .desc = Enorme, metálico y con estilo. Todos los demás del Syndicate van a querer ponerle las manos encima a este baúl.

@@ -1,0 +1,16 @@
+ent-BriefcaseIAAFilled = maletín marrón
+    .desc = Útil para llevar objetos en las manos.
+    .suffix = IAA
+ent-BriefcaseLawyerFilled = maletín marrón
+    .desc = Útil para llevar objetos en las manos.
+    .suffix = Abogado
+ent-BriefcaseSyndieDeadDrop = maletín del Syndicate
+    .desc = Útil para llevar objetos en las manos.
+    .suffix = Punto de entrega, NO MAPEAR
+ent-BriefcaseWeaponDMRFilled = estuche seguro de estoc
+    .desc = Útil para aspirantes a mercenario, ya sea que luches por una empresa, una nación o quien sea. O si solo vas a hacer un omelette realmente grande.
+    .suffix = Arma, Vacío
+ent-ClothingNeckExplosiveCollarBox = estuche seguro de explosivos
+    .desc = Útil para aspirantes a mercenario, ya sea que luches por una empresa, una nación o quien sea. O si solo vas a hacer un omelette realmente grande.
+    .suffix = Arma, Pequeño, Vacío
+ent-SyndieDeadDropSpawner = Alto Mando del Syndicate

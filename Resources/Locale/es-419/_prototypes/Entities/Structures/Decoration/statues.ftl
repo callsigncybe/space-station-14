@@ -1,0 +1,16 @@
+ent-StatueBananiumClown = estatua del salvador de bananium
+    .desc = Una estatua de bananium. Representa el regreso del salvador que se alzará y guiará a los payasos hacia el gran honk.
+ent-StatueIronsandSmall = estatua pequeña de arena de hierro
+    .desc = Una estatua misteriosa encontrada en un desierto de arena de hierro.
+ent-StatueIronsandSmall2 = estatua pequeña de arena de hierro
+    .desc = Una estatua misteriosa encontrada en un desierto de arena de hierro.
+ent-StatueIronsandTall = estatua alta de arena de hierro
+    .desc = Una estatua misteriosa encontrada en un desierto de arena de hierro.
+ent-StatueIronsandTall2 = estatua alta de arena de hierro
+    .desc = Una estatua misteriosa encontrada en un desierto de arena de hierro.
+ent-StatueVenusBlue = estatua de una doncella pura
+    .desc = Una antigua estatua de mármol. La figura aparece con una trenza que llega hasta el piso y empuña una caja de herramientas azul.
+    .suffix = Azul
+ent-StatueVenusRed = estatua de una doncella pura
+    .desc = Una antigua estatua de mármol. La figura aparece con una trenza que llega hasta el piso y empuña una caja de herramientas roja.
+    .suffix = Rojo

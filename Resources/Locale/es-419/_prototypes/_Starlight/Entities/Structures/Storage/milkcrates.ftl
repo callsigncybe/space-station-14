@@ -1,0 +1,9 @@
+ent-MilkCrate = caja de leche
+    .desc = Una caja plástica resistente para transportar cartones de leche. No sirve para nada más.
+ent-RecordMilkCrate = caja de discos
+    .desc = Una caja plástica de leche resistente, reutilizada para archivar vinilos con funda. No sirve para nada más.
+ent-RecordMilkCrateFilled = caja de discos
+    .desc = Una caja plástica de leche resistente, reutilizada para archivar vinilos con funda. No sirve para nada más.
+    .suffix = Llena
+ent-SyndicateMilkCrate = caja de leche del Syndicate
+    .desc = Una caja plástica de leche rojo sangre para archivar vinilos con funda. Nanotrasen preferiría que no los escucharas.

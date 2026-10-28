@@ -1,0 +1,10 @@
+ent-PaperMedTak = papel MedTak
+    .desc = Una hoja de papel con el logo de MedTak en el encabezado. Parece cara. Para ti.
+ent-PrintedDocumentMedTakContract = Contrato de cobertura MedTak
+    .desc = Una hoja de papel con el logo de MedTak en el encabezado. Parece cara. Para ti.
+ent-PrintedDocumentMedTakCorrespondence = Correspondencia MedTak
+    .desc = Una hoja de papel con el logo de MedTak en el encabezado. Parece cara. Para ti.
+ent-PrintedDocumentMedTakInvoice = Factura MedTak
+    .desc = Una hoja de papel con el logo de MedTak en el encabezado. Parece cara. Para ti.
+ent-PrintedDocumentMedTakReport = Informe posterior a la acción MedTak
+    .desc = Una hoja de papel con el logo de MedTak en el encabezado. Parece cara. Para ti.

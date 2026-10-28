@@ -1,0 +1,9 @@
+ent-EmptyOilPack = Paquete de aceite vacío
+    .desc = No contiene nada.
+    .suffix = Llena
+ent-EmptyOilPack1 = Paquete de aceite vacío
+    .desc = No contiene nada.
+    .suffix = Uno
+ent-EmptyOilPack5 = Paquete de aceite vacío
+    .desc = No contiene nada.
+    .suffix = 5

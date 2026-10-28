@@ -1,0 +1,14 @@
+ent-Patch = parche
+    .desc = Administración de químicos al contacto.
+ent-PatchBrute = parche para traumatismos
+    .desc = Administración de químicos al contacto.
+ent-PatchBurn = parche para quemaduras
+    .desc = Administración de químicos al contacto.
+ent-PatchBurnSmall = parche para quemaduras pequeño
+    .desc = Administración de químicos al contacto.
+ent-PatchClown = parche de payaso
+    .desc = Administración de químicos al contacto.
+ent-PatchMedical = parche médico
+    .desc = Administración de químicos al contacto.
+ent-PatchPack = paquete de parches
+    .desc = Almacena varios parches de forma eficiente.

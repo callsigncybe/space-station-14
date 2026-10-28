@@ -1,0 +1,11 @@
+ent-SlimeBluespaceRadioPotion = poción de slime de radio bluespace
+ent-SlimeExtractEnhancerPotion = poción de slime potenciadora de extractos
+ent-SlimeFireproofPotion = poción de slime ignífuga
+ent-SlimeGenderChangePotion = poción de slime de cambio de género
+ent-SlimeMindTransferencePotion = poción de slime de transferencia mental
+ent-SlimeMutationPotion = poción de slime de mutación
+ent-SlimeNameChangePotion = poción de slime de cambio de nombre
+ent-SlimeSentiencePotion = poción de slime de consciencia
+ent-SlimeSpeedPotion = poción de slime de velocidad
+ent-SlimeStabilizerPotion = poción de slime estabilizadora
+ent-SlimeSteroidPotion = poción de slime de esteroides

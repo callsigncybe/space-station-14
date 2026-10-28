@@ -1,0 +1,12 @@
+ent-SyndicateBrutePack = paquete para moretones Interdyne
+    .desc = Paquetes para moretones de grado Interdyne para todas tus necesidades.
+    .suffix = Llena
+ent-SyndicateBrutePack1 = paquete para moretones Interdyne
+    .desc = Paquetes para moretones de grado Interdyne para todas tus necesidades. Dicen que los rojos son raros.
+    .suffix = Uno
+ent-SyndicateOintment = pomada Interdyne
+    .desc = La mezcla especial de pirazina y aloe de Interdyne, usada para tratar quemaduras graves. No sirve contra las cáusticas.
+    .suffix = Llena
+ent-SyndicateOintment1 = pomada Interdyne
+    .desc = La mezcla especial de pirazina y aloe de Interdyne, usada para tratar quemaduras graves. No sirve contra las cáusticas. Dicen que las rojas son raras.
+    .suffix = Uno

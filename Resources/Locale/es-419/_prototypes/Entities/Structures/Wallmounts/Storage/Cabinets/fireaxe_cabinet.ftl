@@ -1,0 +1,11 @@
+ent-FireAxeCabinet = gabinete de hacha contra incendios
+    .desc = Tiene una pequeña etiqueta que dice "Solo para uso en emergencias", junto con instrucciones para usar el hacha de forma segura. Sí, claro.
+ent-FireAxeCabinetFilled = gabinete de hacha contra incendios
+    .desc = Tiene una pequeña etiqueta que dice "Solo para uso en emergencias", junto con instrucciones para usar el hacha de forma segura. Sí, claro.
+    .suffix = Llena
+ent-FireAxeCabinetFilledOpen = gabinete de hacha contra incendios
+    .desc = Tiene una pequeña etiqueta que dice "Solo para uso en emergencias", junto con instrucciones para usar el hacha de forma segura. Sí, claro.
+    .suffix = Lleno, Abierto
+ent-FireAxeCabinetOpen = gabinete de hacha contra incendios
+    .desc = Tiene una pequeña etiqueta que dice "Solo para uso en emergencias", junto con instrucciones para usar el hacha de forma segura. Sí, claro.
+    .suffix = Abierto

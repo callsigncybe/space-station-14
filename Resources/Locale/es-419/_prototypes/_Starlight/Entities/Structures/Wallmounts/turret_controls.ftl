@@ -1,0 +1,12 @@
+ent-WeaponEnergyTurretITGControlPanel = panel de control de torretas centinela
+    .desc = Una interfaz de pared para configurar a distancia los parámetros operativos de las torretas centinela vinculadas.
+    .suffix = ITG
+ent-WeaponEnergyTurretSiliconControlPanel = panel de control de torretas centinela
+    .desc = Una interfaz de pared para configurar a distancia los parámetros operativos de las torretas centinela vinculadas.
+    .suffix = Silicio
+ent-WeaponEnergyTurretSolgovControlPanel = panel de control de torretas centinela
+    .desc = Una interfaz de pared para configurar a distancia los parámetros operativos de las torretas centinela vinculadas.
+    .suffix = SolGov
+ent-WeaponEnergyTurretStatusPanel = panel de estado de torretas centinela
+    .desc = Una interfaz de pared de solo lectura para monitorear las torretas centinela vinculadas y la configuración del panel de control.
+    .suffix = Estado

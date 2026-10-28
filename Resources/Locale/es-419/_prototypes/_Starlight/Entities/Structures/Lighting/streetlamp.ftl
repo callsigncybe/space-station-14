@@ -1,0 +1,15 @@
+ent-LightStreetLamp = farola
+    .desc = Una farola.
+    .suffix = Siempre con energía
+ent-LightStreetLampBroken = farola rota
+    .desc = Una farola rota.
+ent-LightStreetLampUnfinished = farola sin terminar
+    .desc = Una farola parcialmente construida.
+ent-PoweredLightStreetLamp = farola
+    .desc = Una farola.
+ent-PoweredLightStreetLampEmpty = farola
+    .desc = Una farola.
+    .suffix = Vacío
+ent-PoweredLightStreetLampWarm = farola
+    .desc = Una farola.
+    .suffix = Cálida

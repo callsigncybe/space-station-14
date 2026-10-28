@@ -1,0 +1,12 @@
+ent-BannerSGKB = estandarte soviético de la SKB
+    .desc = Implementando los derechos de los trabajadores. Sí, eso lo hacemos en tus estaciones. De nada.
+ent-BannerSNKVD = estandarte soviético de la SNKVD
+    .desc = Un movimiento en falso y estás muerto, camarada. Para siempre.
+ent-BannerSovietHammer = estandarte revolucionario
+    .desc = ¡Se acabaron los días de opresión y del trato injusto a los contratistas! ¡URAA!
+ent-BannerSovietRegular = estandarte de la USSP
+    .desc = Estandarte de los Planetas Socialistas Soviéticos Unidos. Luce el glorioso martillo y la llave inglesa. Símbolos de la industria, el progreso, la fraternidad y de arreglar lo que rompiste.
+ent-BannerWallHammer = estandarte de pared revolucionario
+    .desc = ¡Se acabaron los días de opresión y del trato injusto a los contratistas! ¡URAA!
+ent-BannerWallSoviet = estandarte de pared de la USSP
+    .desc = Estandarte de los Planetas Socialistas Soviéticos Unidos. Cuélgalo. Obedécelo. Intenta no saludarlo por reflejo.

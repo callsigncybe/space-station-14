@@ -1,0 +1,11 @@
+ent-Basketball = pelota de básquetbol
+    .desc = ¿Dónde están las canchas?
+ent-BeachBall = pelota de playa
+    .desc = La simple pelota de playa es uno de los productos más populares de NanoTrasen. "¿Por qué hacemos pelotas de playa? ¡Porque podemos! (TM)" - NanoTrasen
+ent-EvilBeachBall = pelota de playa
+    .desc = Alguien dibujó ">:3c" en el costado de esta pelota de playa con tinta indeleble.
+    .suffix = MALVADA/ADMEME
+ent-Football = pelota de fútbol americano
+    .desc = También conocida como huevo de mano.
+ent-TennisBall = pelota de tenis
+    .desc = Un orbe peludo de traición infinita.

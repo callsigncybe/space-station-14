@@ -1,0 +1,9 @@
+ent-GyroscopeAdmeme = giroscopio sobreajustado
+    .desc = Un giroscopio al que le cortaron los bloqueos del regulador. Zumba de forma ominosa.
+    .suffix = Admeme
+ent-ThrusterAdmeme = propulsor sobreajustado
+    .desc = Un propulsor al que le cortaron los bloqueos del regulador. La tobera está al rojo vivo.
+    .suffix = Admeme
+ent-ThrusterLargeAdmeme = propulsor grande sobreajustado
+    .desc = Un propulsor grande al que le cortaron los bloqueos del regulador. La tobera está al rojo vivo.
+    .suffix = Admeme

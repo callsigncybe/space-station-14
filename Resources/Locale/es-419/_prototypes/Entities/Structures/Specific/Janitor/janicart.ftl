@@ -1,0 +1,10 @@
+ent-JanitorialTrolley = carrito de limpieza
+    .desc = Esto es el alfa y el omega de la higiene.
+ent-MopBucket = balde de trapeador
+    .desc = Contiene agua y las lágrimas del conserje.
+ent-MopBucketCubeWrapped = cubo de balde de trapeador
+    .desc = Desenvuélvelo para obtener un cubo de balde de trapeador.
+    .suffix = Envuelto
+ent-MopBucketFull = balde de trapeador
+    .desc = Contiene agua y las lágrimas del conserje.
+    .suffix = lleno

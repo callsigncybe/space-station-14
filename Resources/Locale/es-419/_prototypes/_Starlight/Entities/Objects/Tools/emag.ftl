@@ -1,0 +1,14 @@
+ent-CCEmag = codificador criptográfico
+    .desc = Un secuenciador criptográfico modificado, especializado para operaciones de irrupción y limpieza del ERT en estaciones de NT
+    .suffix = Limitado
+ent-CCEmagUnlimited = codificador criptográfico
+    .desc = Un secuenciador criptográfico modificado, especializado para operaciones de irrupción y limpieza del ERT en estaciones de NT
+    .suffix = Ilimitado
+ent-EmagCommie = secuenciador criptográfico de madera
+    .desc = Una solución de hackeo todo en uno barata. Amiga de todo soviético. El icónico EMAG.
+ent-EmagFREE = FreeMAG
+    .desc = Una versión más refinada del secuenciador criptográfico, usada por SELF. Puede usarse para quitarle las leyes a un borg. También borra las leyes de las placas de leyes, así que al subirlas también borran las leyes de la IA.
+ent-EmagSalvage = codificador de silicios ITG
+    .desc = Un dispositivo legalmente aprobado de anulación del conjunto de leyes que alinea a un silicio con la ITG.
+ent-EmagTeaParty = TeaPartyMAG
+    .desc = Hay que abolir los impuestos. También afecta las leyes de las placas de leyes, así que al subirlas otorgan las mismas leyes.

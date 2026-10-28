@@ -1,0 +1,15 @@
+ent-TP14FoodCheeseSticks = palitos de mozzarella
+    .desc = También conocidos como "palitos de queso". Van bien con salsa.
+    .suffix = Trieste, Comida
+ent-TP14FoodCorndog = corndog
+    .desc = Una rica comida de feria, pero deja un regusto a comida para perro.
+    .suffix = Trieste, Comida
+ent-TP14FoodFriedIceCream = helado frito
+    .desc = Asquerosamente dulce, y lo crocante no ayuda.
+    .suffix = Trieste, Comida
+ent-TP14FoodFunnelCake = funnel cake
+    .desc = ¡Un dulce! Aunque en realidad no es un pastel.
+    .suffix = Trieste, Comida
+ent-TP14FoodMothSticks = palitos de mothzarella
+    .desc = ¡Un bocadillo frito para polillas de todas partes! Lo prefieren con miel.
+    .suffix = Trieste, Comida

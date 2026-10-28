@@ -1,0 +1,10 @@
+ent-HeadRodentia = cabeza de rodentia
+ent-LeftArmRodentia = brazo izquierdo de rodentia
+ent-LeftFootRodentia = pie izquierdo de rodentia
+ent-LeftHandRodentia = mano izquierda de rodentia
+ent-LeftLegRodentia = pierna izquierda de rodentia
+ent-RightArmRodentia = brazo derecho de rodentia
+ent-RightFootRodentia = pie derecho de rodentia
+ent-RightHandRodentia = mano derecha de rodentia
+ent-RightLegRodentia = pierna derecha de rodentia
+ent-TorsoRodentia = torso de rodentia

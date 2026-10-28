@@ -1,0 +1,17 @@
+ent-Foolbox = caja de tontos
+    .desc = Una caja de herramientas para tontos, provista de equipo de payaso.
+ent-ToolboxArtistic = caja de herramientas artística
+    .desc = Una caja de herramientas que normalmente trae suministros artísticos.
+ent-ToolboxElectrical = caja de herramientas eléctrica
+    .desc = Una caja de herramientas que normalmente trae equipo eléctrico.
+ent-ToolboxElectricalTurret = caja de herramientas eléctrica
+    .desc = Una caja de herramientas que normalmente trae equipo eléctrico.
+    .suffix = Syndicate, torreta
+ent-ToolboxEmergency = caja de herramientas de emergencia
+    .desc = Una caja de herramientas de un rojo brillante, provista de herramientas de emergencia.
+ent-ToolboxGolden = caja de herramientas dorada
+    .desc = Una caja de herramientas de oro macizo. Un rapero mataría por esto.
+ent-ToolboxMechanical = caja de herramientas mecánicas
+    .desc = Una caja azul, provista de herramientas mecánicas.
+ent-ToolboxSyndicate = caja de herramientas sospechosa
+    .desc = Una caja de herramientas de aspecto siniestro llena de herramientas de élite del Syndicate.

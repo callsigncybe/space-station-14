@@ -1,0 +1,12 @@
+ent-MobWatcherIcewing = vigía alahielo
+    .desc = Es como si te mirara a través.
+    .suffix = IA
+ent-MobWatcherLavaland = vigía
+    .desc = Es como si te mirara a través.
+    .suffix = IA
+ent-MobWatcherMagmawing = vigía alamagma
+    .desc = Es como si te mirara a través.
+    .suffix = IA
+ent-MobWatcherPride = vigía orgullo
+    .desc = Esta rara subespecie solo aparece en junio.
+    .suffix = Admeme

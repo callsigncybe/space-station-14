@@ -1,0 +1,10 @@
+ent-BaseMagazineBoxImprovised = caja de munición improvisada (.cualquiera)
+    .desc = Se parece sospechosamente a una caja de cargadores .20 con un dibujo tosco de una bala encima. No se recomienda mezclar munición.
+ent-MagazineBoxImprovisedMagnum = caja de munición improvisada (.45 magnum improvisada)
+    .desc = Se parece sospechosamente a una caja de cargadores .20 con un dibujo tosco de una bala encima. No se recomienda mezclar munición.
+ent-MagazineBoxImprovisedPistol = caja de munición improvisada (.35 auto improvisada)
+    .desc = Se parece sospechosamente a una caja de cargadores .20 con un dibujo tosco de una bala encima. No se recomienda mezclar munición.
+ent-MagazineBoxImprovisedRifle = caja de munición improvisada (.30 rifle improvisada)
+    .desc = Se parece sospechosamente a una caja de cargadores .20 con un dibujo tosco de una bala encima. No se recomienda mezclar munición.
+ent-MagazineBoxImprovisedShotgun = caja de perdigones improvisados calibre 12
+    .desc = Se parece sospechosamente a una caja de cargadores .20 con un dibujo tosco de una bala encima. No se recomienda mezclar munición.

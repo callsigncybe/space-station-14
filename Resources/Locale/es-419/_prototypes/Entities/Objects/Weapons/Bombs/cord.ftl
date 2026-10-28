@@ -1,0 +1,9 @@
+ent-CableDetStack = cordón explosivo
+    .desc = Cordón explosivo para quitar lo que sea que tengas en el camino.
+    .suffix = Llena
+ent-CableDetStack1 = cordón explosivo
+    .desc = Cordón explosivo para quitar lo que sea que tengas en el camino.
+    .suffix = 1
+ent-CableDetStack10 = cordón explosivo
+    .desc = Cordón explosivo para quitar lo que sea que tengas en el camino.
+    .suffix = 10

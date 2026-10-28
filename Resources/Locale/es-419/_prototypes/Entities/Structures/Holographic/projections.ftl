@@ -1,0 +1,10 @@
+ent-HoloFan = holoventilador
+    .desc = Una barrera de luz sólida que bloquea el aire, pero nada más.
+ent-HoloPeel = holocáscara
+    .desc = Una cáscara de banana hecha de luz sólida resbalosa. ¡Cuidado dónde pisas!
+ent-HolosignForcefield = campo de fuerza holográfico
+    .desc = Un poderoso campo de contención temporal que no deja pasar nada, ni siquiera una tesla o una singularidad.
+ent-HolosignSecurity = barrera holográfica
+    .desc = Una barrera de luz sólida que bloquea el paso, pero bastante débil.
+ent-HolosignWetFloor = cartel de piso mojado
+    .desc = Las palabras parpadean como si no significaran nada.

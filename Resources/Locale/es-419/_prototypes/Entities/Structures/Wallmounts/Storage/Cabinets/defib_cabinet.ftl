@@ -1,0 +1,11 @@
+ent-DefibrillatorCabinet = gabinete de desfibrilador
+    .desc = Un pequeño gabinete de pared diseñado para guardar un desfibrilador.
+ent-DefibrillatorCabinetFilled = gabinete de desfibrilador
+    .desc = Un pequeño gabinete de pared diseñado para guardar un desfibrilador.
+    .suffix = Llena
+ent-DefibrillatorCabinetFilledOpen = gabinete de desfibrilador
+    .desc = Un pequeño gabinete de pared diseñado para guardar un desfibrilador.
+    .suffix = Lleno, Abierto
+ent-DefibrillatorCabinetOpen = gabinete de desfibrilador
+    .desc = Un pequeño gabinete de pared diseñado para guardar un desfibrilador.
+    .suffix = Abierto

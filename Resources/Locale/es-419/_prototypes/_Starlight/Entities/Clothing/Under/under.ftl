@@ -1,0 +1,10 @@
+ent-ClothingUnderSocksLittleAngel = medias de angelito
+    .desc = Un par de medias a rayas azules y blancas, ¡combinan con el resto del conjunto!
+ent-ClothingUnderSocksLittleDevil = medias de diablillo
+    .desc = Un par de medias a rayas rojas y negras, ¡combinan con el resto del conjunto!
+ent-ClothingUnderSocksMime = medias de mimo
+    .desc = Acércate en silencio a tu objetivo.
+ent-ClothingUnderSocksStirrup = medias con estribo
+    .desc = Toda la moda, nada de la practicidad.
+ent-ClothingUnderSocksYellow = medias amarillas
+    .desc = Amarillo brillante, pero sin ninguna abeja.

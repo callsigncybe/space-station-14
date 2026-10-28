@@ -1,0 +1,12 @@
+ent-MobCivilian = civil
+    .desc = Un miserable montón de secretos.
+ent-MobCluwne = persona
+    .desc = Un desafortunado polimorfado.
+ent-MobSalvager = salvador
+ent-MobSpirate = spirata
+    .desc = ¡Yarr!
+ent-MobSyndicateFootsoldier = soldado del Syndicate
+ent-MobSyndicateFootsoldierPilot = piloto de shuttle del Syndicate
+ent-SalvageHumanCorpse = cadáver no identificado
+    .desc = Creo que está muerto.
+    .suffix = Muerto

@@ -1,0 +1,12 @@
+ent-ActionPolymorphJaunt = Paseo etéreo
+    .desc = ¡Fúndete en el plano etéreo para una huida rápida!
+ent-ActionPolymorphJauntII = Paseo etéreo II
+    .desc = ¡Fúndete en el plano etéreo para una huida aún más rápida!
+ent-ActionPolymorphJauntIII = Paseo etéreo III
+    .desc = ¿Acaso sigues siendo tangible?
+ent-ActionPolymorphWizardRod = Forma de vara
+    .desc = ¡CLANG!
+ent-ActionPolymorphWizardSpider = Polimorfia de araña
+    .desc = Te transforma en una araña.
+ent-ActionRevertPolymorph = Revertir
+    .desc = Vuelve a tu forma original.

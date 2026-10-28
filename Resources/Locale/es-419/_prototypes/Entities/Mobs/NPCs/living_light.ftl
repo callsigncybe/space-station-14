@@ -1,0 +1,15 @@
+ent-MobLuminousEntity = entidad luminosa
+    .desc = Una entidad translúcida y cegadora; el ojo brillante parece peligroso y abrasador.
+ent-MobLuminousEntitySalvage = entidad luminosa
+    .desc = Una entidad translúcida y cegadora; el ojo brillante parece peligroso y abrasador.
+    .suffix = Regla de salvamento
+ent-MobLuminousObject = objeto luminoso
+    .desc = Un pequeño objeto brillante que con su resplandor causa quemaduras en la piel.
+ent-MobLuminousObjectSalvage = objeto luminoso
+    .desc = Un pequeño objeto brillante que con su resplandor causa quemaduras en la piel.
+    .suffix = Regla de salvamento
+ent-MobLuminousPerson = persona luminosa
+    .desc = Una figura cegadora de luz pura, aparentemente intangible.
+ent-MobLuminousPersonSalvage = persona luminosa
+    .desc = Una figura cegadora de luz pura, aparentemente intangible.
+    .suffix = Regla de salvamento

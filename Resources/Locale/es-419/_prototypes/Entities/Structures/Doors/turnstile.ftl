@@ -1,0 +1,16 @@
+ent-DoorElectronicsGenpopEnter = electrónica de puerta
+    .desc = Una placa electrónica usada en puertas y esclusas.
+    .suffix = Electrónica
+ent-DoorElectronicsGenpopLeave = electrónica de puerta
+    .desc = Una placa electrónica usada en puertas y esclusas.
+    .suffix = Electrónica
+ent-Turnstile = torniquete
+    .desc = Una puerta mecánica que permite el acceso en un solo sentido y evita que se cuelen detrás de ti.
+ent-TurnstileAssembly = ensamblaje de torniquete
+    .desc = Un ensamblaje de torniquete sin terminar.
+ent-TurnstileGenpopEnter = torniquete
+    .desc = Una puerta mecánica que permite el acceso en un solo sentido y evita que se cuelen detrás de ti.
+    .suffix = Genpop Entrada
+ent-TurnstileGenpopLeave = torniquete
+    .desc = Una puerta mecánica que permite el acceso en un solo sentido y evita que se cuelen detrás de ti.
+    .suffix = Genpop Salida

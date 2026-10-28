@@ -1,0 +1,12 @@
+ent-CCBartenderSpawnerPostRound = generador de bartender de CentCom
+    .suffix = Fin de ronda
+ent-CCChefSpawnerPostRound = generador de chef de CentCom
+    .suffix = Fin de ronda
+ent-CCJanitorSpawnerPostRound = generador de conserje de CentCom
+    .suffix = Fin de ronda
+ent-CCServiceWorkerSpawnerPostRound = generador de trabajador de servicio de CentCom
+    .suffix = Fin de ronda
+ent-MobHumanCCBartenderEOR = bartender de CentCom
+ent-MobHumanCCChefEOR = chef de CentCom
+ent-MobHumanCCJanitorEOR = conserje de CentCom
+ent-MobHumanCCServiceWorkerEOR = trabajador de servicio de CentCom

@@ -1,0 +1,10 @@
+ent-ClothingHeadHatHoodCorpsman = capucha del corpsman
+    .desc = Una capucha hecha para mantener tu cabeza abrigada.
+ent-ClothingHeadHatHoodWinterChemSenior = capucha de abrigo de invierno de químico sénior
+    .desc = Una capucha hecha para mantener tu cabeza abrigada.
+ent-ClothingHeadHatHoodWinterDutyOfficer = capucha de abrigo de oficial de guardia
+    .desc = Una capucha hecha para mantener tu cabeza abrigada.
+ent-ClothingHeadHatHoodWinterRoboAlt = capucha de abrigo de invierno blanco de robótica
+    .desc = Una capucha hecha para mantener tu cabeza abrigada.
+ent-ClothingHeadHatHoodWinterSeniorCourier = capucha de abrigo de invierno formal de carga
+    .desc = Una capucha hecha para mantener tu cabeza abrigada.

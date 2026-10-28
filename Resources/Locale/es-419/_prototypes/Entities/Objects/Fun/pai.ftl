@@ -1,0 +1,16 @@
+ent-ActionPAIMassScanner = Escáner de masa
+    .desc = Ver una interfaz de escáner de masa.
+ent-ActionPAIOpenMap = Abrir mapa
+    .desc = Abre tu interfaz de mapa y guía a tu dueño.
+ent-ActionPAIOpenShop = Catálogo de software
+    .desc = Instala software nuevo para ayudar a tu dueño.
+ent-ActionPAIPlayMidi = Tocar MIDI
+    .desc = Abre tu interfaz MIDI portátil para calmar a tu dueño.
+ent-GoldenPersonalAI = dispositivo de IA personal dorado
+    .desc = ¡Tu amigo electrónico con el que es divertido estar! ¡Edición dorada especial!
+ent-PersonalAI = dispositivo de IA personal
+    .desc = ¡Tu amigo electrónico con el que es divertido estar!
+ent-PotatoAI = inteligencia artificial papa
+    .desc = Es una papa. La obligaste a ser consciente, monstruo.
+ent-SyndicatePersonalAI = dispositivo de IA personal del Syndicate
+    .desc = ¡Tu amigo del Syndicate con el que es divertido estar!

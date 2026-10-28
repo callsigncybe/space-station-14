@@ -1,0 +1,10 @@
+ent-HeadMoth = cabeza de polilla
+ent-LeftArmMoth = brazo izquierdo de polilla
+ent-LeftFootMoth = pie izquierdo de polilla
+ent-LeftHandMoth = mano izquierda de polilla
+ent-LeftLegMoth = pierna izquierda de polilla
+ent-RightArmMoth = brazo derecho de polilla
+ent-RightFootMoth = pie derecho de polilla
+ent-RightHandMoth = mano derecha de polilla
+ent-RightLegMoth = pierna derecha de polilla
+ent-TorsoMoth = torso de polilla

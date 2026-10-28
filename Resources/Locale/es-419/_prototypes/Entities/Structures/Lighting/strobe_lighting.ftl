@@ -1,0 +1,15 @@
+ent-AlwaysPoweredStrobeLight = luz estroboscópica
+    .desc = ¡¿EH?! ¡Perdón, solo escucho UIU-UIU-UIU!
+    .suffix = Siempre encendida
+ent-PoweredStrobeLightEmpty = luz estroboscópica
+    .desc = ¡¿EH?! ¡Perdón, solo escucho UIU-UIU-UIU!
+    .suffix = Vacío
+ent-PoweredStrobeLightEpsilon = luz estroboscópica
+    .desc = ¡¿EH?! ¡Perdón, solo escucho UIU-UIU-UIU!
+    .suffix = Vacía, épsilon
+ent-PoweredStrobeLightPolice = luz estroboscópica
+    .desc = ¡¿EH?! ¡Perdón, solo escucho UIU-UIU-UIU!
+    .suffix = Vacía, policía
+ent-PoweredStrobeLightSiren = luz estroboscópica
+    .desc = ¡¿EH?! ¡Perdón, solo escucho UIU-UIU-UIU!
+    .suffix = Vacía, sirena

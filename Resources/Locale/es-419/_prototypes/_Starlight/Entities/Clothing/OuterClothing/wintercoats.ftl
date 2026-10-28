@@ -1,0 +1,11 @@
+ent-ClothingOuterWinterCapUnarmored = abrigo de invierno del capitán
+    .desc = Un abrigo resistente, un abrigo abrigado, pero no un abrigo blindado.
+    .suffix = Sin blindaje
+ent-ClothingOuterWinterCargoSenior = abrigo de invierno formal de carga
+    .desc = Una chaqueta gruesa hecha de pieles de animal 'sintéticas'.
+ent-ClothingOuterWinterChemSenior = abrigo de invierno de químico sénior
+    .desc = Una chaqueta gruesa hecha de pieles de animal 'sintéticas'.
+ent-ClothingOuterWinterDutyOfficer = abrigo de invierno blindado de oficial de guardia
+    .desc = Un abrigo de invierno resistente y utilitario, diseñado para proteger a un oficial de guardia de cualquier prisionero perma insolente.
+ent-ClothingOuterWinterRoboAlt = abrigo de invierno blanco de robótica
+    .desc = Una chaqueta gruesa hecha de pieles de animal 'sintéticas'.

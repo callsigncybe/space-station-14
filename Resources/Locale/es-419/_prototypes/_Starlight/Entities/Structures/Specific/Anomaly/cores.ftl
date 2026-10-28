@@ -1,0 +1,15 @@
+ent-AnomalyCoreBanana = núcleo de anomalía
+    .desc = El núcleo de un objeto incomprensible destruido.
+    .suffix = Banana
+ent-AnomalyCoreBananaInert = núcleo de anomalía
+    .desc = El núcleo de un objeto incomprensible destruido.
+    .suffix = Banana, Inerte
+ent-AnomalyCoreClown = núcleo de anomalía
+    .desc = El núcleo de una anomalía payaso destruida. Emana la esencia más pura de la Honkmother.
+    .suffix = Payaso
+ent-AnomalyCoreClownInert = núcleo de anomalía
+    .desc = El núcleo inerte de una anomalía payaso destruida. Emana la esencia más pura de la Honkmother.
+    .suffix = Payaso, Inerte
+ent-CraftingAnomalyCoreShadow = núcleo de anomalía de sombra
+    .desc = El núcleo de un objeto incomprensible destruido.
+    .suffix = Sombra

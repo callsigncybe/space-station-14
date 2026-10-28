@@ -1,0 +1,15 @@
+ent-MobHumanLoneNuclearOperative = Operativo solitario
+ent-MobHumanNukeOp = Nuclear Operative
+ent-MobHumanSyndicateAgent = agente del Syndicate
+    .suffix = Humano, Traitor
+ent-MobHumanSyndicateAgentBase = agente del Syndicate
+    .suffix = Humano, Base
+ent-MobHumanSyndicateAgentMedic = médico del Syndicate
+    .suffix = Humano, Traitor
+ent-MobHumanSyndicateAgentNukeops = agente del Syndicate
+    .suffix = Humano, NukeOps
+ent-MobHumanSyndicateAgentSpy = espía del Syndicate
+    .suffix = Humano, Traitor
+ent-MobHumanSyndicateAgentThief = ladrón del Syndicate
+    .suffix = Humano, Traitor
+ent-MobHumanWizard = Mago

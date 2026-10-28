@@ -1,0 +1,17 @@
+ent-CrowbarInvisible = palanca invisible
+    .desc = ¿Para qué llorar lágrimas silenciosas si puedes hacer palanca?
+ent-MultitoolInvisible = multitool invisible
+    .desc = Pulso, pulso, pulso... espera, ¿no se suponía que era silencioso?
+ent-ScrewdriverInvisible = destornillador invisible
+    .desc = Adelante. Abre el panel de mantenimiento invisible.
+ent-ToolboxInvisible = caja de herramientas invisible
+    .desc = ¡El contenedor invisible perfecto para guardar tu equipo invisible!
+ent-ToolboxInvisibleFilled = caja de herramientas invisible
+    .desc = ¡El contenedor invisible perfecto para guardar tu equipo invisible!
+    .suffix = Llena
+ent-WelderInvisible = soldador invisible
+    .desc = Aunque sea invisible, igual necesitas protección ocular. De alguna forma.
+ent-WirecuttersInvisible = pinza cortacables invisible
+    .desc = ¡El equipo invisible perfecto para cortar esos feos cables de esa puerta invisible! Aislamiento no incluido.
+ent-WrenchInvisible = llave inglesa invisible
+    .desc = ¡Impresiona a todos anclando esa máquina invisible!

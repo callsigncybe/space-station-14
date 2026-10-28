@@ -1,0 +1,11 @@
+ent-Flash = flash
+    .desc = Una lámpara de flash ultrabrillante con gatillo, que deja a la víctima aturdida y sin vista por un momento. Inútil cuando se quema.
+ent-PortableFlasher = flasher portátil
+    .desc = Un flash ultrabrillante con activador de proximidad, útil para dejar un área solo para Seguridad.
+ent-SciFlash = flash
+    .desc = Una lámpara de flash ultrabrillante con gatillo, que deja a la víctima aturdida y sin vista por un momento. Inútil cuando se quema.
+    .suffix = 2 cargas
+ent-Stunbaton = porra aturdidora
+    .desc = Una porra aturdidora para incapacitar a la gente. Hacer daño activamente con ella se considera de mal gusto.
+ent-Truncheon = cachiporra
+    .desc = Una porra rígida con tachas de acero, hecha para lastimar.

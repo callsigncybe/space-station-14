@@ -1,0 +1,11 @@
+ent-Magic9Ball = bola 9 mágica
+    .desc = Una fuente infinita de sabiduría... ¡Ahora con parlante incluido!
+ent-PonderingOrb = orbe de reflexión
+    .desc = Profundo, viejo... Muy profundo.
+ent-PonderingOrbWizard = orbe de reflexión
+    .desc = Profundo, viejo... Muy profundo. Muestra mágicamente la red de cámaras de la estación.
+    .suffix = Mago
+ent-SingularityToy = juguete marca singuloth
+    .desc = ¡Producido en masa por un conglomerado corporativo sádico!
+ent-TeslaToy = Teddy Tesla
+    .desc = El juguete favorito del gran ingeniero Nikola Tesla.

@@ -1,0 +1,16 @@
+ent-TableAbductor = mesa alienígena
+    .desc = Literalmente lo más resistente que has visto en tu vida.
+ent-TableCounterRetroDiner = mostrador retro de diner
+    .desc = Parece un buen lugar para apoyar un trago.
+ent-TableCounterRetroKitchen = mostrador de cocina retro
+    .desc = Parece un buen lugar para apoyar un trago.
+ent-TableCounterRetroSteel = mostrador retro de acero
+    .desc = Parece un buen lugar para apoyar un trago.
+ent-TableCounterRetroSteelWood = mostrador retro de acero y madera
+    .desc = Parece un buen lugar para apoyar un trago.
+ent-TableCounterRetroWhiteOrange = mostrador retro blanco y naranja
+    .desc = Parece un buen lugar para apoyar un trago.
+ent-TableCounterRetroWhiteTeal = mostrador retro blanco y verde azulado
+    .desc = Parece un buen lugar para apoyar un trago.
+ent-TableCounterRetroWood = mostrador retro de madera
+    .desc = Parece un buen lugar para apoyar un trago.

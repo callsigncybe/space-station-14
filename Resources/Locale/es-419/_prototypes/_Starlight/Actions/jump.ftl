@@ -1,0 +1,14 @@
+ent-Jump = Saltar
+    .desc = Saltas en la dirección elegida.
+ent-JumpCat = Saltar
+    .desc = Saltas en la dirección elegida.
+ent-JumpJet = Saltar
+    .desc = Saltas en la dirección elegida.
+ent-JumpJetNoMoles = Saltar
+    .desc = Saltas en la dirección elegida.
+ent-JumpMoth = Saltar
+    .desc = Saltas en la dirección elegida.
+ent-JumpPilebunkerLeg = Saltar
+    .desc = Saltas en la dirección elegida.
+ent-JumpResomi = Saltar
+    .desc = Saltas en la dirección elegida.

@@ -1,0 +1,10 @@
+ent-SpeedLoaderMagnumAP = cargador rápido (.45 magnum AP)
+    .desc = Diseñado para cargar rápidamente hasta seis balas .45 magnum en un revólver vacío. Pensado para munición perforante especializada.
+ent-SpeedLoaderMagnumEmpty = cargador rápido (.45 magnum cualquiera)
+    .desc = Diseñado para cargar rápidamente hasta seis balas .45 magnum en un revólver vacío.
+    .suffix = vacío
+ent-SpeedLoaderMagnumIncendiary = cargador rápido (.45 magnum incendiario)
+ent-SpeedLoaderMagnumPractice = cargador rápido (.45 magnum de práctica)
+    .desc = Diseñado para cargar rápidamente hasta seis balas .45 magnum en un revólver vacío. Pensado para munición de práctica inofensiva.
+ent-SpeedLoaderMagnumUranium = cargador rápido (.45 magnum de uranio)
+    .desc = Diseñado para cargar rápidamente hasta seis balas .45 magnum en un revólver vacío. Pensado para munición exótica con núcleo de uranio.

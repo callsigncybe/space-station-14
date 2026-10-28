@@ -1,0 +1,15 @@
+ent-CrateArmoryAdvancedRestraints = cajón de inmovilizadores avanzados
+    .desc = Para los prisioneros más molestos.
+    .suffix = Segura
+ent-CrateArmoryCombatShotgun = cajón de escopetas de combate
+    .desc = Contiene dos escopetas de combate automáticas, con dos cajas de munición adicionales. Requiere acceso a Armería para abrirse.
+    .suffix = Segura
+ent-CrateArmoryLr30 = cajón de lr30
+    .desc = Contiene dos armas de energía automáticas LR-30, con dos cargadores adicionales. Requiere acceso a Armería para abrirse.
+    .suffix = Segura
+ent-CrateArmoryLr30Magazines = cajón de cargadores de lr30
+    .desc = Contiene seis cargadores para el arma de energía LR-30. Requiere acceso a Armería para abrirse.
+    .suffix = Segura
+ent-CrateArmoryMelee = cajón de armas cuerpo a cuerpo de la armería
+    .desc = Un cajón con una lanza táctica y una espada corta.
+    .suffix = Segura

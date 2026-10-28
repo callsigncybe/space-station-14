@@ -1,0 +1,15 @@
+ent-ReinforcementRadioSyndicate = radio de refuerzos del Syndicate
+    .desc = ¡Llama a un agente del Syndicate de calidad dudosa, al instante!
+ent-ReinforcementRadioSyndicateAncestor = radio de refuerzos ancestrales genéticos del Syndicate
+    .desc = Llama a un ancestro especialmente entrenado de tu elección para que te ayude.
+ent-ReinforcementRadioSyndicateAncestorNukeops = radio de refuerzos ancestrales genéticos del Syndicate
+    .desc = Llama a un ancestro especialmente entrenado de tu elección para que te ayude.
+    .suffix = NukeOps
+ent-ReinforcementRadioSyndicateCyborgAssault = radio de refuerzos de cyborg de asalto del Syndicate
+    .desc = ¡Llama a un cyborg de asalto bien armado, al instante!
+    .suffix = NukeOps
+ent-ReinforcementRadioSyndicateNukeops = radio de operativo nuclear
+    .desc = ¡Llama a un operativo nuclear de calidad dudosa, al instante! Incluye equipo básico de nukie.
+    .suffix = NukeOps
+ent-ReinforcementRadioSyndicateSyndiCat = radio de refuerzos syndigatos
+    .desc = Llama a un gato fielmente entrenado con una microbomba para que te ayude.

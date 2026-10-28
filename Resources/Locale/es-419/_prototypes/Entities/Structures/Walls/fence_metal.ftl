@@ -1,0 +1,13 @@
+ent-FenceMetalBroken = cerca de malla rota
+    .desc = Alguien se enojó mucho con un objeto inanimado.
+ent-FenceMetalCorner = cerca de malla
+    .desc = Un tramo de cerca metálica que acordona algo probablemente muy importante.
+    .suffix = Esquina
+ent-FenceMetalEnd = cerca de malla
+    .desc = Un tramo de cerca metálica que acordona algo probablemente muy importante.
+    .suffix = Extremo
+ent-FenceMetalGate = portón de cerca de malla
+    .desc = Podrías usar la puerta en lugar de saltar por encima... si eres un COBARDE, claro.
+ent-FenceMetalStraight = cerca de malla
+    .desc = Un tramo de cerca metálica que acordona algo probablemente muy importante.
+    .suffix = Recta
